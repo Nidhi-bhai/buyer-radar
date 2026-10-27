@@ -1,0 +1,972 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+3 0 obj
+<< /Length 3799 >>
+stream
+BT
+/F2 11 Tf
+54 738 Td
+/F2 11 Tf (BuyerRadar report: Extra virgin olive oil) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Query: extra virgin olive oil) Tj
+0 -12 Td
+/F1 9 Tf (Industry: Extra virgin olive oil \(`extra-virgin-olive-oil`\)) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Extra virgin olive oil sold to grocery wholesalers, supermarkets, and specialty importers.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (How the scores work) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Each channel is scored from 1 to 5 on Money \(budget\), Authority \(who can say yes\), and Need) Tj
+0 -12 Td
+/F1 9 Tf (\(fit with this product\). The total is the sum, out of 15.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Ties break by Money, then Authority, then Need, then channel type \(importing country, buyer) Tj
+0 -12 Td
+/F1 9 Tf (type, trade show, job title, marketplace, RFQ board, community\), then name.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Scores on curated channels are editorial judgments explained in the reason and tied to a) Tj
+0 -12 Td
+/F1 9 Tf (public page \(a NAICS title, an O*NET occupation, a fair, a marketplace, or a community\).) Tj
+0 -12 Td
+/F1 9 Tf (They are not measurements.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Importing-country Money is not editorial. Rank 1 in the Comtrade response scores 5, ranks) Tj
+0 -12 Td
+/F1 9 Tf (2-3 score 4, ranks 4-10 score 3. Authority is 4 because importers in that country hold the) Tj
+0 -12 Td
+/F1 9 Tf (order. Need is 5, 4, or 3 according to whether the HS heading is specific, close, or a broad) Tj
+0 -12 Td
+/F1 9 Tf (basket. The dollar figure is the unmodified primaryValue literal.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (Trade data) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (HS 150920 is extra virgin olive oil and its fractions. Other virgin olive oil \(150930\) and) Tj
+0 -12 Td
+/F1 9 Tf (non-virgin olive oil \(150990\) are separate headings and are not included.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- HS code: 150920) Tj
+0 -12 Td
+/F1 9 Tf (- Official description: Vegetable oils; olive oil and its fractions, extra virgin olive oil,) Tj
+0 -12 Td
+/F1 9 Tf (whether or not refined, but not chemically modified) Tj
+0 -12 Td
+/F1 9 Tf (- Flow: Import \(flowCode M\), partner World) Tj
+0 -12 Td
+/F1 9 Tf (- Period: 2024) Tj
+0 -12 Td
+/F1 9 Tf (- Retrieved: 2026-10-27) Tj
+0 -12 Td
+/F1 9 Tf (- Reporters stored: 130) Tj
+0 -12 Td
+/F1 9 Tf (- API count: 130) Tj
+0 -12 Td
+/F1 9 Tf (- Preview complete: yes, count matched stored rows and was under 500) Tj
+0 -12 Td
+/F1 9 Tf (- Query:) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=150920&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
+/F1 9 Tf (- API documentation: https://uncomtrade.org/docs/un-comtrade-api/) Tj
+0 -12 Td
+/F1 9 Tf (- Database: https://comtradeplus.un.org/) Tj
+0 -12 Td
+/F1 9 Tf (- HS nomenclature: World Customs Organization - HS Nomenclature 2022 edition -) Tj
+0 -12 Td
+/F1 9 Tf (https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools/hs-nomenclature-2022-edition.aspx) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (Ranked channels) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (The free tier of the site shows the first 5. This file is the full list, with an outreach) Tj
+0 -12 Td
+/F1 9 Tf (angle on every channel.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (1. Other Grocery and Related Products Merchant Wholesalers) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Buyer company type) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 14 / 15) Tj
+ET
+BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 1 of 8  |  Built by Nidhi Karuturi) Tj ET
+endstream
+endobj
+4 0 obj
+<< /Length 4127 >>
+stream
+BT
+/F2 11 Tf
+54 738 Td
+/F1 9 Tf (- Link: https://www.census.gov/naics/?input=424490&year=2022&details=424490) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (NAICS 424490 grocery wholesalers supply olive oil to retailers and food service. Money is 5) Tj
+0 -12 Td
+/F1 9 Tf (because oil is a stocked, repeating line. Authority is 4. Need is 5 because extra virgin) Tj
+0 -12 Td
+/F1 9 Tf (olive oil is a defined grocery product and this HS code names that grade.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Send the harvest year, acidity you can document, pack \(bottle, tin, or bulk\), and) Tj
+0 -12 Td
+/F1 9 Tf (a price per case. Ask which origin they are long on.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: U.S. Census Bureau, NAICS 2022, 424490 - Other Grocery and Related Products Merchant) Tj
+0 -12 Td
+/F1 9 Tf (Wholesalers - https://www.census.gov/naics/?input=424490&year=2022&details=424490) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (2. Anuga) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Trade show) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 14 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link: https://www.anuga.com/) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Anuga is a primary European meeting place for olive-oil importers and retailers. Money is 5.) Tj
+0 -12 Td
+/F1 9 Tf (Authority is 4. Need is 5.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Taste only the lot you can document as extra virgin. Book buyers who already have) Tj
+0 -12 Td
+/F1 9 Tf (an oil set and ask which origin they need for the next private label.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: Anuga - https://www.anuga.com/) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (3. Italy - reported imports of HS 150920) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Importing country) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 14 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link:) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=150920&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
+/F1 9 Tf (- primaryValue USD: 2643704910.959) Tj
+0 -12 Td
+/F1 9 Tf (- primaryValue with separators: 2,643,704,910.959) Tj
+0 -12 Td
+/F1 9 Tf (- Quantity: 324401188.0 kg) Tj
+0 -12 Td
+/F1 9 Tf (- Rank among reporters: 1 of 130 in the stored Comtrade response) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Italy reported primaryValue 2643704910.959 USD \(shown with separators as 2,643,704,910.959\)) Tj
+0 -12 Td
+/F1 9 Tf (for HS 150920 imports from the world in 2024. That number is the UN Comtrade public-preview) Tj
+0 -12 Td
+/F1 9 Tf (CIF primary value for partner World. Reported quantity: 324,401,188.0 kg \(quantity not) Tj
+0 -12 Td
+/F1 9 Tf (flagged as estimated\). Money is 5 because this reporter ranks 1 of 130 reporters in that) Tj
+0 -12 Td
+/F1 9 Tf (response by primaryValue. Authority is 4 because the country is where the buyers are:) Tj
+0 -12 Td
+/F1 9 Tf (importers and distributors there hold the purchase order, and the country itself does not.) Tj
+0 -12 Td
+/F1 9 Tf (Need is 5. The official heading names this product, so the import value is a direct Comtrade) Tj
+0 -12 Td
+/F1 9 Tf (measure of recorded trade in it. Official commodity description: Vegetable oils; olive oil) Tj
+0 -12 Td
+/F1 9 Tf (and its fractions, extra virgin olive oil, whether or not refined, but not chemically) Tj
+0 -12 Td
+/F1 9 Tf (modified. The preview count matched the rows stored \(130\), under the 500-row cap.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Do not email a country. Use Italy as a map: find importers there that already) Tj
+0 -12 Td
+/F1 9 Tf (clear HS 150920 and open with the Comtrade fact that Italy reported primaryValue) Tj
+0 -12 Td
+/F1 9 Tf (2643704910.959 USD of this heading in 2024. Offer a first-container spec sheet, not a) Tj
+ET
+BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 2 of 8  |  Built by Nidhi Karuturi) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Length 3365 >>
+stream
+BT
+/F2 11 Tf
+54 738 Td
+/F1 9 Tf (market-size story.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: UN Comtrade public preview API, HS 150920, 2024 imports from World -) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=150920&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (4. Wholesale and Retail Buyers, Except Farm Products) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Job title) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 14 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link: https://www.onetonline.org/link/summary/13-1022.00) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (O*NET 13-1022.00 buyers choose finished grocery lines. Money is 4. Authority is 5. Need is 5) Tj
+0 -12 Td
+/F1 9 Tf (because bottled or tinned extra virgin oil is a finished good.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Lead with pack, origin, and margin. Put the farm story under the spec.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: O*NET OnLine 13-1022.00 - Wholesale and Retail Buyers, Except Farm Products -) Tj
+0 -12 Td
+/F1 9 Tf (https://www.onetonline.org/link/summary/13-1022.00) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (5. Purchasing Managers) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Job title) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 13 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link: https://www.onetonline.org/link/summary/11-3061.00) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (O*NET 11-3061.00 Purchasing Managers at importers and retailers approve the oil vendor.) Tj
+0 -12 Td
+/F1 9 Tf (Money is 4. Authority is 5. Need is 4.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Ask for the quality file they require \(acidity, peroxides, sensory\) and send only) Tj
+0 -12 Td
+/F1 9 Tf (that.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: O*NET OnLine 11-3061.00 - Purchasing Managers -) Tj
+0 -12 Td
+/F1 9 Tf (https://www.onetonline.org/link/summary/11-3061.00) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (6. Supermarkets and Other Grocery Retailers \(except Convenience Retailers\)) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Buyer company type) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 13 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link: https://www.census.gov/naics/?input=445110&year=2022&details=445110) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (NAICS 445110 supermarkets range olive oil as a category. Money is 4 because a listing is) Tj
+0 -12 Td
+/F1 9 Tf (valuable and slow. Authority is 4. Need is 5.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Offer one hero bottle and a food-service tin only if the same buyer asked for) Tj
+0 -12 Td
+/F1 9 Tf (both. Ask for the category review month.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: U.S. Census Bureau, NAICS 2022, 445110 - Supermarkets and Other Grocery Retailers) Tj
+0 -12 Td
+/F1 9 Tf (\(except Convenience Retailers\) -) Tj
+ET
+BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 3 of 8  |  Built by Nidhi Karuturi) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Length 4496 >>
+stream
+BT
+/F2 11 Tf
+54 738 Td
+/F1 9 Tf (https://www.census.gov/naics/?input=445110&year=2022&details=445110) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (7. Spain - reported imports of HS 150920) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Importing country) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 13 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link:) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=150920&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
+/F1 9 Tf (- primaryValue USD: 929252338.242) Tj
+0 -12 Td
+/F1 9 Tf (- primaryValue with separators: 929,252,338.242) Tj
+0 -12 Td
+/F1 9 Tf (- Quantity: 127562244.853 kg) Tj
+0 -12 Td
+/F1 9 Tf (- Rank among reporters: 3 of 130 in the stored Comtrade response) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Spain reported primaryValue 929252338.242 USD \(shown with separators as 929,252,338.242\) for) Tj
+0 -12 Td
+/F1 9 Tf (HS 150920 imports from the world in 2024. That number is the UN Comtrade public-preview CIF) Tj
+0 -12 Td
+/F1 9 Tf (primary value for partner World. Reported quantity: 127,562,244.853 kg \(quantity not flagged) Tj
+0 -12 Td
+/F1 9 Tf (as estimated\). Money is 4 because this reporter ranks 3 of 130 reporters in that response by) Tj
+0 -12 Td
+/F1 9 Tf (primaryValue. Authority is 4 because the country is where the buyers are: importers and) Tj
+0 -12 Td
+/F1 9 Tf (distributors there hold the purchase order, and the country itself does not. Need is 5. The) Tj
+0 -12 Td
+/F1 9 Tf (official heading names this product, so the import value is a direct Comtrade measure of) Tj
+0 -12 Td
+/F1 9 Tf (recorded trade in it. Official commodity description: Vegetable oils; olive oil and its) Tj
+0 -12 Td
+/F1 9 Tf (fractions, extra virgin olive oil, whether or not refined, but not chemically modified. The) Tj
+0 -12 Td
+/F1 9 Tf (preview count matched the rows stored \(130\), under the 500-row cap.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Do not email a country. Use Spain as a map: find importers there that already) Tj
+0 -12 Td
+/F1 9 Tf (clear HS 150920 and open with the Comtrade fact that Spain reported primaryValue) Tj
+0 -12 Td
+/F1 9 Tf (929252338.242 USD of this heading in 2024. Offer a first-container spec sheet, not a) Tj
+0 -12 Td
+/F1 9 Tf (market-size story.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: UN Comtrade public preview API, HS 150920, 2024 imports from World -) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=150920&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (8. USA - reported imports of HS 150920) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Importing country) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 13 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link:) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=150920&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
+/F1 9 Tf (- primaryValue USD: 2533467851.0) Tj
+0 -12 Td
+/F1 9 Tf (- primaryValue with separators: 2,533,467,851.0) Tj
+0 -12 Td
+/F1 9 Tf (- Quantity: 271555985.0 kg) Tj
+0 -12 Td
+/F1 9 Tf (- Rank among reporters: 2 of 130 in the stored Comtrade response) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (USA reported primaryValue 2533467851.0 USD \(shown with separators as 2,533,467,851.0\) for HS) Tj
+0 -12 Td
+/F1 9 Tf (150920 imports from the world in 2024. That number is the UN Comtrade public-preview CIF) Tj
+0 -12 Td
+/F1 9 Tf (primary value for partner World. Reported quantity: 271,555,985.0 kg \(quantity not flagged) Tj
+0 -12 Td
+/F1 9 Tf (as estimated\). Money is 4 because this reporter ranks 2 of 130 reporters in that response by) Tj
+0 -12 Td
+/F1 9 Tf (primaryValue. Authority is 4 because the country is where the buyers are: importers and) Tj
+0 -12 Td
+/F1 9 Tf (distributors there hold the purchase order, and the country itself does not. Need is 5. The) Tj
+0 -12 Td
+/F1 9 Tf (official heading names this product, so the import value is a direct Comtrade measure of) Tj
+0 -12 Td
+/F1 9 Tf (recorded trade in it. Official commodity description: Vegetable oils; olive oil and its) Tj
+ET
+BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 4 of 8  |  Built by Nidhi Karuturi) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Length 3620 >>
+stream
+BT
+/F2 11 Tf
+54 738 Td
+/F1 9 Tf (fractions, extra virgin olive oil, whether or not refined, but not chemically modified. The) Tj
+0 -12 Td
+/F1 9 Tf (preview count matched the rows stored \(130\), under the 500-row cap.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Do not email a country. Use USA as a map: find importers there that already clear) Tj
+0 -12 Td
+/F1 9 Tf (HS 150920 and open with the Comtrade fact that USA reported primaryValue 2533467851.0 USD of) Tj
+0 -12 Td
+/F1 9 Tf (this heading in 2024. Offer a first-container spec sheet, not a market-size story.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: UN Comtrade public preview API, HS 150920, 2024 imports from World -) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=150920&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (9. RangeMe) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Marketplace) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 12 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link: https://www.rangeme.com/) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (RangeMe submits packaged foods to retail buyers. Money is 4. Authority is 4. Need is 4) Tj
+0 -12 Td
+/F1 9 Tf (because a bottled extra virgin oil is a normal grocery submission, and a bulk flexitank is) Tj
+0 -12 Td
+/F1 9 Tf (not.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Submit the retail bottle. Keep bulk oil in a direct offer to an importer.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: RangeMe - https://www.rangeme.com/) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (10. North American Olive Oil Association) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Community) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 3 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 12 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link: https://www.aboutoliveoil.org/) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (The North American Olive Oil Association \(aboutoliveoil.org\) represents olive-oil companies) Tj
+0 -12 Td
+/F1 9 Tf (in the North American market, including importers. Money is 4 because member firms buy and) Tj
+0 -12 Td
+/F1 9 Tf (market oil. Authority is 3 because the association does not issue your purchase order. Need) Tj
+0 -12 Td
+/F1 9 Tf (is 5 because extra virgin olive oil is the product the association is named for.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Use the association to identify North American importers, then write to the buyer) Tj
+0 -12 Td
+/F1 9 Tf (with a chemistry panel and the lot you can ship this harvest.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: North American Olive Oil Association - https://www.aboutoliveoil.org/) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (11. Brazil - reported imports of HS 150920) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Importing country) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 3 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 12 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link:) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=150920&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
+/F1 9 Tf (- primaryValue USD: 671061343.0) Tj
+0 -12 Td
+/F1 9 Tf (- primaryValue with separators: 671,061,343.0) Tj
+ET
+BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 5 of 8  |  Built by Nidhi Karuturi) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Length 4796 >>
+stream
+BT
+/F2 11 Tf
+54 738 Td
+/F1 9 Tf (- Quantity: 65028288.0 kg) Tj
+0 -12 Td
+/F1 9 Tf (- Rank among reporters: 5 of 130 in the stored Comtrade response) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Brazil reported primaryValue 671061343.0 USD \(shown with separators as 671,061,343.0\) for HS) Tj
+0 -12 Td
+/F1 9 Tf (150920 imports from the world in 2024. That number is the UN Comtrade public-preview CIF) Tj
+0 -12 Td
+/F1 9 Tf (primary value for partner World. Reported quantity: 65,028,288.0 kg \(quantity not flagged as) Tj
+0 -12 Td
+/F1 9 Tf (estimated\). Money is 3 because this reporter ranks 5 of 130 reporters in that response by) Tj
+0 -12 Td
+/F1 9 Tf (primaryValue. Authority is 4 because the country is where the buyers are: importers and) Tj
+0 -12 Td
+/F1 9 Tf (distributors there hold the purchase order, and the country itself does not. Need is 5. The) Tj
+0 -12 Td
+/F1 9 Tf (official heading names this product, so the import value is a direct Comtrade measure of) Tj
+0 -12 Td
+/F1 9 Tf (recorded trade in it. Official commodity description: Vegetable oils; olive oil and its) Tj
+0 -12 Td
+/F1 9 Tf (fractions, extra virgin olive oil, whether or not refined, but not chemically modified. The) Tj
+0 -12 Td
+/F1 9 Tf (preview count matched the rows stored \(130\), under the 500-row cap.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Do not email a country. Use Brazil as a map: find importers there that already) Tj
+0 -12 Td
+/F1 9 Tf (clear HS 150920 and open with the Comtrade fact that Brazil reported primaryValue) Tj
+0 -12 Td
+/F1 9 Tf (671061343.0 USD of this heading in 2024. Offer a first-container spec sheet, not a) Tj
+0 -12 Td
+/F1 9 Tf (market-size story.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: UN Comtrade public preview API, HS 150920, 2024 imports from World -) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=150920&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (12. France - reported imports of HS 150920) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Importing country) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 3 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 12 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link:) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=150920&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
+/F1 9 Tf (- primaryValue USD: 739273724.168) Tj
+0 -12 Td
+/F1 9 Tf (- primaryValue with separators: 739,273,724.168) Tj
+0 -12 Td
+/F1 9 Tf (- Quantity: 80382956.786 kg \(estimated flag\)) Tj
+0 -12 Td
+/F1 9 Tf (- Rank among reporters: 4 of 130 in the stored Comtrade response) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (France reported primaryValue 739273724.168 USD \(shown with separators as 739,273,724.168\)) Tj
+0 -12 Td
+/F1 9 Tf (for HS 150920 imports from the world in 2024. That number is the UN Comtrade public-preview) Tj
+0 -12 Td
+/F1 9 Tf (CIF primary value for partner World. Reported quantity: 80,382,956.786 kg \(Comtrade flagged) Tj
+0 -12 Td
+/F1 9 Tf (the quantity as estimated\). Money is 3 because this reporter ranks 4 of 130 reporters in) Tj
+0 -12 Td
+/F1 9 Tf (that response by primaryValue. Authority is 4 because the country is where the buyers are:) Tj
+0 -12 Td
+/F1 9 Tf (importers and distributors there hold the purchase order, and the country itself does not.) Tj
+0 -12 Td
+/F1 9 Tf (Need is 5. The official heading names this product, so the import value is a direct Comtrade) Tj
+0 -12 Td
+/F1 9 Tf (measure of recorded trade in it. Official commodity description: Vegetable oils; olive oil) Tj
+0 -12 Td
+/F1 9 Tf (and its fractions, extra virgin olive oil, whether or not refined, but not chemically) Tj
+0 -12 Td
+/F1 9 Tf (modified. The preview count matched the rows stored \(130\), under the 500-row cap.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Do not email a country. Use France as a map: find importers there that already) Tj
+0 -12 Td
+/F1 9 Tf (clear HS 150920 and open with the Comtrade fact that France reported primaryValue) Tj
+0 -12 Td
+/F1 9 Tf (739273724.168 USD of this heading in 2024. Offer a first-container spec sheet, not a) Tj
+0 -12 Td
+/F1 9 Tf (market-size story.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: UN Comtrade public preview API, HS 150920, 2024 imports from World -) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=150920&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (13. Germany - reported imports of HS 150920) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+ET
+BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 6 of 8  |  Built by Nidhi Karuturi) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Length 3832 >>
+stream
+BT
+/F2 11 Tf
+54 738 Td
+/F1 9 Tf (- Type: Importing country) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 3 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 12 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link:) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=150920&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
+/F1 9 Tf (- primaryValue USD: 609926935.02) Tj
+0 -12 Td
+/F1 9 Tf (- primaryValue with separators: 609,926,935.02) Tj
+0 -12 Td
+/F1 9 Tf (- Quantity: 57223786.388 kg \(estimated flag\)) Tj
+0 -12 Td
+/F1 9 Tf (- Rank among reporters: 6 of 130 in the stored Comtrade response) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Germany reported primaryValue 609926935.02 USD \(shown with separators as 609,926,935.02\) for) Tj
+0 -12 Td
+/F1 9 Tf (HS 150920 imports from the world in 2024. That number is the UN Comtrade public-preview CIF) Tj
+0 -12 Td
+/F1 9 Tf (primary value for partner World. Reported quantity: 57,223,786.388 kg \(Comtrade flagged the) Tj
+0 -12 Td
+/F1 9 Tf (quantity as estimated\). Money is 3 because this reporter ranks 6 of 130 reporters in that) Tj
+0 -12 Td
+/F1 9 Tf (response by primaryValue. Authority is 4 because the country is where the buyers are:) Tj
+0 -12 Td
+/F1 9 Tf (importers and distributors there hold the purchase order, and the country itself does not.) Tj
+0 -12 Td
+/F1 9 Tf (Need is 5. The official heading names this product, so the import value is a direct Comtrade) Tj
+0 -12 Td
+/F1 9 Tf (measure of recorded trade in it. Official commodity description: Vegetable oils; olive oil) Tj
+0 -12 Td
+/F1 9 Tf (and its fractions, extra virgin olive oil, whether or not refined, but not chemically) Tj
+0 -12 Td
+/F1 9 Tf (modified. The preview count matched the rows stored \(130\), under the 500-row cap.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Do not email a country. Use Germany as a map: find importers there that already) Tj
+0 -12 Td
+/F1 9 Tf (clear HS 150920 and open with the Comtrade fact that Germany reported primaryValue) Tj
+0 -12 Td
+/F1 9 Tf (609926935.02 USD of this heading in 2024. Offer a first-container spec sheet, not a) Tj
+0 -12 Td
+/F1 9 Tf (market-size story.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: UN Comtrade public preview API, HS 150920, 2024 imports from World -) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=150920&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (14. Alibaba.com) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Marketplace) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 3 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 2 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 3 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 8 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link: https://www.alibaba.com/) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Alibaba lists olive oil, and branded extra virgin business is full of grade disputes. Money) Tj
+0 -12 Td
+/F1 9 Tf (is 3. Authority is 2. Need is 3.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: If you list it, publish the grade and a recent panel. Do not ship against an) Tj
+0 -12 Td
+/F1 9 Tf (inquiry that says only 'olive oil'.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: Alibaba.com - https://www.alibaba.com/) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (15. International Olive Council) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Community) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 2 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 2 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 8 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link: https://www.internationaloliveoil.org/) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+ET
+BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 7 of 8  |  Built by Nidhi Karuturi) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Length 1404 >>
+stream
+BT
+/F2 11 Tf
+54 738 Td
+/F1 9 Tf (The International Olive Council \(internationaloliveoil.org\) is the intergovernmental) Tj
+0 -12 Td
+/F1 9 Tf (olive-oil body. Money is 2 because it does not import oil. Authority is 2. Need is 4 because) Tj
+0 -12 Td
+/F1 9 Tf (its standards and member list tell you how extra virgin is defined and which countries sit) Tj
+0 -12 Td
+/F1 9 Tf (in the trade.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Use the Council for the grade definition and the member map. Pitch an importer,) Tj
+0 -12 Td
+/F1 9 Tf (not the Council.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: International Olive Council - https://www.internationaloliveoil.org/) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (Limits) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Editorial scores are judgments, not statistics. Every trade dollar in this report is a UN) Tj
+0 -12 Td
+/F1 9 Tf (Comtrade primaryValue literal from the query above. BuyerRadar did not estimate a market) Tj
+0 -12 Td
+/F1 9 Tf (size, a growth rate, or a buyer count. A static site cannot check a PayPal payment on a) Tj
+0 -12 Td
+/F1 9 Tf (server; the button is the PayPal Smart Buttons client flow.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Built by Nidhi Karuturi - https://github.com/Nidhi-bhai) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+ET
+BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 8 of 8  |  Built by Nidhi Karuturi) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Type /Pages /Count 8 /Kids [12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R] >>
+endobj
+12 0 obj
+<< /Type /Page /Parent 11 0 R /MediaBox [0 0 612 792] /Contents 3 0 R /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> >>
+endobj
+13 0 obj
+<< /Type /Page /Parent 11 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> >>
+endobj
+14 0 obj
+<< /Type /Page /Parent 11 0 R /MediaBox [0 0 612 792] /Contents 5 0 R /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> >>
+endobj
+15 0 obj
+<< /Type /Page /Parent 11 0 R /MediaBox [0 0 612 792] /Contents 6 0 R /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> >>
+endobj
+16 0 obj
+<< /Type /Page /Parent 11 0 R /MediaBox [0 0 612 792] /Contents 7 0 R /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> >>
+endobj
+17 0 obj
+<< /Type /Page /Parent 11 0 R /MediaBox [0 0 612 792] /Contents 8 0 R /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> >>
+endobj
+18 0 obj
+<< /Type /Page /Parent 11 0 R /MediaBox [0 0 612 792] /Contents 9 0 R /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> >>
+endobj
+19 0 obj
+<< /Type /Page /Parent 11 0 R /MediaBox [0 0 612 792] /Contents 10 0 R /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> >>
+endobj
+20 0 obj
+<< /Type /Catalog /Pages 11 0 R >>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000000009 00000 n 
+0000000106 00000 n 
+0000000208 00000 n 
+0000004058 00000 n 
+0000008236 00000 n 
+0000011652 00000 n 
+0000016199 00000 n 
+0000019870 00000 n 
+0000024717 00000 n 
+0000028600 00000 n 
+0000030056 00000 n 
+0000030164 00000 n 
+0000030302 00000 n 
+0000030440 00000 n 
+0000030578 00000 n 
+0000030716 00000 n 
+0000030854 00000 n 
+0000030992 00000 n 
+0000031130 00000 n 
+0000031269 00000 n 
+trailer << /Size 21 /Root 20 0 R >>
+startxref
+31320
+%%EOF

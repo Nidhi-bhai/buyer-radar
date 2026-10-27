@@ -1,0 +1,1066 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+3 0 obj
+<< /Length 4018 >>
+stream
+BT
+/F2 11 Tf
+54 738 Td
+/F2 11 Tf (BuyerRadar report: Moringa powder) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Query: moringa powder) Tj
+0 -12 Td
+/F1 9 Tf (Industry: Moringa powder \(`moringa-powder`\)) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Dried moringa leaf, milled for supplement brands and herbal manufacturers. The trade heading) Tj
+0 -12 Td
+/F1 9 Tf (used here is broader than moringa, and the report says so next to every country figure.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (How the scores work) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Each channel is scored from 1 to 5 on Money \(budget\), Authority \(who can say yes\), and Need) Tj
+0 -12 Td
+/F1 9 Tf (\(fit with this product\). The total is the sum, out of 15.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Ties break by Money, then Authority, then Need, then channel type \(importing country, buyer) Tj
+0 -12 Td
+/F1 9 Tf (type, trade show, job title, marketplace, RFQ board, community\), then name.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Scores on curated channels are editorial judgments explained in the reason and tied to a) Tj
+0 -12 Td
+/F1 9 Tf (public page \(a NAICS title, an O*NET occupation, a fair, a marketplace, or a community\).) Tj
+0 -12 Td
+/F1 9 Tf (They are not measurements.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Importing-country Money is not editorial. Rank 1 in the Comtrade response scores 5, ranks) Tj
+0 -12 Td
+/F1 9 Tf (2-3 score 4, ranks 4-10 score 3. Authority is 4 because importers in that country hold the) Tj
+0 -12 Td
+/F1 9 Tf (order. Need is 5, 4, or 3 according to whether the HS heading is specific, close, or a broad) Tj
+0 -12 Td
+/F1 9 Tf (basket. The dollar figure is the unmodified primaryValue literal.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (Trade data) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Moringa leaf powder is commonly declared under HS 121190 \(bills of lading often show a) Tj
+0 -12 Td
+/F1 9 Tf (national split such as 12119029\). Comtrade's heading also covers other plants used in) Tj
+0 -12 Td
+/F1 9 Tf (pharmacy, perfumery, or as insecticides. Country dollars below are for that whole heading.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- HS code: 121190) Tj
+0 -12 Td
+/F1 9 Tf (- Official description: Plants and parts \(including seeds and fruits\) n.e.c. in heading no.) Tj
+0 -12 Td
+/F1 9 Tf (1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or) Tj
+0 -12 Td
+/F1 9 Tf (similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered) Tj
+0 -12 Td
+/F1 9 Tf (- Flow: Import \(flowCode M\), partner World) Tj
+0 -12 Td
+/F1 9 Tf (- Period: 2024) Tj
+0 -12 Td
+/F1 9 Tf (- Retrieved: 2026-10-27) Tj
+0 -12 Td
+/F1 9 Tf (- Reporters stored: 147) Tj
+0 -12 Td
+/F1 9 Tf (- API count: 147) Tj
+0 -12 Td
+/F1 9 Tf (- Preview complete: yes, count matched stored rows and was under 500) Tj
+0 -12 Td
+/F1 9 Tf (- Query:) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=121190&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
+/F1 9 Tf (- API documentation: https://uncomtrade.org/docs/un-comtrade-api/) Tj
+0 -12 Td
+/F1 9 Tf (- Database: https://comtradeplus.un.org/) Tj
+0 -12 Td
+/F1 9 Tf (- HS nomenclature: World Customs Organization - HS Nomenclature 2022 edition -) Tj
+0 -12 Td
+/F1 9 Tf (https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools/hs-nomenclature-2022-edition.aspx) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (Ranked channels) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (The free tier of the site shows the first 5. This file is the full list, with an outreach) Tj
+0 -12 Td
+/F1 9 Tf (angle on every channel.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (1. Medicinal and Botanical Manufacturing) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Buyer company type) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 5 / 5) Tj
+ET
+BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 1 of 9  |  Built by Nidhi Karuturi) Tj ET
+endstream
+endobj
+4 0 obj
+<< /Length 4045 >>
+stream
+BT
+/F2 11 Tf
+54 738 Td
+/F1 9 Tf (- Authority: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 14 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link: https://www.census.gov/naics/?input=325411&year=2022&details=325411) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (NAICS 325411 is Medicinal and Botanical Manufacturing: plants that make products from) Tj
+0 -12 Td
+/F1 9 Tf (botanicals. Money is 5 because they buy ingredients by the drum or the container, not the) Tj
+0 -12 Td
+/F1 9 Tf (jar. Authority is 4 because purchasing and the technical manager can approve a new botanical) Tj
+0 -12 Td
+/F1 9 Tf (if the spec and the file pass. Need is 5 because moringa leaf powder is a botanical) Tj
+0 -12 Td
+/F1 9 Tf (ingredient, which is what this industry exists to process.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Open with a spec the lab can file: mesh, moisture, microbial limits, heavy metals,) Tj
+0 -12 Td
+/F1 9 Tf (and the organic or conventional certificate you actually hold. Offer a paid sample and a) Tj
+0 -12 Td
+/F1 9 Tf (price for the first 500 kg, and ask which botanical failed their last incoming inspection.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: U.S. Census Bureau, NAICS 2022, 325411 - Medicinal and Botanical Manufacturing -) Tj
+0 -12 Td
+/F1 9 Tf (https://www.census.gov/naics/?input=325411&year=2022&details=325411) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (2. BioFach) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Trade show) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 14 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link: https://www.biofach.de/en) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (BioFach \(biofach.de\) is the organic food and natural-products fair in Nuremberg. Money is 5) Tj
+0 -12 Td
+/F1 9 Tf (because importers attend with a budget for the next season's ingredients. Authority is 4) Tj
+0 -12 Td
+/F1 9 Tf (because owners and purchasing leads walk this show, not only scouts. Need is 5 because) Tj
+0 -12 Td
+/F1 9 Tf (organic moringa powder is sold in the botanical aisle this fair is known for.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Book a meeting before the show with buyers who already list a green botanical.) Tj
+0 -12 Td
+/F1 9 Tf (Bring tins of the actual mesh you ship and a one-page COA. Ask what they are short of after) Tj
+0 -12 Td
+/F1 9 Tf (the last African and Indian crop, and do not open with a market-size slide.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: BioFach - https://www.biofach.de/en) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (3. Drugs and Druggists' Sundries Merchant Wholesalers) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Buyer company type) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 13 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link: https://www.census.gov/naics/?input=424210&year=2022&details=424210) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (NAICS 424210 covers wholesalers of drugs and druggists' sundries, the firms that move) Tj
+0 -12 Td
+/F1 9 Tf (supplements toward pharmacies and practitioners. Money is 5 because wholesale buying is a) Tj
+0 -12 Td
+/F1 9 Tf (stocked line, not a one-off. Authority is 4 because a category buyer can add a bulk) Tj
+0 -12 Td
+/F1 9 Tf (ingredient or a branded tub. Need is 4 because many of these houses buy finished supplements) Tj
+0 -12 Td
+/F1 9 Tf (rather than raw leaf powder, so the fit is real and not automatic.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Ask whether they buy bulk botanicals or only finished SKUs. If they buy bulk, lead) Tj
+0 -12 Td
+/F1 9 Tf (with a COA and a landed price. If they buy brands, send a retail-ready offer with case pack) Tj
+0 -12 Td
+/F1 9 Tf (and shelf life instead of a commodity quote.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+ET
+BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 2 of 9  |  Built by Nidhi Karuturi) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Length 3704 >>
+stream
+BT
+/F2 11 Tf
+54 738 Td
+/F1 9 Tf (Source: U.S. Census Bureau, NAICS 2022, 424210 - Drugs and Druggists' Sundries Merchant) Tj
+0 -12 Td
+/F1 9 Tf (Wholesalers - https://www.census.gov/naics/?input=424210&year=2022&details=424210) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (4. Purchasing Managers) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Job title) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 13 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link: https://www.onetonline.org/link/summary/11-3061.00) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (O*NET OnLine lists 11-3061.00 Purchasing Managers as its own occupation. Money is 4 because) Tj
+0 -12 Td
+/F1 9 Tf (the job exists to spend a supply budget. Authority is 5 because this is the person who can) Tj
+0 -12 Td
+/F1 9 Tf (commit the company to a supplier. Need is 4 because moringa powder is an ingredient) Tj
+0 -12 Td
+/F1 9 Tf (purchase, though not every purchasing manager buys botanicals.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Use the title in the greeting and attach a spec, not a brand story. Ask what the) Tj
+0 -12 Td
+/F1 9 Tf (current botanical failed on: color, plate count, or paperwork.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: O*NET OnLine 11-3061.00 - Purchasing Managers -) Tj
+0 -12 Td
+/F1 9 Tf (https://www.onetonline.org/link/summary/11-3061.00) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (5. SupplySide Global) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Trade show) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 13 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link: https://www.supplysideglobal.com/) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (SupplySide Global \(supplysideglobal.com\) is the ingredient show for supplement and food) Tj
+0 -12 Td
+/F1 9 Tf (formulators. Money is 4 because brand owners and contract manufacturers compare ingredients) Tj
+0 -12 Td
+/F1 9 Tf (there with real annual volumes. Authority is 4 because formulation and purchasing both) Tj
+0 -12 Td
+/F1 9 Tf (attend. Need is 5 because moringa powder is pitched as a supplement ingredient, which is the) Tj
+0 -12 Td
+/F1 9 Tf (show's subject.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Lead with the claim you can support on the label in their country, the dose used) Tj
+0 -12 Td
+/F1 9 Tf (in products already on shelf, and your lot-to-lot color. Ask for the formulation calendar,) Tj
+0 -12 Td
+/F1 9 Tf (not a catalog download.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: SupplySide Global - https://www.supplysideglobal.com/) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (6. Purchasing Agents, Except Wholesale, Retail, and Farm Products) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Job title) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 13 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link: https://www.onetonline.org/link/summary/13-1023.00) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (O*NET 13-1023.00 is Purchasing Agents, Except Wholesale, Retail, and Farm Products: the) Tj
+0 -12 Td
+/F1 9 Tf (buyers inside manufacturing plants. Money is 4 because they place production orders.) Tj
+0 -12 Td
+/F1 9 Tf (Authority is 4 because they can recommend and often issue the order, with a manager) Tj
+0 -12 Td
+/F1 9 Tf (countersigning a new vendor. Need is 5 because a botanical manufacturer buys moringa powder) Tj
+ET
+BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 3 of 9  |  Built by Nidhi Karuturi) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Length 4262 >>
+stream
+BT
+/F2 11 Tf
+54 738 Td
+/F1 9 Tf (as a production input, which is this occupation's work.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Send the vendor packet their plant already uses: W-9 or company registration,) Tj
+0 -12 Td
+/F1 9 Tf (spec, allergen statement, and a sample lot number. Ask for the approved-vendor checklist) Tj
+0 -12 Td
+/F1 9 Tf (rather than a tasting.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: O*NET OnLine 13-1023.00 - Purchasing Agents, Except Wholesale, Retail, and Farm) Tj
+0 -12 Td
+/F1 9 Tf (Products - https://www.onetonline.org/link/summary/13-1023.00) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (7. USA - reported imports of HS 121190) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Importing country) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 3 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 12 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link:) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=121190&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
+/F1 9 Tf (- primaryValue USD: 533185340.0) Tj
+0 -12 Td
+/F1 9 Tf (- primaryValue with separators: 533,185,340.0) Tj
+0 -12 Td
+/F1 9 Tf (- Quantity: 86662417.0 kg) Tj
+0 -12 Td
+/F1 9 Tf (- Rank among reporters: 1 of 147 in the stored Comtrade response) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (USA reported primaryValue 533185340.0 USD \(shown with separators as 533,185,340.0\) for HS) Tj
+0 -12 Td
+/F1 9 Tf (121190 imports from the world in 2024. That number is the UN Comtrade public-preview CIF) Tj
+0 -12 Td
+/F1 9 Tf (primary value for partner World. Reported quantity: 86,662,417.0 kg \(quantity not flagged as) Tj
+0 -12 Td
+/F1 9 Tf (estimated\). Money is 5 because this reporter ranks 1 of 147 reporters in that response by) Tj
+0 -12 Td
+/F1 9 Tf (primaryValue. Authority is 4 because the country is where the buyers are: importers and) Tj
+0 -12 Td
+/F1 9 Tf (distributors there hold the purchase order, and the country itself does not. Need is 3. This) Tj
+0 -12 Td
+/F1 9 Tf (heading is a basket shared with other products. The dollars are real for the heading and are) Tj
+0 -12 Td
+/F1 9 Tf (not a measure of this product alone. Official commodity description: Plants and parts) Tj
+0 -12 Td
+/F1 9 Tf (\(including seeds and fruits\) n.e.c. in heading no. 1211, of a kind used primarily in) Tj
+0 -12 Td
+/F1 9 Tf (perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled,) Tj
+0 -12 Td
+/F1 9 Tf (frozen or dried, whether or not cut, crushed or powdered. The preview count matched the rows) Tj
+0 -12 Td
+/F1 9 Tf (stored \(147\), under the 500-row cap.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Do not email a country. Use USA as a map: find importers there that already clear) Tj
+0 -12 Td
+/F1 9 Tf (HS 121190 and open with the Comtrade fact that USA reported primaryValue 533185340.0 USD of) Tj
+0 -12 Td
+/F1 9 Tf (this heading in 2024. Offer a first-container spec sheet, not a market-size story.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: UN Comtrade public preview API, HS 121190, 2024 imports from World -) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=121190&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (8. Germany - reported imports of HS 121190) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Importing country) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 3 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 11 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link:) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=121190&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
+/F1 9 Tf (- primaryValue USD: 520523364.352) Tj
+0 -12 Td
+/F1 9 Tf (- primaryValue with separators: 520,523,364.352) Tj
+0 -12 Td
+/F1 9 Tf (- Quantity: 68115256.015 kg \(estimated flag\)) Tj
+0 -12 Td
+/F1 9 Tf (- Rank among reporters: 2 of 147 in the stored Comtrade response) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+ET
+BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 4 of 9  |  Built by Nidhi Karuturi) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Length 4994 >>
+stream
+BT
+/F2 11 Tf
+54 738 Td
+/F1 9 Tf (Germany reported primaryValue 520523364.352 USD \(shown with separators as 520,523,364.352\)) Tj
+0 -12 Td
+/F1 9 Tf (for HS 121190 imports from the world in 2024. That number is the UN Comtrade public-preview) Tj
+0 -12 Td
+/F1 9 Tf (CIF primary value for partner World. Reported quantity: 68,115,256.015 kg \(Comtrade flagged) Tj
+0 -12 Td
+/F1 9 Tf (the quantity as estimated\). Money is 4 because this reporter ranks 2 of 147 reporters in) Tj
+0 -12 Td
+/F1 9 Tf (that response by primaryValue. Authority is 4 because the country is where the buyers are:) Tj
+0 -12 Td
+/F1 9 Tf (importers and distributors there hold the purchase order, and the country itself does not.) Tj
+0 -12 Td
+/F1 9 Tf (Need is 3. This heading is a basket shared with other products. The dollars are real for the) Tj
+0 -12 Td
+/F1 9 Tf (heading and are not a measure of this product alone. Official commodity description: Plants) Tj
+0 -12 Td
+/F1 9 Tf (and parts \(including seeds and fruits\) n.e.c. in heading no. 1211, of a kind used primarily) Tj
+0 -12 Td
+/F1 9 Tf (in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh,) Tj
+0 -12 Td
+/F1 9 Tf (chilled, frozen or dried, whether or not cut, crushed or powdered. The preview count matched) Tj
+0 -12 Td
+/F1 9 Tf (the rows stored \(147\), under the 500-row cap.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Do not email a country. Use Germany as a map: find importers there that already) Tj
+0 -12 Td
+/F1 9 Tf (clear HS 121190 and open with the Comtrade fact that Germany reported primaryValue) Tj
+0 -12 Td
+/F1 9 Tf (520523364.352 USD of this heading in 2024. Offer a first-container spec sheet, not a) Tj
+0 -12 Td
+/F1 9 Tf (market-size story.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: UN Comtrade public preview API, HS 121190, 2024 imports from World -) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=121190&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (9. Japan - reported imports of HS 121190) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Importing country) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 3 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 11 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link:) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=121190&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
+/F1 9 Tf (- primaryValue USD: 287756367.857) Tj
+0 -12 Td
+/F1 9 Tf (- primaryValue with separators: 287,756,367.857) Tj
+0 -12 Td
+/F1 9 Tf (- Quantity: 30935623.686 kg \(estimated flag\)) Tj
+0 -12 Td
+/F1 9 Tf (- Rank among reporters: 3 of 147 in the stored Comtrade response) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Japan reported primaryValue 287756367.857 USD \(shown with separators as 287,756,367.857\) for) Tj
+0 -12 Td
+/F1 9 Tf (HS 121190 imports from the world in 2024. That number is the UN Comtrade public-preview CIF) Tj
+0 -12 Td
+/F1 9 Tf (primary value for partner World. Reported quantity: 30,935,623.686 kg \(Comtrade flagged the) Tj
+0 -12 Td
+/F1 9 Tf (quantity as estimated\). Money is 4 because this reporter ranks 3 of 147 reporters in that) Tj
+0 -12 Td
+/F1 9 Tf (response by primaryValue. Authority is 4 because the country is where the buyers are:) Tj
+0 -12 Td
+/F1 9 Tf (importers and distributors there hold the purchase order, and the country itself does not.) Tj
+0 -12 Td
+/F1 9 Tf (Need is 3. This heading is a basket shared with other products. The dollars are real for the) Tj
+0 -12 Td
+/F1 9 Tf (heading and are not a measure of this product alone. Official commodity description: Plants) Tj
+0 -12 Td
+/F1 9 Tf (and parts \(including seeds and fruits\) n.e.c. in heading no. 1211, of a kind used primarily) Tj
+0 -12 Td
+/F1 9 Tf (in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh,) Tj
+0 -12 Td
+/F1 9 Tf (chilled, frozen or dried, whether or not cut, crushed or powdered. The preview count matched) Tj
+0 -12 Td
+/F1 9 Tf (the rows stored \(147\), under the 500-row cap.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Do not email a country. Use Japan as a map: find importers there that already) Tj
+0 -12 Td
+/F1 9 Tf (clear HS 121190 and open with the Comtrade fact that Japan reported primaryValue) Tj
+0 -12 Td
+/F1 9 Tf (287756367.857 USD of this heading in 2024. Offer a first-container spec sheet, not a) Tj
+0 -12 Td
+/F1 9 Tf (market-size story.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: UN Comtrade public preview API, HS 121190, 2024 imports from World -) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=121190&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (10. Alibaba.com) Tj
+ET
+BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 5 of 9  |  Built by Nidhi Karuturi) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Length 3580 >>
+stream
+BT
+/F2 11 Tf
+54 738 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Marketplace) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 3 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 11 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link: https://www.alibaba.com/) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Alibaba.com is a public B2B marketplace where buyers request bulk ingredients. Money is 4) Tj
+0 -12 Td
+/F1 9 Tf (because inquiries are often commercial quantities. Authority is 3 because the person behind) Tj
+0 -12 Td
+/F1 9 Tf (an inquiry is sometimes a trader and sometimes a manufacturer, and you cannot tell until you) Tj
+0 -12 Td
+/F1 9 Tf (ask. Need is 4 because moringa powder is actively listed there, alongside many look-alike) Tj
+0 -12 Td
+/F1 9 Tf (grades.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Answer only inquiries that name a quantity, a destination port, and a spec. Reply) Tj
+0 -12 Td
+/F1 9 Tf (with mesh, moisture, and a photo of the lot, and ask who the end manufacturer is before you) Tj
+0 -12 Td
+/F1 9 Tf (discount.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: Alibaba.com - https://www.alibaba.com/) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (11. Alibaba Sourcing) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: RFQ board) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 3 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 11 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link: https://sourcing.alibaba.com/) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Alibaba Sourcing \(sourcing.alibaba.com\) is the public request-for-quotation side of Alibaba.) Tj
+0 -12 Td
+/F1 9 Tf (Money is 4 when the request states a real quantity. Authority is 3 because the poster may be) Tj
+0 -12 Td
+/F1 9 Tf (an agent. Need is 4 because buyers do post for botanical powders, and many posts are too) Tj
+0 -12 Td
+/F1 9 Tf (vague to price.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Bid only when the RFQ names mesh or a use \(capsules, drink mix, extract\). State) Tj
+0 -12 Td
+/F1 9 Tf (MOQ and origin in the first line so a serious buyer can forward it internally.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: Alibaba Sourcing - https://sourcing.alibaba.com/) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (12. American Herbal Products Association) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Community) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 3 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 3 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 11 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link: https://www.ahpa.org/) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (AHPA \(ahpa.org\) is the American Herbal Products Association, whose members make and sell) Tj
+0 -12 Td
+/F1 9 Tf (herbal products. Money is 3 because the association is not the buyer; its member companies) Tj
+0 -12 Td
+/F1 9 Tf (are. Authority is 3 because a staff introduction can reach purchasing, and a cold post will) Tj
+0 -12 Td
+/F1 9 Tf (not. Need is 5 because moringa leaf is an herbal ingredient of the kind this membership) Tj
+0 -12 Td
+/F1 9 Tf (handles.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Use AHPA's public member directions only within their stated rules. When you reach) Tj
+0 -12 Td
+/F1 9 Tf (a member company, write to purchasing with the contaminant spec AHPA's audience already) Tj
+0 -12 Td
+/F1 9 Tf (argues about: identity, microbes, and heavy metals.) Tj
+ET
+BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 6 of 9  |  Built by Nidhi Karuturi) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Length 4407 >>
+stream
+BT
+/F2 11 Tf
+54 738 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: American Herbal Products Association - https://www.ahpa.org/) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (13. Australia - reported imports of HS 121190) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Importing country) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 3 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 3 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 10 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link:) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=121190&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
+/F1 9 Tf (- primaryValue USD: 189899191.798) Tj
+0 -12 Td
+/F1 9 Tf (- primaryValue with separators: 189,899,191.798) Tj
+0 -12 Td
+/F1 9 Tf (- Quantity: 5001082.0 kg) Tj
+0 -12 Td
+/F1 9 Tf (- Rank among reporters: 5 of 147 in the stored Comtrade response) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Australia reported primaryValue 189899191.798 USD \(shown with separators as 189,899,191.798\)) Tj
+0 -12 Td
+/F1 9 Tf (for HS 121190 imports from the world in 2024. That number is the UN Comtrade public-preview) Tj
+0 -12 Td
+/F1 9 Tf (CIF primary value for partner World. Reported quantity: 5,001,082.0 kg \(quantity not flagged) Tj
+0 -12 Td
+/F1 9 Tf (as estimated\). Money is 3 because this reporter ranks 5 of 147 reporters in that response by) Tj
+0 -12 Td
+/F1 9 Tf (primaryValue. Authority is 4 because the country is where the buyers are: importers and) Tj
+0 -12 Td
+/F1 9 Tf (distributors there hold the purchase order, and the country itself does not. Need is 3. This) Tj
+0 -12 Td
+/F1 9 Tf (heading is a basket shared with other products. The dollars are real for the heading and are) Tj
+0 -12 Td
+/F1 9 Tf (not a measure of this product alone. Official commodity description: Plants and parts) Tj
+0 -12 Td
+/F1 9 Tf (\(including seeds and fruits\) n.e.c. in heading no. 1211, of a kind used primarily in) Tj
+0 -12 Td
+/F1 9 Tf (perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled,) Tj
+0 -12 Td
+/F1 9 Tf (frozen or dried, whether or not cut, crushed or powdered. The preview count matched the rows) Tj
+0 -12 Td
+/F1 9 Tf (stored \(147\), under the 500-row cap.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Do not email a country. Use Australia as a map: find importers there that already) Tj
+0 -12 Td
+/F1 9 Tf (clear HS 121190 and open with the Comtrade fact that Australia reported primaryValue) Tj
+0 -12 Td
+/F1 9 Tf (189899191.798 USD of this heading in 2024. Offer a first-container spec sheet, not a) Tj
+0 -12 Td
+/F1 9 Tf (market-size story.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: UN Comtrade public preview API, HS 121190, 2024 imports from World -) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=121190&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (14. China - reported imports of HS 121190) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Importing country) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 3 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 3 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 10 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link:) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=121190&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
+/F1 9 Tf (- primaryValue USD: 237991616.0) Tj
+0 -12 Td
+/F1 9 Tf (- primaryValue with separators: 237,991,616.0) Tj
+0 -12 Td
+/F1 9 Tf (- Quantity: 219827914.129 kg \(estimated flag\)) Tj
+0 -12 Td
+/F1 9 Tf (- Rank among reporters: 4 of 147 in the stored Comtrade response) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (China reported primaryValue 237991616.0 USD \(shown with separators as 237,991,616.0\) for HS) Tj
+0 -12 Td
+/F1 9 Tf (121190 imports from the world in 2024. That number is the UN Comtrade public-preview CIF) Tj
+0 -12 Td
+/F1 9 Tf (primary value for partner World. Reported quantity: 219,827,914.129 kg \(Comtrade flagged the) Tj
+0 -12 Td
+/F1 9 Tf (quantity as estimated\). Money is 3 because this reporter ranks 4 of 147 reporters in that) Tj
+0 -12 Td
+/F1 9 Tf (response by primaryValue. Authority is 4 because the country is where the buyers are:) Tj
+ET
+BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 7 of 9  |  Built by Nidhi Karuturi) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Length 4854 >>
+stream
+BT
+/F2 11 Tf
+54 738 Td
+/F1 9 Tf (importers and distributors there hold the purchase order, and the country itself does not.) Tj
+0 -12 Td
+/F1 9 Tf (Need is 3. This heading is a basket shared with other products. The dollars are real for the) Tj
+0 -12 Td
+/F1 9 Tf (heading and are not a measure of this product alone. Official commodity description: Plants) Tj
+0 -12 Td
+/F1 9 Tf (and parts \(including seeds and fruits\) n.e.c. in heading no. 1211, of a kind used primarily) Tj
+0 -12 Td
+/F1 9 Tf (in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh,) Tj
+0 -12 Td
+/F1 9 Tf (chilled, frozen or dried, whether or not cut, crushed or powdered. The preview count matched) Tj
+0 -12 Td
+/F1 9 Tf (the rows stored \(147\), under the 500-row cap.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Do not email a country. Use China as a map: find importers there that already) Tj
+0 -12 Td
+/F1 9 Tf (clear HS 121190 and open with the Comtrade fact that China reported primaryValue 237991616.0) Tj
+0 -12 Td
+/F1 9 Tf (USD of this heading in 2024. Offer a first-container spec sheet, not a market-size story.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: UN Comtrade public preview API, HS 121190, 2024 imports from World -) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=121190&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (15. France - reported imports of HS 121190) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Importing country) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 3 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 3 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 10 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link:) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=121190&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
+/F1 9 Tf (- primaryValue USD: 141971475.368) Tj
+0 -12 Td
+/F1 9 Tf (- primaryValue with separators: 141,971,475.368) Tj
+0 -12 Td
+/F1 9 Tf (- Quantity: 22842581.784 kg \(estimated flag\)) Tj
+0 -12 Td
+/F1 9 Tf (- Rank among reporters: 6 of 147 in the stored Comtrade response) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (France reported primaryValue 141971475.368 USD \(shown with separators as 141,971,475.368\)) Tj
+0 -12 Td
+/F1 9 Tf (for HS 121190 imports from the world in 2024. That number is the UN Comtrade public-preview) Tj
+0 -12 Td
+/F1 9 Tf (CIF primary value for partner World. Reported quantity: 22,842,581.784 kg \(Comtrade flagged) Tj
+0 -12 Td
+/F1 9 Tf (the quantity as estimated\). Money is 3 because this reporter ranks 6 of 147 reporters in) Tj
+0 -12 Td
+/F1 9 Tf (that response by primaryValue. Authority is 4 because the country is where the buyers are:) Tj
+0 -12 Td
+/F1 9 Tf (importers and distributors there hold the purchase order, and the country itself does not.) Tj
+0 -12 Td
+/F1 9 Tf (Need is 3. This heading is a basket shared with other products. The dollars are real for the) Tj
+0 -12 Td
+/F1 9 Tf (heading and are not a measure of this product alone. Official commodity description: Plants) Tj
+0 -12 Td
+/F1 9 Tf (and parts \(including seeds and fruits\) n.e.c. in heading no. 1211, of a kind used primarily) Tj
+0 -12 Td
+/F1 9 Tf (in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh,) Tj
+0 -12 Td
+/F1 9 Tf (chilled, frozen or dried, whether or not cut, crushed or powdered. The preview count matched) Tj
+0 -12 Td
+/F1 9 Tf (the rows stored \(147\), under the 500-row cap.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Do not email a country. Use France as a map: find importers there that already) Tj
+0 -12 Td
+/F1 9 Tf (clear HS 121190 and open with the Comtrade fact that France reported primaryValue) Tj
+0 -12 Td
+/F1 9 Tf (141971475.368 USD of this heading in 2024. Offer a first-container spec sheet, not a) Tj
+0 -12 Td
+/F1 9 Tf (market-size story.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: UN Comtrade public preview API, HS 121190, 2024 imports from World -) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=121190&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (Limits) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Editorial scores are judgments, not statistics. Every trade dollar in this report is a UN) Tj
+0 -12 Td
+/F1 9 Tf (Comtrade primaryValue literal from the query above. BuyerRadar did not estimate a market) Tj
+0 -12 Td
+/F1 9 Tf (size, a growth rate, or a buyer count. A static site cannot check a PayPal payment on a) Tj
+0 -12 Td
+/F1 9 Tf (server; the button is the PayPal Smart Buttons client flow.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+ET
+BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 8 of 9  |  Built by Nidhi Karuturi) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Length 204 >>
+stream
+BT
+/F2 11 Tf
+54 738 Td
+/F1 9 Tf (Built by Nidhi Karuturi - https://github.com/Nidhi-bhai) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+ET
+BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 9 of 9  |  Built by Nidhi Karuturi) Tj ET
+endstream
+endobj
+12 0 obj
+<< /Type /Pages /Count 9 /Kids [13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R] >>
+endobj
+13 0 obj
+<< /Type /Page /Parent 12 0 R /MediaBox [0 0 612 792] /Contents 3 0 R /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> >>
+endobj
+14 0 obj
+<< /Type /Page /Parent 12 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> >>
+endobj
+15 0 obj
+<< /Type /Page /Parent 12 0 R /MediaBox [0 0 612 792] /Contents 5 0 R /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> >>
+endobj
+16 0 obj
+<< /Type /Page /Parent 12 0 R /MediaBox [0 0 612 792] /Contents 6 0 R /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> >>
+endobj
+17 0 obj
+<< /Type /Page /Parent 12 0 R /MediaBox [0 0 612 792] /Contents 7 0 R /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> >>
+endobj
+18 0 obj
+<< /Type /Page /Parent 12 0 R /MediaBox [0 0 612 792] /Contents 8 0 R /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> >>
+endobj
+19 0 obj
+<< /Type /Page /Parent 12 0 R /MediaBox [0 0 612 792] /Contents 9 0 R /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> >>
+endobj
+20 0 obj
+<< /Type /Page /Parent 12 0 R /MediaBox [0 0 612 792] /Contents 10 0 R /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> >>
+endobj
+21 0 obj
+<< /Type /Page /Parent 12 0 R /MediaBox [0 0 612 792] /Contents 11 0 R /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> >>
+endobj
+22 0 obj
+<< /Type /Catalog /Pages 12 0 R >>
+endobj
+xref
+0 23
+0000000000 65535 f 
+0000000009 00000 n 
+0000000106 00000 n 
+0000000208 00000 n 
+0000004277 00000 n 
+0000008373 00000 n 
+0000012128 00000 n 
+0000016441 00000 n 
+0000021486 00000 n 
+0000025117 00000 n 
+0000029575 00000 n 
+0000034481 00000 n 
+0000034736 00000 n 
+0000034851 00000 n 
+0000034989 00000 n 
+0000035127 00000 n 
+0000035265 00000 n 
+0000035403 00000 n 
+0000035541 00000 n 
+0000035679 00000 n 
+0000035817 00000 n 
+0000035956 00000 n 
+0000036095 00000 n 
+trailer << /Size 23 /Root 22 0 R >>
+startxref
+36146
+%%EOF
