@@ -13,7 +13,7 @@
   }
 
   function config() {
-    return window.BUYERRADAR_CONFIG || { PAYPAL_CLIENT_ID: "YOUR_PAYPAL_CLIENT_ID", PRICE_USD: "19.00", CURRENCY: "USD" };
+    return window.BUYERRADAR_CONFIG || { PAYPAL_CLIENT_ID: "AAb5cq2I0Xx3lFhRJNBjnuGCVT5VDtWfWHgAuSasCoaA_F4cFzLmDWcDmYhsXG6panQVSaRPR3gvrgE9w", PRICE_USD: "19.00", CURRENCY: "USD" };
   }
 
   function typeLabel(type) {
@@ -93,7 +93,7 @@
 
   function renderPaywall(report) {
     var cfg = config();
-    var placeholder = !cfg.PAYPAL_CLIENT_ID || cfg.PAYPAL_CLIENT_ID === "YOUR_PAYPAL_CLIENT_ID";
+    var placeholder = !cfg.PAYPAL_CLIENT_ID || cfg.PAYPAL_CLIENT_ID === "AAb5cq2I0Xx3lFhRJNBjnuGCVT5VDtWfWHgAuSasCoaA_F4cFzLmDWcDmYhsXG6panQVSaRPR3gvrgE9w";
     var hidden = report.channels.length - report.freeLimit;
     var note = placeholder
       ? "PayPal is not configured. The site owner replaces PAYPAL_CLIENT_ID in config.js with a PayPal REST app client id. Do not put a PayPal secret in the repo. Until then the full file stays locked in the page, even though a static site cannot truly hide a public JSON file."
@@ -137,7 +137,7 @@
 
   function loadPayPal(report) {
     var cfg = config();
-    if (!cfg.PAYPAL_CLIENT_ID || cfg.PAYPAL_CLIENT_ID === "YOUR_PAYPAL_CLIENT_ID") return;
+    if (!cfg.PAYPAL_CLIENT_ID || cfg.PAYPAL_CLIENT_ID === "AAb5cq2I0Xx3lFhRJNBjnuGCVT5VDtWfWHgAuSasCoaA_F4cFzLmDWcDmYhsXG6panQVSaRPR3gvrgE9w") return;
     function renderButtons() {
       var holder = document.getElementById("paypal-button");
       if (!holder || !window.paypal) return;
