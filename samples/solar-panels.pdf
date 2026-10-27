@@ -1,0 +1,978 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+3 0 obj
+<< /Length 3813 >>
+stream
+BT
+/F2 11 Tf
+54 738 Td
+/F2 11 Tf (BuyerRadar report: Solar panels) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Query: solar panels) Tj
+0 -12 Td
+/F1 9 Tf (Industry: Solar panels \(`solar-panels`\)) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Photovoltaic cells assembled in modules or made up into panels, sold to electrical) Tj
+0 -12 Td
+/F1 9 Tf (wholesalers, solar developers, and EPCs.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (How the scores work) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Each channel is scored from 1 to 5 on Money \(budget\), Authority \(who can say yes\), and Need) Tj
+0 -12 Td
+/F1 9 Tf (\(fit with this product\). The total is the sum, out of 15.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Ties break by Money, then Authority, then Need, then channel type \(importing country, buyer) Tj
+0 -12 Td
+/F1 9 Tf (type, trade show, job title, marketplace, RFQ board, community\), then name.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Scores on curated channels are editorial judgments explained in the reason and tied to a) Tj
+0 -12 Td
+/F1 9 Tf (public page \(a NAICS title, an O*NET occupation, a fair, a marketplace, or a community\).) Tj
+0 -12 Td
+/F1 9 Tf (They are not measurements.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Importing-country Money is not editorial. Rank 1 in the Comtrade response scores 5, ranks) Tj
+0 -12 Td
+/F1 9 Tf (2-3 score 4, ranks 4-10 score 3. Authority is 4 because importers in that country hold the) Tj
+0 -12 Td
+/F1 9 Tf (order. Need is 5, 4, or 3 according to whether the HS heading is specific, close, or a broad) Tj
+0 -12 Td
+/F1 9 Tf (basket. The dollar figure is the unmodified primaryValue literal.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (Trade data) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (HS 854143 is photosensitive semiconductor devices, photovoltaic cells assembled in modules) Tj
+0 -12 Td
+/F1 9 Tf (or made up into panels. Loose cells and modules under older codes are not this heading.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- HS code: 854143) Tj
+0 -12 Td
+/F1 9 Tf (- Official description: Electrical apparatus; photosensitive semiconductor devices,) Tj
+0 -12 Td
+/F1 9 Tf (photovoltaic cells assembled in modules or made up into panels) Tj
+0 -12 Td
+/F1 9 Tf (- Flow: Import \(flowCode M\), partner World) Tj
+0 -12 Td
+/F1 9 Tf (- Period: 2024) Tj
+0 -12 Td
+/F1 9 Tf (- Retrieved: 2026-10-27) Tj
+0 -12 Td
+/F1 9 Tf (- Reporters stored: 132) Tj
+0 -12 Td
+/F1 9 Tf (- API count: 132) Tj
+0 -12 Td
+/F1 9 Tf (- Preview complete: yes, count matched stored rows and was under 500) Tj
+0 -12 Td
+/F1 9 Tf (- Query:) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=854143&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
+/F1 9 Tf (- API documentation: https://uncomtrade.org/docs/un-comtrade-api/) Tj
+0 -12 Td
+/F1 9 Tf (- Database: https://comtradeplus.un.org/) Tj
+0 -12 Td
+/F1 9 Tf (- HS nomenclature: World Customs Organization - HS Nomenclature 2022 edition -) Tj
+0 -12 Td
+/F1 9 Tf (https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools/hs-nomenclature-2022-edition.aspx) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (Ranked channels) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (The free tier of the site shows the first 5. This file is the full list, with an outreach) Tj
+0 -12 Td
+/F1 9 Tf (angle on every channel.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (1. Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment) Tj
+0 -12 Td
+/F1 9 Tf (Merchant Wholesalers) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Buyer company type) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 4 / 5) Tj
+ET
+BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 1 of 8  |  Built by Nidhi Karuturi) Tj ET
+endstream
+endobj
+4 0 obj
+<< /Length 3993 >>
+stream
+BT
+/F2 11 Tf
+54 738 Td
+/F1 9 Tf (- Need: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 14 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link: https://www.census.gov/naics/?input=423610&year=2022&details=423610) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (NAICS 423610 wholesales electrical apparatus, which is how modules reach installers. Money) Tj
+0 -12 Td
+/F1 9 Tf (is 5 because distributors buy containers. Authority is 4. Need is 5 because a panel is) Tj
+0 -12 Td
+/F1 9 Tf (electrical apparatus of the kind this industry stocks.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Send watt class, dimensions, the standards you can document, and current stock.) Tj
+0 -12 Td
+/F1 9 Tf (Ask which inverter brands their installers already use, and do not promise a certification) Tj
+0 -12 Td
+/F1 9 Tf (you cannot show.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: U.S. Census Bureau, NAICS 2022, 423610 - Electrical Apparatus and Equipment, Wiring) Tj
+0 -12 Td
+/F1 9 Tf (Supplies, and Related Equipment Merchant Wholesalers -) Tj
+0 -12 Td
+/F1 9 Tf (https://www.census.gov/naics/?input=423610&year=2022&details=423610) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (2. Intersolar Europe) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Trade show) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 14 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link: https://www.intersolar.de/home) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Intersolar Europe \(intersolar.de\) is the solar trade fair. Money is 5. Authority is 4) Tj
+0 -12 Td
+/F1 9 Tf (because distributors and developers attend. Need is 5 because modules are a core product of) Tj
+0 -12 Td
+/F1 9 Tf (the show.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Book distributors for stock business and developers for projects, as two) Tj
+0 -12 Td
+/F1 9 Tf (calendars. Bring the datasheet and the warranty terms you will sign.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: Intersolar Europe - https://www.intersolar.de/home) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (3. USA - reported imports of HS 854143) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Importing country) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 14 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link:) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=854143&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
+/F1 9 Tf (- primaryValue USD: 15193756743.0) Tj
+0 -12 Td
+/F1 9 Tf (- primaryValue with separators: 15,193,756,743.0) Tj
+0 -12 Td
+/F1 9 Tf (- Quantity: 103775332.0 u) Tj
+0 -12 Td
+/F1 9 Tf (- Rank among reporters: 1 of 132 in the stored Comtrade response) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (USA reported primaryValue 15193756743.0 USD \(shown with separators as 15,193,756,743.0\) for) Tj
+0 -12 Td
+/F1 9 Tf (HS 854143 imports from the world in 2024. That number is the UN Comtrade public-preview CIF) Tj
+0 -12 Td
+/F1 9 Tf (primary value for partner World. Reported quantity: 103,775,332.0 u \(quantity not flagged as) Tj
+0 -12 Td
+/F1 9 Tf (estimated\). Money is 5 because this reporter ranks 1 of 132 reporters in that response by) Tj
+0 -12 Td
+/F1 9 Tf (primaryValue. Authority is 4 because the country is where the buyers are: importers and) Tj
+0 -12 Td
+/F1 9 Tf (distributors there hold the purchase order, and the country itself does not. Need is 5. The) Tj
+0 -12 Td
+/F1 9 Tf (official heading names this product, so the import value is a direct Comtrade measure of) Tj
+0 -12 Td
+/F1 9 Tf (recorded trade in it. Official commodity description: Electrical apparatus; photosensitive) Tj
+0 -12 Td
+/F1 9 Tf (semiconductor devices, photovoltaic cells assembled in modules or made up into panels. The) Tj
+ET
+BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 2 of 8  |  Built by Nidhi Karuturi) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Length 3674 >>
+stream
+BT
+/F2 11 Tf
+54 738 Td
+/F1 9 Tf (preview count matched the rows stored \(132\), under the 500-row cap.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Do not email a country. Use USA as a map: find importers there that already clear) Tj
+0 -12 Td
+/F1 9 Tf (HS 854143 and open with the Comtrade fact that USA reported primaryValue 15193756743.0 USD) Tj
+0 -12 Td
+/F1 9 Tf (of this heading in 2024. Offer a first-container spec sheet, not a market-size story.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: UN Comtrade public preview API, HS 854143, 2024 imports from World -) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=854143&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (4. Purchasing Agents, Except Wholesale, Retail, and Farm Products) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Job title) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 14 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link: https://www.onetonline.org/link/summary/13-1023.00) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (O*NET 13-1023.00 purchasing agents buy equipment for companies and distributors. Money is 4.) Tj
+0 -12 Td
+/F1 9 Tf (Authority is 5. Need is 5.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Send the datasheet, the lead time, and the warranty. Ask who signs off on the) Tj
+0 -12 Td
+/F1 9 Tf (approved-vendor list.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: O*NET OnLine 13-1023.00 - Purchasing Agents, Except Wholesale, Retail, and Farm) Tj
+0 -12 Td
+/F1 9 Tf (Products - https://www.onetonline.org/link/summary/13-1023.00) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (5. Solar Electric Power Generation) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Buyer company type) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 13 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link: https://www.census.gov/naics/?input=221114&year=2022&details=221114) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (NAICS 221114 is solar electric power generation. Money is 5 because a plant buys modules at) Tj
+0 -12 Td
+/F1 9 Tf (project scale. Authority is 4 because procurement and the EPC share the decision. Need is 4) Tj
+0 -12 Td
+/F1 9 Tf (because generators buy modules, often through an EPC rather than from a factory email.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Ask who the EPC and the lender are. Factories that cannot meet the lender's) Tj
+0 -12 Td
+/F1 9 Tf (equipment list should say so early.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: U.S. Census Bureau, NAICS 2022, 221114 - Solar Electric Power Generation -) Tj
+0 -12 Td
+/F1 9 Tf (https://www.census.gov/naics/?input=221114&year=2022&details=221114) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (6. Brazil - reported imports of HS 854143) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Importing country) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 13 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link:) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=854143&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
+/F1 9 Tf (- primaryValue USD: 2875444624.0) Tj
+0 -12 Td
+/F1 9 Tf (- primaryValue with separators: 2,875,444,624.0) Tj
+ET
+BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 3 of 8  |  Built by Nidhi Karuturi) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Length 4765 >>
+stream
+BT
+/F2 11 Tf
+54 738 Td
+/F1 9 Tf (- Quantity: 330796215.771 u \(estimated flag\)) Tj
+0 -12 Td
+/F1 9 Tf (- Rank among reporters: 2 of 132 in the stored Comtrade response) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Brazil reported primaryValue 2875444624.0 USD \(shown with separators as 2,875,444,624.0\) for) Tj
+0 -12 Td
+/F1 9 Tf (HS 854143 imports from the world in 2024. That number is the UN Comtrade public-preview CIF) Tj
+0 -12 Td
+/F1 9 Tf (primary value for partner World. Reported quantity: 330,796,215.771 u \(Comtrade flagged the) Tj
+0 -12 Td
+/F1 9 Tf (quantity as estimated\). Money is 4 because this reporter ranks 2 of 132 reporters in that) Tj
+0 -12 Td
+/F1 9 Tf (response by primaryValue. Authority is 4 because the country is where the buyers are:) Tj
+0 -12 Td
+/F1 9 Tf (importers and distributors there hold the purchase order, and the country itself does not.) Tj
+0 -12 Td
+/F1 9 Tf (Need is 5. The official heading names this product, so the import value is a direct Comtrade) Tj
+0 -12 Td
+/F1 9 Tf (measure of recorded trade in it. Official commodity description: Electrical apparatus;) Tj
+0 -12 Td
+/F1 9 Tf (photosensitive semiconductor devices, photovoltaic cells assembled in modules or made up) Tj
+0 -12 Td
+/F1 9 Tf (into panels. The preview count matched the rows stored \(132\), under the 500-row cap.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Do not email a country. Use Brazil as a map: find importers there that already) Tj
+0 -12 Td
+/F1 9 Tf (clear HS 854143 and open with the Comtrade fact that Brazil reported primaryValue) Tj
+0 -12 Td
+/F1 9 Tf (2875444624.0 USD of this heading in 2024. Offer a first-container spec sheet, not a) Tj
+0 -12 Td
+/F1 9 Tf (market-size story.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: UN Comtrade public preview API, HS 854143, 2024 imports from World -) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=854143&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (7. India - reported imports of HS 854143) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Importing country) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 13 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link:) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=854143&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
+/F1 9 Tf (- primaryValue USD: 2875192304.711) Tj
+0 -12 Td
+/F1 9 Tf (- primaryValue with separators: 2,875,192,304.711) Tj
+0 -12 Td
+/F1 9 Tf (- Rank among reporters: 3 of 132 in the stored Comtrade response) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (India reported primaryValue 2875192304.711 USD \(shown with separators as 2,875,192,304.711\)) Tj
+0 -12 Td
+/F1 9 Tf (for HS 854143 imports from the world in 2024. That number is the UN Comtrade public-preview) Tj
+0 -12 Td
+/F1 9 Tf (CIF primary value for partner World. Comtrade did not return a usable quantity unit for this) Tj
+0 -12 Td
+/F1 9 Tf (row. Money is 4 because this reporter ranks 3 of 132 reporters in that response by) Tj
+0 -12 Td
+/F1 9 Tf (primaryValue. Authority is 4 because the country is where the buyers are: importers and) Tj
+0 -12 Td
+/F1 9 Tf (distributors there hold the purchase order, and the country itself does not. Need is 5. The) Tj
+0 -12 Td
+/F1 9 Tf (official heading names this product, so the import value is a direct Comtrade measure of) Tj
+0 -12 Td
+/F1 9 Tf (recorded trade in it. Official commodity description: Electrical apparatus; photosensitive) Tj
+0 -12 Td
+/F1 9 Tf (semiconductor devices, photovoltaic cells assembled in modules or made up into panels. The) Tj
+0 -12 Td
+/F1 9 Tf (preview count matched the rows stored \(132\), under the 500-row cap.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Do not email a country. Use India as a map: find importers there that already) Tj
+0 -12 Td
+/F1 9 Tf (clear HS 854143 and open with the Comtrade fact that India reported primaryValue) Tj
+0 -12 Td
+/F1 9 Tf (2875192304.711 USD of this heading in 2024. Offer a first-container spec sheet, not a) Tj
+0 -12 Td
+/F1 9 Tf (market-size story.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: UN Comtrade public preview API, HS 854143, 2024 imports from World -) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=854143&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (8. Electrical Engineers) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Job title) Tj
+ET
+BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 4 of 8  |  Built by Nidhi Karuturi) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Length 4105 >>
+stream
+BT
+/F2 11 Tf
+54 738 Td
+/F1 9 Tf (- Money: 3 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 12 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link: https://www.onetonline.org/link/summary/17-2071.00) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (O*NET 17-2071.00 is Electrical Engineers. Money is 3 because they specify more often than) Tj
+0 -12 Td
+/F1 9 Tf (they pay. Authority is 4 because a module that fails their design will not be bought. Need) Tj
+0 -12 Td
+/F1 9 Tf (is 5 because a panel is an electrical device they size.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Send electrical characteristics and dimensions. Ask for the string design) Tj
+0 -12 Td
+/F1 9 Tf (constraints. Leave price for purchasing.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: O*NET OnLine 17-2071.00 - Electrical Engineers -) Tj
+0 -12 Td
+/F1 9 Tf (https://www.onetonline.org/link/summary/17-2071.00) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (9. Germany - reported imports of HS 854143) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Importing country) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 3 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 12 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link:) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=854143&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
+/F1 9 Tf (- primaryValue USD: 2061623089.467) Tj
+0 -12 Td
+/F1 9 Tf (- primaryValue with separators: 2,061,623,089.467) Tj
+0 -12 Td
+/F1 9 Tf (- Rank among reporters: 5 of 132 in the stored Comtrade response) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Germany reported primaryValue 2061623089.467 USD \(shown with separators as) Tj
+0 -12 Td
+/F1 9 Tf (2,061,623,089.467\) for HS 854143 imports from the world in 2024. That number is the UN) Tj
+0 -12 Td
+/F1 9 Tf (Comtrade public-preview CIF primary value for partner World. Comtrade did not return a) Tj
+0 -12 Td
+/F1 9 Tf (usable quantity unit for this row. Money is 3 because this reporter ranks 5 of 132 reporters) Tj
+0 -12 Td
+/F1 9 Tf (in that response by primaryValue. Authority is 4 because the country is where the buyers) Tj
+0 -12 Td
+/F1 9 Tf (are: importers and distributors there hold the purchase order, and the country itself does) Tj
+0 -12 Td
+/F1 9 Tf (not. Need is 5. The official heading names this product, so the import value is a direct) Tj
+0 -12 Td
+/F1 9 Tf (Comtrade measure of recorded trade in it. Official commodity description: Electrical) Tj
+0 -12 Td
+/F1 9 Tf (apparatus; photosensitive semiconductor devices, photovoltaic cells assembled in modules or) Tj
+0 -12 Td
+/F1 9 Tf (made up into panels. The preview count matched the rows stored \(132\), under the 500-row cap.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Do not email a country. Use Germany as a map: find importers there that already) Tj
+0 -12 Td
+/F1 9 Tf (clear HS 854143 and open with the Comtrade fact that Germany reported primaryValue) Tj
+0 -12 Td
+/F1 9 Tf (2061623089.467 USD of this heading in 2024. Offer a first-container spec sheet, not a) Tj
+0 -12 Td
+/F1 9 Tf (market-size story.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: UN Comtrade public preview API, HS 854143, 2024 imports from World -) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=854143&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (10. Netherlands - reported imports of HS 854143) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Importing country) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 3 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 12 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link:) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=854143&maxRecords=500&includeDesc=true) Tj
+ET
+BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 5 of 8  |  Built by Nidhi Karuturi) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Length 4874 >>
+stream
+BT
+/F2 11 Tf
+54 738 Td
+/F1 9 Tf (- primaryValue USD: 1930661109.952) Tj
+0 -12 Td
+/F1 9 Tf (- primaryValue with separators: 1,930,661,109.952) Tj
+0 -12 Td
+/F1 9 Tf (- Quantity: 22718291.838 u \(estimated flag\)) Tj
+0 -12 Td
+/F1 9 Tf (- Rank among reporters: 6 of 132 in the stored Comtrade response) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Netherlands reported primaryValue 1930661109.952 USD \(shown with separators as) Tj
+0 -12 Td
+/F1 9 Tf (1,930,661,109.952\) for HS 854143 imports from the world in 2024. That number is the UN) Tj
+0 -12 Td
+/F1 9 Tf (Comtrade public-preview CIF primary value for partner World. Reported quantity:) Tj
+0 -12 Td
+/F1 9 Tf (22,718,291.838 u \(Comtrade flagged the quantity as estimated\). Money is 3 because this) Tj
+0 -12 Td
+/F1 9 Tf (reporter ranks 6 of 132 reporters in that response by primaryValue. Authority is 4 because) Tj
+0 -12 Td
+/F1 9 Tf (the country is where the buyers are: importers and distributors there hold the purchase) Tj
+0 -12 Td
+/F1 9 Tf (order, and the country itself does not. Need is 5. The official heading names this product,) Tj
+0 -12 Td
+/F1 9 Tf (so the import value is a direct Comtrade measure of recorded trade in it. Official commodity) Tj
+0 -12 Td
+/F1 9 Tf (description: Electrical apparatus; photosensitive semiconductor devices, photovoltaic cells) Tj
+0 -12 Td
+/F1 9 Tf (assembled in modules or made up into panels. The preview count matched the rows stored) Tj
+0 -12 Td
+/F1 9 Tf (\(132\), under the 500-row cap.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Do not email a country. Use Netherlands as a map: find importers there that) Tj
+0 -12 Td
+/F1 9 Tf (already clear HS 854143 and open with the Comtrade fact that Netherlands reported) Tj
+0 -12 Td
+/F1 9 Tf (primaryValue 1930661109.952 USD of this heading in 2024. Offer a first-container spec sheet,) Tj
+0 -12 Td
+/F1 9 Tf (not a market-size story.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: UN Comtrade public preview API, HS 854143, 2024 imports from World -) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=854143&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (11. Pakistan - reported imports of HS 854143) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Importing country) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 3 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 12 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link:) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=854143&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
+/F1 9 Tf (- primaryValue USD: 2197252312.067) Tj
+0 -12 Td
+/F1 9 Tf (- primaryValue with separators: 2,197,252,312.067) Tj
+0 -12 Td
+/F1 9 Tf (- Quantity: 37417095.0 u) Tj
+0 -12 Td
+/F1 9 Tf (- Rank among reporters: 4 of 132 in the stored Comtrade response) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Pakistan reported primaryValue 2197252312.067 USD \(shown with separators as) Tj
+0 -12 Td
+/F1 9 Tf (2,197,252,312.067\) for HS 854143 imports from the world in 2024. That number is the UN) Tj
+0 -12 Td
+/F1 9 Tf (Comtrade public-preview CIF primary value for partner World. Reported quantity: 37,417,095.0) Tj
+0 -12 Td
+/F1 9 Tf (u \(quantity not flagged as estimated\). Money is 3 because this reporter ranks 4 of 132) Tj
+0 -12 Td
+/F1 9 Tf (reporters in that response by primaryValue. Authority is 4 because the country is where the) Tj
+0 -12 Td
+/F1 9 Tf (buyers are: importers and distributors there hold the purchase order, and the country itself) Tj
+0 -12 Td
+/F1 9 Tf (does not. Need is 5. The official heading names this product, so the import value is a) Tj
+0 -12 Td
+/F1 9 Tf (direct Comtrade measure of recorded trade in it. Official commodity description: Electrical) Tj
+0 -12 Td
+/F1 9 Tf (apparatus; photosensitive semiconductor devices, photovoltaic cells assembled in modules or) Tj
+0 -12 Td
+/F1 9 Tf (made up into panels. The preview count matched the rows stored \(132\), under the 500-row cap.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Do not email a country. Use Pakistan as a map: find importers there that already) Tj
+0 -12 Td
+/F1 9 Tf (clear HS 854143 and open with the Comtrade fact that Pakistan reported primaryValue) Tj
+0 -12 Td
+/F1 9 Tf (2197252312.067 USD of this heading in 2024. Offer a first-container spec sheet, not a) Tj
+0 -12 Td
+/F1 9 Tf (market-size story.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: UN Comtrade public preview API, HS 854143, 2024 imports from World -) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=854143&maxRecords=500&includeDesc=true) Tj
+ET
+BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 6 of 8  |  Built by Nidhi Karuturi) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Length 2857 >>
+stream
+BT
+/F2 11 Tf
+54 738 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (12. Alibaba.com) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Marketplace) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 3 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 11 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link: https://www.alibaba.com/) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Alibaba is a public board for module inquiries. Money is 4. Authority is 3 because some) Tj
+0 -12 Td
+/F1 9 Tf (inquiries are traders. Need is 4.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Quote a watt class you have in a warehouse and the incoterms. Ask for the project) Tj
+0 -12 Td
+/F1 9 Tf (site or the distributor's company registration.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: Alibaba.com - https://www.alibaba.com/) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (13. Alibaba Sourcing) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: RFQ board) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 3 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 11 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link: https://sourcing.alibaba.com/) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Alibaba Sourcing posts RFQs for modules. Money is 4 when the megawatt figure is real.) Tj
+0 -12 Td
+/F1 9 Tf (Authority is 3. Need is 4.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Bid only RFQs that name watt class and destination. A megawatt number with no site) Tj
+0 -12 Td
+/F1 9 Tf (is not a bid.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: Alibaba Sourcing - https://sourcing.alibaba.com/) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (14. SEIA) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Community) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 3 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 11 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link: https://seia.org/) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (SEIA \(seia.org\) is the U.S. solar industry association. Money is 4 because members develop) Tj
+0 -12 Td
+/F1 9 Tf (and install projects. Authority is 3. Need is 4 for the U.S. market specifically.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: If the United States ranks in your Comtrade table, use SEIA to identify developers) Tj
+0 -12 Td
+/F1 9 Tf (and then sell through a distributor or an EPC they already buy from.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: SEIA - https://seia.org/) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (15. SolarPower Europe) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Community) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 3 / 5) Tj
+ET
+BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 7 of 8  |  Built by Nidhi Karuturi) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Length 1503 >>
+stream
+BT
+/F2 11 Tf
+54 738 Td
+/F1 9 Tf (- Need: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 11 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link: https://www.solarpowereurope.org/) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (SolarPower Europe \(solarpowereurope.org\) is the European solar industry association. Money) Tj
+0 -12 Td
+/F1 9 Tf (is 4 because members include companies that buy and deploy modules. Authority is 3 because) Tj
+0 -12 Td
+/F1 9 Tf (the association does not purchase. Need is 4.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Use the membership as a map of European buyers. Write to procurement with a) Tj
+0 -12 Td
+/F1 9 Tf (datasheet, not to the association secretariat.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: SolarPower Europe - https://www.solarpowereurope.org/) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (Limits) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Editorial scores are judgments, not statistics. Every trade dollar in this report is a UN) Tj
+0 -12 Td
+/F1 9 Tf (Comtrade primaryValue literal from the query above. BuyerRadar did not estimate a market) Tj
+0 -12 Td
+/F1 9 Tf (size, a growth rate, or a buyer count. A static site cannot check a PayPal payment on a) Tj
+0 -12 Td
+/F1 9 Tf (server; the button is the PayPal Smart Buttons client flow.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Built by Nidhi Karuturi - https://github.com/Nidhi-bhai) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+ET
+BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 8 of 8  |  Built by Nidhi Karuturi) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Type /Pages /Count 8 /Kids [12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R] >>
+endobj
+12 0 obj
+<< /Type /Page /Parent 11 0 R /MediaBox [0 0 612 792] /Contents 3 0 R /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> >>
+endobj
+13 0 obj
+<< /Type /Page /Parent 11 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> >>
+endobj
+14 0 obj
+<< /Type /Page /Parent 11 0 R /MediaBox [0 0 612 792] /Contents 5 0 R /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> >>
+endobj
+15 0 obj
+<< /Type /Page /Parent 11 0 R /MediaBox [0 0 612 792] /Contents 6 0 R /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> >>
+endobj
+16 0 obj
+<< /Type /Page /Parent 11 0 R /MediaBox [0 0 612 792] /Contents 7 0 R /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> >>
+endobj
+17 0 obj
+<< /Type /Page /Parent 11 0 R /MediaBox [0 0 612 792] /Contents 8 0 R /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> >>
+endobj
+18 0 obj
+<< /Type /Page /Parent 11 0 R /MediaBox [0 0 612 792] /Contents 9 0 R /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> >>
+endobj
+19 0 obj
+<< /Type /Page /Parent 11 0 R /MediaBox [0 0 612 792] /Contents 10 0 R /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> >>
+endobj
+20 0 obj
+<< /Type /Catalog /Pages 11 0 R >>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000000009 00000 n 
+0000000106 00000 n 
+0000000208 00000 n 
+0000004072 00000 n 
+0000008116 00000 n 
+0000011841 00000 n 
+0000016657 00000 n 
+0000020813 00000 n 
+0000025738 00000 n 
+0000028646 00000 n 
+0000030201 00000 n 
+0000030309 00000 n 
+0000030447 00000 n 
+0000030585 00000 n 
+0000030723 00000 n 
+0000030861 00000 n 
+0000030999 00000 n 
+0000031137 00000 n 
+0000031275 00000 n 
+0000031414 00000 n 
+trailer << /Size 21 /Root 20 0 R >>
+startxref
+31465
+%%EOF

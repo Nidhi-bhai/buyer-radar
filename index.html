@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>BuyerRadar — where buyers with money, authority, and need actually are</title>
+  <meta name="description" content="Enter a product and get a ranked list of buyer company types, importing countries, communities, marketplaces, RFQ boards, trade shows, and job titles. Trade dollars come from the UN Comtrade public API. Editorial scores are explained and sourced.">
+  <link rel="canonical" href="https://nidhi-bhai.github.io/buyer-radar/">
+  <meta property="og:title" content="BuyerRadar">
+  <meta property="og:description" content="Ranked places to find buyers, scored on Money, Authority, and Need, with UN Comtrade import figures where a goods code exists.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://nidhi-bhai.github.io/buyer-radar/">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,560;9..144,640&family=IBM+Plex+Mono:wght@400;600&family=Public+Sans:wght@400;550;650&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <a class="skip" href="#q">Skip to the product search</a>
+  <header class="site-header">
+    <a class="brand" href="./">
+      <span class="mark" aria-hidden="true">
+        <svg width="22" height="22" viewBox="0 0 32 32"><circle cx="16" cy="16" r="9" fill="none" stroke="#e2b15a" stroke-width="1.6"/><circle cx="16" cy="16" r="3.5" fill="none" stroke="#e2b15a" stroke-width="1.6"/><path d="M16 16 L25 8" stroke="#f4efe4" stroke-width="1.6"/></svg>
+      </span>
+      <span class="brand-name">Buyer<span>Radar</span></span>
+    </a>
+    <nav class="nav">
+      <a href="#directory">Industries</a>
+      <a href="#method">How scoring works</a>
+      <a href="industries/">All SEO pages</a>
+    </nav>
+  </header>
+  <main>
+    <section class="hero">
+      <p class="kicker">Money · Authority · Need</p>
+      <h1>Where are the buyers who can actually purchase?</h1>
+      <p class="lede">Name a product. BuyerRadar ranks the company types, importing countries, communities, marketplaces, RFQ boards, trade shows, and job titles where people with budget, signing power, and a real use for that product show up. Country dollars are UN Comtrade figures, quoted as returned. Everything else is an argued score with a source.</p>
+      <form id="search-form" class="search-card" role="search">
+        <div>
+          <label for="q">Product</label>
+          <input id="q" name="q" type="search" placeholder="moringa powder" autocomplete="off" required>
+        </div>
+        <button type="submit">Rank channels</button>
+      </form>
+      <div class="chips" aria-label="Sample products">
+        <button type="button" data-q="moringa powder">moringa powder</button>
+        <button type="button" data-q="B2B SaaS for dentists">B2B SaaS for dentists</button>
+        <button type="button" data-q="solar panels">solar panels</button>
+        <button type="button" data-q="extra virgin olive oil">extra virgin olive oil</button>
+        <button type="button" data-q="industrial valves">industrial valves</button>
+      </div>
+    </section>
+    <section id="results" aria-live="polite"></section>
+    <section class="directory" id="directory">
+      <h2>Industries in the knowledge base</h2>
+      <p class="note">Forty-eight curated industries. A product only ranks when it matches one of them. BuyerRadar will not invent a market for a product it does not know.</p>
+      <!-- DIRECTORY:START -->
+<div class="groups"><div class="group"><h3>Goods</h3><ul><li><a href="industries/moringa-powder.html">Moringa powder</a></li><li><a href="industries/turmeric.html">Turmeric</a></li><li><a href="industries/green-coffee.html">Green coffee</a></li><li><a href="industries/roasted-coffee.html">Roasted coffee</a></li><li><a href="industries/green-tea.html">Green tea (packs of 3 kg or less)</a></li><li><a href="industries/black-tea-bulk.html">Bulk black tea</a></li><li><a href="industries/cocoa-beans.html">Cocoa beans</a></li><li><a href="industries/cocoa-powder.html">Cocoa powder</a></li><li><a href="industries/cashew-kernels.html">Cashew kernels</a></li><li><a href="industries/coconut-oil.html">Coconut oil (other than crude)</a></li><li><a href="industries/extra-virgin-olive-oil.html">Extra virgin olive oil</a></li><li><a href="industries/milled-rice.html">Milled rice</a></li><li><a href="industries/natural-honey.html">Natural honey</a></li><li><a href="industries/black-pepper.html">Whole pepper</a></li><li><a href="industries/dried-chillies.html">Dried chillies</a></li><li><a href="industries/vanilla.html">Vanilla beans</a></li><li><a href="industries/sesame-seeds.html">Sesame seeds</a></li><li><a href="industries/orange-essential-oil.html">Orange essential oil</a></li><li><a href="industries/other-essential-oils.html">Other essential oils</a></li><li><a href="industries/fresh-roses.html">Fresh cut roses</a></li><li><a href="industries/frozen-shrimp.html">Frozen shrimp</a></li><li><a href="industries/avocados.html">Avocados</a></li><li><a href="industries/bananas.html">Bananas</a></li><li><a href="industries/quinoa.html">Quinoa</a></li><li><a href="industries/ginger-powder.html">Ginger powder</a></li><li><a href="industries/cardamom.html">Cardamom</a></li><li><a href="industries/refined-palm-oil.html">Palm oil (other than crude)</a></li><li><a href="industries/bottled-wine.html">Bottled still wine</a></li><li><a href="industries/solar-panels.html">Solar panels</a></li><li><a href="industries/lithium-ion-batteries.html">Lithium-ion batteries</a></li><li><a href="industries/cotton-t-shirts.html">Cotton T-shirts</a></li><li><a href="industries/leather-handbags.html">Leather handbags</a></li><li><a href="industries/ceramic-tableware.html">Ceramic tableware</a></li><li><a href="industries/wooden-furniture.html">Wooden furniture</a></li><li><a href="industries/natural-rubber.html">Technically specified natural rubber</a></li><li><a href="industries/welded-steel-pipes.html">Welded steel pipes</a></li><li><a href="industries/industrial-valves.html">Industrial valves</a></li><li><a href="industries/rubber-gloves.html">Rubber gloves (other than surgical)</a></li><li><a href="industries/bicycles.html">Bicycles</a></li><li><a href="industries/raw-cotton.html">Raw cotton</a></li></ul></div><div class="group"><h3>Services</h3><ul><li><a href="industries/b2b-saas-dentists.html">B2B SaaS for dentists</a></li><li><a href="industries/b2b-saas-restaurants.html">B2B SaaS for restaurants</a></li><li><a href="industries/hr-software.html">HR software</a></li><li><a href="industries/cybersecurity-saas.html">Cybersecurity SaaS</a></li><li><a href="industries/bookkeeping-software.html">Bookkeeping software</a></li><li><a href="industries/school-edtech.html">School edtech</a></li><li><a href="industries/logistics-saas.html">Logistics software</a></li><li><a href="industries/property-management-software.html">Property management software</a></li></ul></div></div>
+<!-- DIRECTORY:END -->
+    </section>
+    <section class="method" id="method">
+      <h2>How a channel gets its score</h2>
+      <p>Each channel is scored from 1 to 5 on <strong>Money</strong> (is there a budget), <strong>Authority</strong> (can this person or company say yes), and <strong>Need</strong> (does the channel actually deal in this product). The total is the sum, out of 15. Ties break by Money, then Authority, then Need, then channel type.</p>
+      <p>Scores on companies, shows, communities, marketplaces, and job titles are editorial. The reason says why, and the source is a public page: a 2022 NAICS title from the U.S. Census Bureau, an O*NET occupation, or the channel's own site. They are not measurements, and they are not buyer counts.</p>
+      <p>Importing countries are different. Money follows the rank of that reporter's <code>primaryValue</code> in the UN Comtrade public preview for one HS code, one year, imports from the world: 1st scores 5, 2nd–3rd score 4, 4th–10th score 3. The dollar amount on the card is the API's literal value, not a BuyerRadar estimate. If the HS heading is broader than the product, Need is marked down and the page says so.</p>
+      <p>The free result is the top 5 channels. The $19 report is the full ranking plus an outreach angle for each channel, as Markdown and as a PDF. PayPal Smart Buttons read <code>PAYPAL_CLIENT_ID</code> from <code>config.js</code>. Until that placeholder is replaced, the button is not loaded. No PayPal secret belongs in this repository. A static site cannot verify a payment on a server.</p>
+      <p>Services such as software have no merchandise HS code. Those reports say that, and they do not invent trade numbers. The Comtrade snapshot is refreshed with <code>python3 scripts/refresh-trade.py</code> because the public API does not send CORS headers a browser can use.</p>
+    </section>
+  </main>
+  <footer class="site-footer">
+    <div>Built by <a href="https://github.com/Nidhi-bhai">Nidhi Karuturi</a></div>
+    <div><a href="https://uncomtrade.org/docs/un-comtrade-api/">UN Comtrade API</a> · <a href="https://comtradeplus.un.org/">Comtrade Plus</a></div>
+  </footer>
+  <script src="config.js"></script>
+  <script src="js/rank.js"></script>
+  <script src="js/report.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,980 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+3 0 obj
+<< /Length 3905 >>
+stream
+BT
+/F2 11 Tf
+54 738 Td
+/F2 11 Tf (BuyerRadar report: Industrial valves) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Query: industrial valves) Tj
+0 -12 Td
+/F1 9 Tf (Industry: Industrial valves \(`industrial-valves`\)) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Taps, cocks, and valves for pipes, tanks, and boilers, including thermostatic valves. The) Tj
+0 -12 Td
+/F1 9 Tf (trade heading is wider than one industrial process valve.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (How the scores work) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Each channel is scored from 1 to 5 on Money \(budget\), Authority \(who can say yes\), and Need) Tj
+0 -12 Td
+/F1 9 Tf (\(fit with this product\). The total is the sum, out of 15.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Ties break by Money, then Authority, then Need, then channel type \(importing country, buyer) Tj
+0 -12 Td
+/F1 9 Tf (type, trade show, job title, marketplace, RFQ board, community\), then name.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Scores on curated channels are editorial judgments explained in the reason and tied to a) Tj
+0 -12 Td
+/F1 9 Tf (public page \(a NAICS title, an O*NET occupation, a fair, a marketplace, or a community\).) Tj
+0 -12 Td
+/F1 9 Tf (They are not measurements.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Importing-country Money is not editorial. Rank 1 in the Comtrade response scores 5, ranks) Tj
+0 -12 Td
+/F1 9 Tf (2-3 score 4, ranks 4-10 score 3. Authority is 4 because importers in that country hold the) Tj
+0 -12 Td
+/F1 9 Tf (order. Need is 5, 4, or 3 according to whether the HS heading is specific, close, or a broad) Tj
+0 -12 Td
+/F1 9 Tf (basket. The dollar figure is the unmodified primaryValue literal.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (Trade data) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (HS 848180 covers taps, cocks, valves, and similar appliances for pipes, boiler shells,) Tj
+0 -12 Td
+/F1 9 Tf (tanks, or vats, including thermostatically controlled valves. Safety valves are HS 848140.) Tj
+0 -12 Td
+/F1 9 Tf (Country dollars are the broad valve heading, not one industrial design.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- HS code: 848180) Tj
+0 -12 Td
+/F1 9 Tf (- Official description: Taps, cocks, valves and similar appliances; for pipes, boiler) Tj
+0 -12 Td
+/F1 9 Tf (shells, tanks, vats or the like, including thermostatically controlled valves) Tj
+0 -12 Td
+/F1 9 Tf (- Flow: Import \(flowCode M\), partner World) Tj
+0 -12 Td
+/F1 9 Tf (- Period: 2024) Tj
+0 -12 Td
+/F1 9 Tf (- Retrieved: 2026-10-27) Tj
+0 -12 Td
+/F1 9 Tf (- Reporters stored: 148) Tj
+0 -12 Td
+/F1 9 Tf (- API count: 148) Tj
+0 -12 Td
+/F1 9 Tf (- Preview complete: yes, count matched stored rows and was under 500) Tj
+0 -12 Td
+/F1 9 Tf (- Query:) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=848180&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
+/F1 9 Tf (- API documentation: https://uncomtrade.org/docs/un-comtrade-api/) Tj
+0 -12 Td
+/F1 9 Tf (- Database: https://comtradeplus.un.org/) Tj
+0 -12 Td
+/F1 9 Tf (- HS nomenclature: World Customs Organization - HS Nomenclature 2022 edition -) Tj
+0 -12 Td
+/F1 9 Tf (https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools/hs-nomenclature-2022-edition.aspx) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (Ranked channels) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (The free tier of the site shows the first 5. This file is the full list, with an outreach) Tj
+0 -12 Td
+/F1 9 Tf (angle on every channel.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (1. Industrial Machinery and Equipment Merchant Wholesalers) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Buyer company type) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 4 / 5) Tj
+ET
+BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 1 of 8  |  Built by Nidhi Karuturi) Tj ET
+endstream
+endobj
+4 0 obj
+<< /Length 3233 >>
+stream
+BT
+/F2 11 Tf
+54 738 Td
+/F1 9 Tf (- Need: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 14 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link: https://www.census.gov/naics/?input=423830&year=2022&details=423830) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (NAICS 423830 wholesales industrial machinery and equipment, including valves distributors) Tj
+0 -12 Td
+/F1 9 Tf (stock. Money is 5. Authority is 4. Need is 5.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Name the type \(gate, ball, butterfly\) and the pressure class you make. Ask for the) Tj
+0 -12 Td
+/F1 9 Tf (approved-manufacturer list.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: U.S. Census Bureau, NAICS 2022, 423830 - Industrial Machinery and Equipment Merchant) Tj
+0 -12 Td
+/F1 9 Tf (Wholesalers - https://www.census.gov/naics/?input=423830&year=2022&details=423830) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (2. Valve World Expo) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Trade show) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 14 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link: https://www.valveworldexpo.com/) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Valve World Expo \(valveworldexpo.com\) is the valve industry fair. Money is 5. Authority is) Tj
+0 -12 Td
+/F2 11 Tf (4. Need is 5.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Book distributors and end-user procurement. Bring the pressure class and the) Tj
+0 -12 Td
+/F1 9 Tf (materials you will put on a drawing.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: Valve World Expo - https://www.valveworldexpo.com/) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (3. Purchasing Agents, Except Wholesale, Retail, and Farm Products) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Job title) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 14 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link: https://www.onetonline.org/link/summary/13-1023.00) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (O*NET 13-1023.00 purchasing agents buy industrial equipment. Money is 4. Authority is 5.) Tj
+0 -12 Td
+/F1 9 Tf (Need is 5.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Ask for the data sheet and the approved-vendor rules. Send lead time with the) Tj
+0 -12 Td
+/F1 9 Tf (quote.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: O*NET OnLine 13-1023.00 - Purchasing Agents, Except Wholesale, Retail, and Farm) Tj
+0 -12 Td
+/F1 9 Tf (Products - https://www.onetonline.org/link/summary/13-1023.00) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (4. USA - reported imports of HS 848180) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Importing country) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 13 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link:) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=848180&maxRecords=500&includeDesc=true) Tj
+ET
+BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 2 of 8  |  Built by Nidhi Karuturi) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Length 4276 >>
+stream
+BT
+/F2 11 Tf
+54 738 Td
+/F1 9 Tf (- primaryValue USD: 10619296309.0) Tj
+0 -12 Td
+/F1 9 Tf (- primaryValue with separators: 10,619,296,309.0) Tj
+0 -12 Td
+/F1 9 Tf (- Quantity: 295614137.648 kg \(estimated flag\)) Tj
+0 -12 Td
+/F1 9 Tf (- Rank among reporters: 1 of 148 in the stored Comtrade response) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (USA reported primaryValue 10619296309.0 USD \(shown with separators as 10,619,296,309.0\) for) Tj
+0 -12 Td
+/F1 9 Tf (HS 848180 imports from the world in 2024. That number is the UN Comtrade public-preview CIF) Tj
+0 -12 Td
+/F1 9 Tf (primary value for partner World. Reported quantity: 295,614,137.648 kg \(Comtrade flagged the) Tj
+0 -12 Td
+/F1 9 Tf (quantity as estimated\). Money is 5 because this reporter ranks 1 of 148 reporters in that) Tj
+0 -12 Td
+/F1 9 Tf (response by primaryValue. Authority is 4 because the country is where the buyers are:) Tj
+0 -12 Td
+/F1 9 Tf (importers and distributors there hold the purchase order, and the country itself does not.) Tj
+0 -12 Td
+/F1 9 Tf (Need is 4. The official heading names this product but is a bit wider than one commercial) Tj
+0 -12 Td
+/F1 9 Tf (form. The dollars are real for the heading, not a private estimate, and they are not a pure) Tj
+0 -12 Td
+/F1 9 Tf (measure of one SKU. Official commodity description: Taps, cocks, valves and similar) Tj
+0 -12 Td
+/F1 9 Tf (appliances; for pipes, boiler shells, tanks, vats or the like, including thermostatically) Tj
+0 -12 Td
+/F1 9 Tf (controlled valves. The preview count matched the rows stored \(148\), under the 500-row cap.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Do not email a country. Use USA as a map: find importers there that already clear) Tj
+0 -12 Td
+/F1 9 Tf (HS 848180 and open with the Comtrade fact that USA reported primaryValue 10619296309.0 USD) Tj
+0 -12 Td
+/F1 9 Tf (of this heading in 2024. Offer a first-container spec sheet, not a market-size story.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: UN Comtrade public preview API, HS 848180, 2024 imports from World -) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=848180&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (5. Industrial Supplies Merchant Wholesalers) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Buyer company type) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 12 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link: https://www.census.gov/naics/?input=423840&year=2022&details=423840) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (NAICS 423840 is industrial supplies wholesalers, who carry maintenance valves as well as) Tj
+0 -12 Td
+/F1 9 Tf (specialist lines. Money is 4. Authority is 4. Need is 4.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Ask if they want an MRO valve or a project valve. The offer and the paperwork) Tj
+0 -12 Td
+/F1 9 Tf (differ.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: U.S. Census Bureau, NAICS 2022, 423840 - Industrial Supplies Merchant Wholesalers -) Tj
+0 -12 Td
+/F1 9 Tf (https://www.census.gov/naics/?input=423840&year=2022&details=423840) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (6. China - reported imports of HS 848180) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Importing country) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 12 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link:) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=848180&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
+/F1 9 Tf (- primaryValue USD: 5166572695.0) Tj
+0 -12 Td
+/F1 9 Tf (- primaryValue with separators: 5,166,572,695.0) Tj
+0 -12 Td
+/F1 9 Tf (- Quantity: 78580864.64 kg \(estimated flag\)) Tj
+0 -12 Td
+/F1 9 Tf (- Rank among reporters: 2 of 148 in the stored Comtrade response) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (China reported primaryValue 5166572695.0 USD \(shown with separators as 5,166,572,695.0\) for) Tj
+ET
+BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 3 of 8  |  Built by Nidhi Karuturi) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Length 4810 >>
+stream
+BT
+/F2 11 Tf
+54 738 Td
+/F1 9 Tf (HS 848180 imports from the world in 2024. That number is the UN Comtrade public-preview CIF) Tj
+0 -12 Td
+/F1 9 Tf (primary value for partner World. Reported quantity: 78,580,864.64 kg \(Comtrade flagged the) Tj
+0 -12 Td
+/F1 9 Tf (quantity as estimated\). Money is 4 because this reporter ranks 2 of 148 reporters in that) Tj
+0 -12 Td
+/F1 9 Tf (response by primaryValue. Authority is 4 because the country is where the buyers are:) Tj
+0 -12 Td
+/F1 9 Tf (importers and distributors there hold the purchase order, and the country itself does not.) Tj
+0 -12 Td
+/F1 9 Tf (Need is 4. The official heading names this product but is a bit wider than one commercial) Tj
+0 -12 Td
+/F1 9 Tf (form. The dollars are real for the heading, not a private estimate, and they are not a pure) Tj
+0 -12 Td
+/F1 9 Tf (measure of one SKU. Official commodity description: Taps, cocks, valves and similar) Tj
+0 -12 Td
+/F1 9 Tf (appliances; for pipes, boiler shells, tanks, vats or the like, including thermostatically) Tj
+0 -12 Td
+/F1 9 Tf (controlled valves. The preview count matched the rows stored \(148\), under the 500-row cap.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Do not email a country. Use China as a map: find importers there that already) Tj
+0 -12 Td
+/F1 9 Tf (clear HS 848180 and open with the Comtrade fact that China reported primaryValue) Tj
+0 -12 Td
+/F1 9 Tf (5166572695.0 USD of this heading in 2024. Offer a first-container spec sheet, not a) Tj
+0 -12 Td
+/F1 9 Tf (market-size story.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: UN Comtrade public preview API, HS 848180, 2024 imports from World -) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=848180&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (7. Germany - reported imports of HS 848180) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Importing country) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 12 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link:) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=848180&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
+/F1 9 Tf (- primaryValue USD: 3886752570.728) Tj
+0 -12 Td
+/F1 9 Tf (- primaryValue with separators: 3,886,752,570.728) Tj
+0 -12 Td
+/F1 9 Tf (- Quantity: 131275758.069 kg \(estimated flag\)) Tj
+0 -12 Td
+/F1 9 Tf (- Rank among reporters: 3 of 148 in the stored Comtrade response) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Germany reported primaryValue 3886752570.728 USD \(shown with separators as) Tj
+0 -12 Td
+/F1 9 Tf (3,886,752,570.728\) for HS 848180 imports from the world in 2024. That number is the UN) Tj
+0 -12 Td
+/F1 9 Tf (Comtrade public-preview CIF primary value for partner World. Reported quantity:) Tj
+0 -12 Td
+/F1 9 Tf (131,275,758.069 kg \(Comtrade flagged the quantity as estimated\). Money is 4 because this) Tj
+0 -12 Td
+/F1 9 Tf (reporter ranks 3 of 148 reporters in that response by primaryValue. Authority is 4 because) Tj
+0 -12 Td
+/F1 9 Tf (the country is where the buyers are: importers and distributors there hold the purchase) Tj
+0 -12 Td
+/F1 9 Tf (order, and the country itself does not. Need is 4. The official heading names this product) Tj
+0 -12 Td
+/F1 9 Tf (but is a bit wider than one commercial form. The dollars are real for the heading, not a) Tj
+0 -12 Td
+/F1 9 Tf (private estimate, and they are not a pure measure of one SKU. Official commodity) Tj
+0 -12 Td
+/F1 9 Tf (description: Taps, cocks, valves and similar appliances; for pipes, boiler shells, tanks,) Tj
+0 -12 Td
+/F1 9 Tf (vats or the like, including thermostatically controlled valves. The preview count matched) Tj
+0 -12 Td
+/F1 9 Tf (the rows stored \(148\), under the 500-row cap.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Do not email a country. Use Germany as a map: find importers there that already) Tj
+0 -12 Td
+/F1 9 Tf (clear HS 848180 and open with the Comtrade fact that Germany reported primaryValue) Tj
+0 -12 Td
+/F1 9 Tf (3886752570.728 USD of this heading in 2024. Offer a first-container spec sheet, not a) Tj
+0 -12 Td
+/F1 9 Tf (market-size story.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: UN Comtrade public preview API, HS 848180, 2024 imports from World -) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=848180&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (8. ThomasNet) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: RFQ board) Tj
+ET
+BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 4 of 8  |  Built by Nidhi Karuturi) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Length 3008 >>
+stream
+BT
+/F2 11 Tf
+54 738 Td
+/F1 9 Tf (- Money: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 3 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 12 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link: https://www.thomasnet.com/) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (ThomasNet is where North American plants and distributors send industrial RFQs. Money is 4.) Tj
+0 -12 Td
+/F1 9 Tf (Authority is 3. Need is 5 for a valve with a specification.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Answer with the standard, material, and pressure class. No spec, no price.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: ThomasNet - https://www.thomasnet.com/) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (9. Mechanical Engineers) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Job title) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 3 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 12 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link: https://www.onetonline.org/link/summary/17-2141.00) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (O*NET 17-2141.00 mechanical engineers specify valves. Money is 3. Authority is 4 because the) Tj
+0 -12 Td
+/F1 9 Tf (spec decides who may bid. Need is 5.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Talk materials, pressure, and temperature. Send price to purchasing after the spec) Tj
+0 -12 Td
+/F1 9 Tf (is accepted.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: O*NET OnLine 17-2141.00 - Mechanical Engineers -) Tj
+0 -12 Td
+/F1 9 Tf (https://www.onetonline.org/link/summary/17-2141.00) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (10. Alibaba.com) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Marketplace) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 3 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 11 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link: https://www.alibaba.com/) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Alibaba is a common board for valve inquiries. Money is 4. Authority is 3. Need is 4.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Ask for the data sheet the inquiry should have attached. Quote only the type you) Tj
+0 -12 Td
+/F1 9 Tf (manufacture.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: Alibaba.com - https://www.alibaba.com/) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (11. Canada - reported imports of HS 848180) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Importing country) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 3 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 11 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link:) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=848180&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
+/F1 9 Tf (- primaryValue USD: 2459463966.093) Tj
+ET
+BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 5 of 8  |  Built by Nidhi Karuturi) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Length 5038 >>
+stream
+BT
+/F2 11 Tf
+54 738 Td
+/F1 9 Tf (- primaryValue with separators: 2,459,463,966.093) Tj
+0 -12 Td
+/F1 9 Tf (- Quantity: 63423542.265 kg \(estimated flag\)) Tj
+0 -12 Td
+/F1 9 Tf (- Rank among reporters: 5 of 148 in the stored Comtrade response) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Canada reported primaryValue 2459463966.093 USD \(shown with separators as 2,459,463,966.093\)) Tj
+0 -12 Td
+/F1 9 Tf (for HS 848180 imports from the world in 2024. That number is the UN Comtrade public-preview) Tj
+0 -12 Td
+/F1 9 Tf (CIF primary value for partner World. Reported quantity: 63,423,542.265 kg \(Comtrade flagged) Tj
+0 -12 Td
+/F1 9 Tf (the quantity as estimated\). Money is 3 because this reporter ranks 5 of 148 reporters in) Tj
+0 -12 Td
+/F1 9 Tf (that response by primaryValue. Authority is 4 because the country is where the buyers are:) Tj
+0 -12 Td
+/F1 9 Tf (importers and distributors there hold the purchase order, and the country itself does not.) Tj
+0 -12 Td
+/F1 9 Tf (Need is 4. The official heading names this product but is a bit wider than one commercial) Tj
+0 -12 Td
+/F1 9 Tf (form. The dollars are real for the heading, not a private estimate, and they are not a pure) Tj
+0 -12 Td
+/F1 9 Tf (measure of one SKU. Official commodity description: Taps, cocks, valves and similar) Tj
+0 -12 Td
+/F1 9 Tf (appliances; for pipes, boiler shells, tanks, vats or the like, including thermostatically) Tj
+0 -12 Td
+/F1 9 Tf (controlled valves. The preview count matched the rows stored \(148\), under the 500-row cap.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Do not email a country. Use Canada as a map: find importers there that already) Tj
+0 -12 Td
+/F1 9 Tf (clear HS 848180 and open with the Comtrade fact that Canada reported primaryValue) Tj
+0 -12 Td
+/F1 9 Tf (2459463966.093 USD of this heading in 2024. Offer a first-container spec sheet, not a) Tj
+0 -12 Td
+/F1 9 Tf (market-size story.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: UN Comtrade public preview API, HS 848180, 2024 imports from World -) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=848180&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (12. France - reported imports of HS 848180) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Importing country) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 3 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 11 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link:) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=848180&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
+/F1 9 Tf (- primaryValue USD: 2348516808.722) Tj
+0 -12 Td
+/F1 9 Tf (- primaryValue with separators: 2,348,516,808.722) Tj
+0 -12 Td
+/F1 9 Tf (- Quantity: 89250157.032 kg \(estimated flag\)) Tj
+0 -12 Td
+/F1 9 Tf (- Rank among reporters: 6 of 148 in the stored Comtrade response) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (France reported primaryValue 2348516808.722 USD \(shown with separators as 2,348,516,808.722\)) Tj
+0 -12 Td
+/F1 9 Tf (for HS 848180 imports from the world in 2024. That number is the UN Comtrade public-preview) Tj
+0 -12 Td
+/F1 9 Tf (CIF primary value for partner World. Reported quantity: 89,250,157.032 kg \(Comtrade flagged) Tj
+0 -12 Td
+/F1 9 Tf (the quantity as estimated\). Money is 3 because this reporter ranks 6 of 148 reporters in) Tj
+0 -12 Td
+/F1 9 Tf (that response by primaryValue. Authority is 4 because the country is where the buyers are:) Tj
+0 -12 Td
+/F1 9 Tf (importers and distributors there hold the purchase order, and the country itself does not.) Tj
+0 -12 Td
+/F1 9 Tf (Need is 4. The official heading names this product but is a bit wider than one commercial) Tj
+0 -12 Td
+/F1 9 Tf (form. The dollars are real for the heading, not a private estimate, and they are not a pure) Tj
+0 -12 Td
+/F1 9 Tf (measure of one SKU. Official commodity description: Taps, cocks, valves and similar) Tj
+0 -12 Td
+/F1 9 Tf (appliances; for pipes, boiler shells, tanks, vats or the like, including thermostatically) Tj
+0 -12 Td
+/F1 9 Tf (controlled valves. The preview count matched the rows stored \(148\), under the 500-row cap.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Do not email a country. Use France as a map: find importers there that already) Tj
+0 -12 Td
+/F1 9 Tf (clear HS 848180 and open with the Comtrade fact that France reported primaryValue) Tj
+0 -12 Td
+/F1 9 Tf (2348516808.722 USD of this heading in 2024. Offer a first-container spec sheet, not a) Tj
+0 -12 Td
+/F1 9 Tf (market-size story.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: UN Comtrade public preview API, HS 848180, 2024 imports from World -) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=848180&maxRecords=500&includeDesc=true) Tj
+ET
+BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 6 of 8  |  Built by Nidhi Karuturi) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Length 3935 >>
+stream
+BT
+/F2 11 Tf
+54 738 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (13. United Kingdom - reported imports of HS 848180) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Importing country) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 3 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 11 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link:) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=848180&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
+/F1 9 Tf (- primaryValue USD: 2494171420.587) Tj
+0 -12 Td
+/F1 9 Tf (- primaryValue with separators: 2,494,171,420.587) Tj
+0 -12 Td
+/F1 9 Tf (- Quantity: 85541024.964 kg \(estimated flag\)) Tj
+0 -12 Td
+/F1 9 Tf (- Rank among reporters: 4 of 148 in the stored Comtrade response) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (United Kingdom reported primaryValue 2494171420.587 USD \(shown with separators as) Tj
+0 -12 Td
+/F1 9 Tf (2,494,171,420.587\) for HS 848180 imports from the world in 2024. That number is the UN) Tj
+0 -12 Td
+/F1 9 Tf (Comtrade public-preview CIF primary value for partner World. Reported quantity:) Tj
+0 -12 Td
+/F1 9 Tf (85,541,024.964 kg \(Comtrade flagged the quantity as estimated\). Money is 3 because this) Tj
+0 -12 Td
+/F1 9 Tf (reporter ranks 4 of 148 reporters in that response by primaryValue. Authority is 4 because) Tj
+0 -12 Td
+/F1 9 Tf (the country is where the buyers are: importers and distributors there hold the purchase) Tj
+0 -12 Td
+/F1 9 Tf (order, and the country itself does not. Need is 4. The official heading names this product) Tj
+0 -12 Td
+/F1 9 Tf (but is a bit wider than one commercial form. The dollars are real for the heading, not a) Tj
+0 -12 Td
+/F1 9 Tf (private estimate, and they are not a pure measure of one SKU. Official commodity) Tj
+0 -12 Td
+/F1 9 Tf (description: Taps, cocks, valves and similar appliances; for pipes, boiler shells, tanks,) Tj
+0 -12 Td
+/F1 9 Tf (vats or the like, including thermostatically controlled valves. The preview count matched) Tj
+0 -12 Td
+/F1 9 Tf (the rows stored \(148\), under the 500-row cap.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Do not email a country. Use United Kingdom as a map: find importers there that) Tj
+0 -12 Td
+/F1 9 Tf (already clear HS 848180 and open with the Comtrade fact that United Kingdom reported) Tj
+0 -12 Td
+/F1 9 Tf (primaryValue 2494171420.587 USD of this heading in 2024. Offer a first-container spec sheet,) Tj
+0 -12 Td
+/F1 9 Tf (not a market-size story.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: UN Comtrade public preview API, HS 848180, 2024 imports from World -) Tj
+0 -12 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=848180&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (14. Hannover Messe) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Trade show) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 3 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 3 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 10 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link: https://www.hannovermesse.de/en/) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Hannover Messe includes industrial components. Money is 4. Authority is 3. Need is 3 next to) Tj
+0 -12 Td
+/F1 9 Tf (a dedicated valve fair.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Go when your European distributors are there. Do not expect a valve-only audience.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: Hannover Messe - https://www.hannovermesse.de/en/) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (15. Valve Manufacturers Association of America) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Community) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 3 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 3 / 5) Tj
+ET
+BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 7 of 8  |  Built by Nidhi Karuturi) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Length 1673 >>
+stream
+BT
+/F2 11 Tf
+54 738 Td
+/F1 9 Tf (- Need: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 10 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link: https://www.vma.org/) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (The Valve Manufacturers Association of America \(vma.org\) is the U.S. industry association) Tj
+0 -12 Td
+/F1 9 Tf (for valve makers. Money is 3 because members are largely manufacturers, who can also be) Tj
+0 -12 Td
+/F1 9 Tf (buyers of designs they do not cast. Authority is 3. Need is 4 because the subject is valves,) Tj
+0 -12 Td
+/F1 9 Tf (and a manufacturer association is not a list of end-user purchase orders.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Use VMA to understand the U.S. manufacturing side. Sell a finished valve to a) Tj
+0 -12 Td
+/F1 9 Tf (distributor or an end user, unless a member has asked you to supply a part.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: Valve Manufacturers Association of America - https://www.vma.org/) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F2 11 Tf (Limits) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Editorial scores are judgments, not statistics. Every trade dollar in this report is a UN) Tj
+0 -12 Td
+/F1 9 Tf (Comtrade primaryValue literal from the query above. BuyerRadar did not estimate a market) Tj
+0 -12 Td
+/F1 9 Tf (size, a growth rate, or a buyer count. A static site cannot check a PayPal payment on a) Tj
+0 -12 Td
+/F1 9 Tf (server; the button is the PayPal Smart Buttons client flow.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Built by Nidhi Karuturi - https://github.com/Nidhi-bhai) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+ET
+BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 8 of 8  |  Built by Nidhi Karuturi) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Type /Pages /Count 8 /Kids [12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R] >>
+endobj
+12 0 obj
+<< /Type /Page /Parent 11 0 R /MediaBox [0 0 612 792] /Contents 3 0 R /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> >>
+endobj
+13 0 obj
+<< /Type /Page /Parent 11 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> >>
+endobj
+14 0 obj
+<< /Type /Page /Parent 11 0 R /MediaBox [0 0 612 792] /Contents 5 0 R /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> >>
+endobj
+15 0 obj
+<< /Type /Page /Parent 11 0 R /MediaBox [0 0 612 792] /Contents 6 0 R /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> >>
+endobj
+16 0 obj
+<< /Type /Page /Parent 11 0 R /MediaBox [0 0 612 792] /Contents 7 0 R /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> >>
+endobj
+17 0 obj
+<< /Type /Page /Parent 11 0 R /MediaBox [0 0 612 792] /Contents 8 0 R /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> >>
+endobj
+18 0 obj
+<< /Type /Page /Parent 11 0 R /MediaBox [0 0 612 792] /Contents 9 0 R /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> >>
+endobj
+19 0 obj
+<< /Type /Page /Parent 11 0 R /MediaBox [0 0 612 792] /Contents 10 0 R /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> >>
+endobj
+20 0 obj
+<< /Type /Catalog /Pages 11 0 R >>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000000009 00000 n 
+0000000106 00000 n 
+0000000208 00000 n 
+0000004164 00000 n 
+0000007448 00000 n 
+0000011775 00000 n 
+0000016636 00000 n 
+0000019695 00000 n 
+0000024784 00000 n 
+0000028770 00000 n 
+0000030495 00000 n 
+0000030603 00000 n 
+0000030741 00000 n 
+0000030879 00000 n 
+0000031017 00000 n 
+0000031155 00000 n 
+0000031293 00000 n 
+0000031431 00000 n 
+0000031569 00000 n 
+0000031708 00000 n 
+trailer << /Size 21 /Root 20 0 R >>
+startxref
+31759
+%%EOF
