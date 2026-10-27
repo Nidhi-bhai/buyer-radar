@@ -34,7 +34,13 @@ module.exports = [
         "Write to the dentist about one hour a week the software gives back. Offer to show it on their schedule, not at a webinar."),
       job("11-9111.00", "Medical and Health Services Managers", 4, 4, 4,
         "O*NET 11-9111.00 is Medical and Health Services Managers, the office managers and group operators. Money is 4. Authority is 4 because they can champion and often sign the operational tools. Need is 4.",
-        "Talk to the manager about billing, scheduling, and staff time. Ask who else has to agree, and include the dentist if the manager does not sign alone.")
+        "Talk to the manager about billing, scheduling, and staff time. Ask who else has to agree, and include the dentist if the manager does not sign alone."),
+      place("tradeshow", "Hinman Dental Meeting", "https://hinman.org/", 4, 4, 4,
+        "The Hinman Dental Meeting (hinman.org) is a large US dental meeting in Atlanta. Money is 4 because practicing dentists and dealers attend. Authority is 4 because owners are in the building. Need is 4.",
+        "Book owner-dentists and the dealers who already supply their practices. Demo one front-desk workflow and offer a single-location trial."),
+      place("community", "American Dental Association", "https://www.ada.org/", 3, 2, 4,
+        "The American Dental Association (ada.org) is the US professional body for dentists. Money is 3 because members buy practice tools and the association is not the software customer. Authority is 2 because ADA does not sign a practice contract. Need is 4.",
+        "Use ADA public channels only within their rules. When a member asks about software, offer a trial for one practice and ask who else has to approve it.")
     ]
   }),
   service({
@@ -67,7 +73,13 @@ module.exports = [
         "Write about the shift, not the platform. Ask for 20 minutes after lunch service."),
       job("11-1021.00", "General and Operations Managers", 4, 4, 4,
         "O*NET 11-1021.00 general and operations managers buy for multi-unit restaurant groups. Money is 4. Authority is 4. Need is 4.",
-        "Ask how many stores the decision covers. Sell the rollout and the reporting the manager has to send upward.")
+        "Ask how many stores the decision covers. Sell the rollout and the reporting the manager has to send upward."),
+      place("community", "National Restaurant Association", "https://restaurant.org/", 3, 2, 4,
+        "The National Restaurant Association (restaurant.org) is the US trade body for restaurants. Money is 3 because members operate restaurants and the association does not buy software for them. Authority is 2. Need is 4.",
+        "Meet operators through the association's public events. Ask how many locations they run before you quote."),
+      place("tradeshow", "FSTEC", "https://informaconnect.com/fstec/", 4, 3, 5,
+        "FSTEC (informaconnect.com/fstec) is the restaurant technology conference run by Informa Connect. Money is 4 because technology buyers attend. Authority is 3 because a meeting still has to reach the person who signs. Need is 5.",
+        "Book multi-unit technology leads. Show the shift problem you replace, and ask what they refused to renew.")
     ]
   }),
   service({
@@ -100,7 +112,13 @@ module.exports = [
         "Write about the process they are tired of running in a spreadsheet. Ask who from finance has to countersign."),
       job("13-1071.00", "Human Resources Specialists", 3, 3, 4,
         "O*NET 13-1071.00 is Human Resources Specialists. Money is 3. Authority is 3 because they use the tool and usually do not sign the contract. Need is 4.",
-        "Win the specialist on the workflow, then ask for the manager who signs. Do not stop at the specialist.")
+        "Win the specialist on the workflow, then ask for the manager who signs. Do not stop at the specialist."),
+      place("tradeshow", "HR Technology Conference", "https://www.hrtechnologyconference.com/", 5, 4, 5,
+        "The HR Technology Conference (hrtechnologyconference.com) is the HR Tech event in Las Vegas, where HR buyers look at software. Money is 5 because budgets for HR systems are discussed there. Authority is 4. Need is 5.",
+        "Book HR managers and the finance partner who countersigns. Demo one workflow they still run in a spreadsheet."),
+      place("tradeshow", "UNLEASH", "https://www.unleash.ai/", 4, 3, 5,
+        "UNLEASH (unleash.ai) runs HR technology events for people who buy HR software. Money is 4. Authority is 3 because a conversation still needs the person who signs. Need is 5.",
+        "Ask which HR process is up for replacement this year. Follow up with that manager, not with a generic deck.")
     ]
   }),
   service({
@@ -133,7 +151,13 @@ module.exports = [
         "Write to the manager about risk they already report upward. Ask what is up for renewal."),
       job("15-1212.00", "Information Security Analysts", 3, 3, 5,
         "O*NET 15-1212.00 is Information Security Analysts. Money is 3. Authority is 3 because they evaluate and often cannot sign. Need is 5.",
-        "Give the analyst the evaluation criteria and a proof. Ask who the manager is, and include them.")
+        "Give the analyst the evaluation criteria and a proof. Ask who the manager is, and include them."),
+      place("community", "SANS Institute", "https://www.sans.org/", 3, 2, 4,
+        "The SANS Institute (sans.org) trains cybersecurity practitioners. Money is 3 because practitioners influence purchases and SANS is not the buyer's company. Authority is 2. Need is 4.",
+        "Be useful to practitioners who are evaluating a control. Ask who holds the technology budget, and write to that manager."),
+      place("tradeshow", "Infosecurity Europe", "https://www.infosecurityeurope.com/", 4, 4, 5,
+        "Infosecurity Europe (infosecurityeurope.com) is a European cybersecurity event for buyers and vendors. Money is 4. Authority is 4 because security leaders attend. Need is 5.",
+        "Book the title who owns the budget. Leave with the control you replace and the renewal date.")
     ]
   }),
   service({
@@ -163,7 +187,16 @@ module.exports = [
         "Write about the close and the client list. Offer a file import from the ledger they already use."),
       job("11-3031.00", "Financial Managers", 4, 5, 4,
         "O*NET 11-3031.00 is Financial Managers. Money is 4. Authority is 5 because they can standardize the tool. Need is 4.",
-        "Talk to the financial manager when the company, not an outside bookkeeper, will own the ledger. Ask who else touches the file.")
+        "Talk to the financial manager when the company, not an outside bookkeeper, will own the ledger. Ask who else touches the file."),
+      place("community", "American Institute of Professional Bookkeepers", "https://aipb.org/", 3, 2, 5,
+        "The American Institute of Professional Bookkeepers (aipb.org) is a US association of bookkeepers. Money is 3 because members buy tools for client work and the institute is not the customer. Authority is 2. Need is 5.",
+        "Talk to practicing bookkeepers about the multi-client file. Ask how many books they keep before you quote."),
+      place("community", "National Association of Certified Public Bookkeepers", "https://www.nacpb.org/", 3, 2, 5,
+        "The National Association of Certified Public Bookkeepers (nacpb.org) certifies bookkeepers in the United States. Money is 3. Authority is 2. Need is 5.",
+        "Offer a workflow a certified bookkeeper can run across clients. Do not expect the association to buy a subscription."),
+      place("tradeshow", "AICPA ENGAGE", "https://www.aicpaengage.com/", 4, 3, 4,
+        "AICPA ENGAGE (aicpaengage.com) is the AICPA conference for accounting practitioners. Money is 4. Authority is 3 because a practitioner may recommend a ledger the firm still has to adopt. Need is 4.",
+        "Ask whether they mandate a ledger for clients or only advise. Follow up with the person who sets that standard.")
     ]
   }),
   service({
@@ -196,7 +229,13 @@ module.exports = [
         "Write to the administrator about a problem they are measured on. Ask what the procurement calendar requires."),
       job("25-9031.00", "Instructional Coordinators", 3, 3, 4,
         "O*NET 25-9031.00 is Instructional Coordinators. Money is 3. Authority is 3 because they shape curriculum tools and often do not sign. Need is 4.",
-        "Show the coordinator how a teacher uses it. Ask which administrator has the budget.")
+        "Show the coordinator how a teacher uses it. Ask which administrator has the budget."),
+      place("tradeshow", "FETC", "https://www.fetc.org/", 4, 3, 5,
+        "FETC (fetc.org) is a US education technology event for school leaders and teachers. Money is 4. Authority is 3 because a teacher can love a tool the district has to buy. Need is 5.",
+        "Collect district titles, not only teacher emails. Ask what the procurement calendar requires."),
+      place("community", "ISTE", "https://iste.org/", 3, 2, 4,
+        "ISTE (iste.org) is the International Society for Technology in Education. Money is 3 because members work in schools and the society does not buy software for districts. Authority is 2. Need is 4.",
+        "Use ISTE to meet the education leader who can put a tool in a budget. Take the purchase conversation out of the public thread.")
     ]
   }),
   service({
@@ -232,7 +271,10 @@ module.exports = [
         "Write about the exception they still handle by email. Ask what has to integrate with the system they will not replace."),
       job("13-1081.00", "Logisticians", 4, 4, 5,
         "O*NET 13-1081.00 is Logisticians. Money is 4. Authority is 4 because they specify the tool and a manager may sign. Need is 5.",
-        "Give the logistician a workflow and ask who signs. Include that manager in the next note.")
+        "Give the logistician a workflow and ask who signs. Include that manager in the next note."),
+      place("community", "FIATA", "https://fiata.org/", 3, 2, 4,
+        "FIATA (fiata.org) is the International Federation of Freight Forwarders Associations. Money is 3 because member forwarders buy operations software and the federation does not buy it for them. Authority is 2. Need is 4.",
+        "Use FIATA to find forwarder associations and then the operators. Ask which system holds the shipment file today.")
     ]
   }),
   service({
@@ -265,7 +307,13 @@ module.exports = [
         "Write to the manager about doors, delinquencies, and maintenance. Ask what they would have to move off of."),
       job("11-1021.00", "General and Operations Managers", 3, 4, 3,
         "O*NET 11-1021.00 general managers at a property firm may sign when there is no separate systems owner. Money is 3. Authority is 4. Need is 3.",
-        "Ask who lives in the software daily. Sell to that manager, and let the general manager see the price.")
+        "Ask who lives in the software daily. Sell to that manager, and let the general manager see the price."),
+      place("community", "National Apartment Association", "https://naahq.org/", 4, 3, 5,
+        "The National Apartment Association (naahq.org) is the US body for apartment operators and property managers. Money is 4 because members run portfolios. Authority is 3 because the association does not buy the software. Need is 5.",
+        "Talk to operators about doors and maintenance tickets. Ask what they would have to move off of."),
+      place("community", "National Multifamily Housing Council", "https://www.nmhc.org/", 4, 3, 4,
+        "The National Multifamily Housing Council (nmhc.org) represents larger US apartment owners and managers. Money is 4. Authority is 3. Need is 4 because members buy systems and many already have an enterprise stack.",
+        "Ask the door count and whether a regional manager can pilot. Sell a migration only if they are actually leaving a system.")
     ]
   })
 ];

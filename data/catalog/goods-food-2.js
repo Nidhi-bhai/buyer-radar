@@ -475,7 +475,7 @@ module.exports = [
       place("marketplace", "Alibaba.com", "https://www.alibaba.com/", 2, 2, 2,
         "A general online marketplace is a poor place to sell a fruit this perishable and this tied to contracts. Money is 2. Authority is 2. Need is 2.",
         "Do not rely on Alibaba for bananas. Use it only to answer a named importer who found you there, and move the deal to a contract."),
-      place("community", "Europages", "https://www.europages.com/", 3, 3, 3,
+      place("marketplace", "Europages", "https://www.europages.com/", 3, 3, 3,
         "Europages (europages.com) is a European B2B directory. Money is 3. Authority is 3. Need is 3 because produce wholesalers are listed and banana specialists are a subset.",
         "Search for fruit importers in the countries your Comtrade table ranks, then write to the produce desk."),
       job("13-1021.00", "Buyers and Purchasing Agents, Farm Products", 5, 5, 5,

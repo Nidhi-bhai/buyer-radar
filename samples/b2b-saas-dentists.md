@@ -11,7 +11,7 @@ Each channel is scored from 1 to 5 on Money (budget), Authority (who can say yes
 
 Ties break by Money, then Authority, then Need, then channel type (importing country, buyer type, trade show, job title, marketplace, RFQ board, community), then name.
 
-Scores on curated channels are editorial judgments explained in the reason and tied to a public page (a NAICS title, an O*NET occupation, a fair, a marketplace, or a community). They are not measurements.
+Scores on curated channels are editorial judgments explained in the reason and tied to a public page. Company types use the United States NAICS classification from the U.S. Census Bureau. Job titles use the United States O*NET occupation classification. Shows, marketplaces, directories, and communities cite their own sites. These scores are not measurements.
 
 Importing-country Money is not editorial. Rank 1 in the Comtrade response scores 5, ranks 2–3 score 4, ranks 4–10 score 3. Authority is 4 because importers in that country hold the order. Need is 5, 4, or 3 according to whether the HS heading is specific, close, or a broad basket. The dollar figure is the unmodified primaryValue literal.
 
@@ -21,7 +21,7 @@ This is a service. UN Comtrade merchandise statistics do not report a goods head
 
 ## Ranked channels
 
-The free tier of the site shows the first 5. This file is the full list, with an outreach angle on every channel.
+The free tier of the site is the top 5. This file adds 6 more channels and 11 outreach angles, one on every channel.
 
 ### 1. IDS Cologne
 
@@ -40,48 +40,48 @@ Source: IDS Cologne — https://www.ids-cologne.de/
 
 ### 2. Offices of Dentists
 
-- Type: Buyer company type
+- Type: Buyer company type (US NAICS)
 - Money: 4 / 5
 - Authority: 5 / 5
 - Need: 5 / 5
 - Total: 14 / 15
 - Link: https://www.census.gov/naics/?input=621210&year=2022&details=621210
 
-NAICS 621210 is offices of dentists. Money is 4 because a practice pays a subscription and a single chair is a smaller budget than a hospital system. Authority is 5 because the dentist-owner can say yes. Need is 5 because the software is for this establishment.
+NAICS 621210 (United States industry classification) is offices of dentists. Money is 4 because a practice pays a subscription and a single chair is a smaller budget than a hospital system. Authority is 5 because the dentist-owner can say yes. Need is 5 because the software is for this establishment.
 
 **Outreach:** Open with the one workflow you replace this month: the missed-call list, the unbilled claim, or the empty chair. Ask how many providers are in the practice before you quote a group price.
 
-Source: U.S. Census Bureau, NAICS 2022, 621210 — Offices of Dentists — https://www.census.gov/naics/?input=621210&year=2022&details=621210
+Source: U.S. Census Bureau, NAICS 2022, United States industry classification, 621210 — Offices of Dentists — https://www.census.gov/naics/?input=621210&year=2022&details=621210
 
 ### 3. Dentists, General
 
-- Type: Job title
+- Type: Job title (US O*NET)
 - Money: 4 / 5
 - Authority: 5 / 5
 - Need: 5 / 5
 - Total: 14 / 15
 - Link: https://www.onetonline.org/link/summary/29-1021.00
 
-O*NET 29-1021.00 is Dentists, General. Money is 4. Authority is 5 because the owner-dentist signs for the practice. Need is 5.
+O*NET 29 (United States occupation classification)-1021.00 is Dentists, General. Money is 4. Authority is 5 because the owner-dentist signs for the practice. Need is 5.
 
 **Outreach:** Write to the dentist about one hour a week the software gives back. Offer to show it on their schedule, not at a webinar.
 
-Source: O*NET OnLine 29-1021.00 — Dentists, General — https://www.onetonline.org/link/summary/29-1021.00
+Source: O*NET OnLine, United States occupation classification, 29-1021.00 — Dentists, General — https://www.onetonline.org/link/summary/29-1021.00
 
 ### 4. Corporate, Subsidiary, and Regional Managing Offices
 
-- Type: Buyer company type
+- Type: Buyer company type (US NAICS)
 - Money: 4 / 5
 - Authority: 5 / 5
 - Need: 4 / 5
 - Total: 13 / 15
 - Link: https://www.census.gov/naics/?input=551114&year=2022&details=551114
 
-NAICS 551114 is corporate and regional managing offices. Dental groups often buy software from a managing office rather than chair by chair. Money is 4 because a group contract is larger than one clinic, and this industry code is not only dental. Authority is 5 because that office can standardize the practices. Need is 4 because not every managing office is a dental group.
+NAICS 551114 (United States industry classification) is corporate and regional managing offices. Dental groups often buy software from a managing office rather than chair by chair. Money is 4 because a group contract is larger than one clinic, and this industry code is not only dental. Authority is 5 because that office can standardize the practices. Need is 4 because not every managing office is a dental group.
 
 **Outreach:** Ask if they set software for more than one practice. If they do, sell the rollout and the admin role. If they do not, go back to the practice owner.
 
-Source: U.S. Census Bureau, NAICS 2022, 551114 — Corporate, Subsidiary, and Regional Managing Offices — https://www.census.gov/naics/?input=551114&year=2022&details=551114
+Source: U.S. Census Bureau, NAICS 2022, United States industry classification, 551114 — Corporate, Subsidiary, and Regional Managing Offices — https://www.census.gov/naics/?input=551114&year=2022&details=551114
 
 ### 5. Greater New York Dental Meeting
 
@@ -98,24 +98,39 @@ The Greater New York Dental Meeting (gnydm.com) draws practicing dentists and th
 
 Source: Greater New York Dental Meeting — https://www.gnydm.com/
 
-### 6. Medical and Health Services Managers
+### 6. Hinman Dental Meeting
 
-- Type: Job title
+- Type: Trade show
+- Money: 4 / 5
+- Authority: 4 / 5
+- Need: 4 / 5
+- Total: 12 / 15
+- Link: https://hinman.org/
+
+The Hinman Dental Meeting (hinman.org) is a large US dental meeting in Atlanta. Money is 4 because practicing dentists and dealers attend. Authority is 4 because owners are in the building. Need is 4.
+
+**Outreach:** Book owner-dentists and the dealers who already supply their practices. Demo one front-desk workflow and offer a single-location trial.
+
+Source: Hinman Dental Meeting — https://hinman.org/
+
+### 7. Medical and Health Services Managers
+
+- Type: Job title (US O*NET)
 - Money: 4 / 5
 - Authority: 4 / 5
 - Need: 4 / 5
 - Total: 12 / 15
 - Link: https://www.onetonline.org/link/summary/11-9111.00
 
-O*NET 11-9111.00 is Medical and Health Services Managers, the office managers and group operators. Money is 4. Authority is 4 because they can champion and often sign the operational tools. Need is 4.
+O*NET 11 (United States occupation classification)-9111.00 is Medical and Health Services Managers, the office managers and group operators. Money is 4. Authority is 4 because they can champion and often sign the operational tools. Need is 4.
 
 **Outreach:** Talk to the manager about billing, scheduling, and staff time. Ask who else has to agree, and include the dentist if the manager does not sign alone.
 
-Source: O*NET OnLine 11-9111.00 — Medical and Health Services Managers — https://www.onetonline.org/link/summary/11-9111.00
+Source: O*NET OnLine, United States occupation classification, 11-9111.00 — Medical and Health Services Managers — https://www.onetonline.org/link/summary/11-9111.00
 
-### 7. G2 Dental
+### 8. G2 Dental
 
-- Type: Marketplace
+- Type: Marketplace / directory
 - Money: 4 / 5
 - Authority: 3 / 5
 - Need: 5 / 5
@@ -128,9 +143,9 @@ G2's dental category (g2.com/categories/dental) is where practices compare denta
 
 Source: G2 Dental — https://www.g2.com/categories/dental
 
-### 8. Capterra dental software
+### 9. Capterra dental software
 
-- Type: Marketplace
+- Type: Marketplace / directory
 - Money: 4 / 5
 - Authority: 3 / 5
 - Need: 4 / 5
@@ -143,7 +158,22 @@ Capterra's dental software directory (capterra.com/dental-software) is a compari
 
 Source: Capterra dental software — https://www.capterra.com/dental-software/
 
-### 9. Dentaltown
+### 10. American Dental Association
+
+- Type: Community
+- Money: 3 / 5
+- Authority: 2 / 5
+- Need: 4 / 5
+- Total: 9 / 15
+- Link: https://www.ada.org/
+
+The American Dental Association (ada.org) is the US professional body for dentists. Money is 3 because members buy practice tools and the association is not the software customer. Authority is 2 because ADA does not sign a practice contract. Need is 4.
+
+**Outreach:** Use ADA public channels only within their rules. When a member asks about software, offer a trial for one practice and ask who else has to approve it.
+
+Source: American Dental Association — https://www.ada.org/
+
+### 11. Dentaltown
 
 - Type: Community
 - Money: 3 / 5
@@ -160,6 +190,9 @@ Source: Dentaltown — https://www.dentaltown.com/
 
 ## Limits
 
-Editorial scores are judgments, not statistics. Every trade dollar in this report is a UN Comtrade primaryValue literal from the query above. BuyerRadar did not estimate a market size, a growth rate, or a buyer count. A static site cannot check a PayPal payment on a server; the button is the PayPal Smart Buttons client flow.
+Editorial scores are judgments, not statistics. Every trade dollar in this report is a UN Comtrade primaryValue literal from the query above. BuyerRadar did not estimate a market size, a growth rate, or a buyer count.
+
+Contact: nidhi69n@gmail.com
+Refunds: email within 7 days with your order id.
 
 Built by Nidhi Karuturi — https://github.com/Nidhi-bhai

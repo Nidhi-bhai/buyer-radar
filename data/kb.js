@@ -2,8 +2,12 @@ const food = require("./catalog/goods-food");
 const foodMore = require("./catalog/goods-food-2");
 const industrial = require("./catalog/goods-industrial");
 const services = require("./catalog/services");
+const rank = require("../js/rank");
 
 const industries = food.concat(foodMore, industrial, services);
+industries.forEach(function (industry) {
+  industry.channels = industry.channels.map(rank.applyEditorialPolicy);
+});
 
 function assertKb(list) {
   if (list.length < 40) {

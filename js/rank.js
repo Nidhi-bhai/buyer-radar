@@ -15,13 +15,20 @@
   };
   var TYPE_LABELS = {
     country: "Importing country",
-    buyer_type: "Buyer company type",
+    buyer_type: "Buyer company type (US NAICS)",
     tradeshow: "Trade show",
-    job_title: "Job title",
-    marketplace: "Marketplace",
+    job_title: "Job title (US O*NET)",
+    marketplace: "Marketplace / directory",
     rfq: "RFQ board",
     community: "Community"
   };
+  var SPAM_RFQ_URLS = {
+    "https://www.tradekey.com/": true,
+    "https://www.go4worldbusiness.com/": true,
+    "https://sourcing.alibaba.com/": true
+  };
+  var RFQ_CAUTION =
+    "Caution: this RFQ board is spam-prone. Many posts are recycled or unqualified. Confirm the company, the quantity, and who can sign before you reply.";
   var NEED_BY_SPECIFICITY = { specific: 5, close: 4, broad: 3 };
 
   function normalize(value) {
@@ -141,6 +148,25 @@
     return (negative ? "-" : "") + shown;
   }
 
+  function isAggregateReporter(row) {
+    var name = String((row && row.reporterDesc) || "")
+      .toLowerCase()
+      .replace(/\s+/g, " ")
+      .trim();
+    if (String(row && row.reporterCode) === "0") return true;
+    if (name === "world" || name === "areas, nes" || name === "other asia, nes") return true;
+    if (/^other\b/.test(name) && /\bnes$/.test(name)) return true;
+    return false;
+  }
+
+  function applyEditorialPolicy(channel) {
+    if (!channel || channel.type !== "rfq" || !SPAM_RFQ_URLS[channel.url]) return channel;
+    var reason = String(channel.reason || "").replace(/Need is \d+/, "Need is 2");
+    if (reason.indexOf("Caution:") === -1) reason = reason.replace(/\s+$/, "") + " " + RFQ_CAUTION;
+    if (channel.need === 2 && reason === channel.reason) return channel;
+    return Object.assign({}, channel, { need: 2, reason: reason });
+  }
+
   function usableQty(row) {
     if (!row.qtyUnitAbbr || row.qtyUnitAbbr === "N/A") return null;
     var qty = numeric(row.qty);
@@ -162,7 +188,7 @@
     if (!industry.hs || !series || !series.reporters) return [];
     var eligible = series.reporters.filter(function (row) {
       var value = numeric(row.primaryValue);
-      return value !== null && value > 0 && row.reporterDesc;
+      return value !== null && value > 0 && row.reporterDesc && !isAggregateReporter(row);
     });
     var total = eligible.length;
     var need = NEED_BY_SPECIFICITY[industry.hs.specificity] || 3;
@@ -291,9 +317,9 @@
         kind: "missing",
         cmdCode: industry.hs.code,
         note:
-          "No Comtrade snapshot is stored for HS " +
+          "Import figures for HS " +
           industry.hs.code +
-          ". BuyerRadar will not estimate import values. Run scripts/refresh-trade.py."
+          " are not in the stored Comtrade snapshot, so this report does not include a country ranking and does not estimate one."
       };
     }
     return {
@@ -318,11 +344,15 @@
 
   function buildReport(industry, snapshot, query) {
     var series = industry.hs && snapshot && snapshot.series ? snapshot.series[industry.hs.code] : null;
-    var channels = (industry.channels || []).map(withComposite).concat(countryChannels(industry, series).map(withComposite));
+    var channels = (industry.channels || [])
+      .map(applyEditorialPolicy)
+      .map(withComposite)
+      .concat(countryChannels(industry, series).map(withComposite));
     channels.sort(compareChannels);
     channels.forEach(function (channel, index) {
       channel.rank = index + 1;
     });
+    var extraCount = Math.max(0, channels.length - FREE_LIMIT);
     return {
       query: query || industry.name,
       industry: {
@@ -335,6 +365,9 @@
       },
       channels: channels,
       freeLimit: FREE_LIMIT,
+      extraCount: extraCount,
+      outreachCount: channels.length,
+      forSale: extraCount >= 5,
       trade: tradeMeta(industry, snapshot),
       methodology: methodology(snapshot)
     };
@@ -345,7 +378,7 @@
       scale: "Each channel is scored from 1 to 5 on Money (budget), Authority (who can say yes), and Need (fit with this product). The total is the sum, out of 15.",
       ties: "Ties break by Money, then Authority, then Need, then channel type (importing country, buyer type, trade show, job title, marketplace, RFQ board, community), then name.",
       editorial:
-        "Scores on curated channels are editorial judgments explained in the reason and tied to a public page (a NAICS title, an O*NET occupation, a fair, a marketplace, or a community). They are not measurements.",
+        "Scores on curated channels are editorial judgments explained in the reason and tied to a public page. Company types use the United States NAICS classification from the U.S. Census Bureau. Job titles use the United States O*NET occupation classification. Shows, marketplaces, directories, and communities cite their own sites. These scores are not measurements.",
       countries:
         "Importing-country Money is not editorial. Rank 1 in the Comtrade response scores 5, ranks 2–3 score 4, ranks 4–10 score 3. Authority is 4 because importers in that country hold the order. Need is 5, 4, or 3 according to whether the HS heading is specific, close, or a broad basket. The dollar figure is the unmodified primaryValue literal.",
       retrieved: snapshot && snapshot.retrieved ? snapshot.retrieved : null,
@@ -360,6 +393,8 @@
     matchQuery: matchQuery,
     buildReport: buildReport,
     groupExact: groupExact,
-    moneyFromRank: moneyFromRank
+    moneyFromRank: moneyFromRank,
+    isAggregateReporter: isAggregateReporter,
+    applyEditorialPolicy: applyEditorialPolicy
   };
 });

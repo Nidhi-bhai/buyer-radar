@@ -11,7 +11,7 @@ Each channel is scored from 1 to 5 on Money (budget), Authority (who can say yes
 
 Ties break by Money, then Authority, then Need, then channel type (importing country, buyer type, trade show, job title, marketplace, RFQ board, community), then name.
 
-Scores on curated channels are editorial judgments explained in the reason and tied to a public page (a NAICS title, an O*NET occupation, a fair, a marketplace, or a community). They are not measurements.
+Scores on curated channels are editorial judgments explained in the reason and tied to a public page. Company types use the United States NAICS classification from the U.S. Census Bureau. Job titles use the United States O*NET occupation classification. Shows, marketplaces, directories, and communities cite their own sites. These scores are not measurements.
 
 Importing-country Money is not editorial. Rank 1 in the Comtrade response scores 5, ranks 2–3 score 4, ranks 4–10 score 3. Authority is 4 because importers in that country hold the order. Need is 5, 4, or 3 according to whether the HS heading is specific, close, or a broad basket. The dollar figure is the unmodified primaryValue literal.
 
@@ -34,22 +34,22 @@ Moringa leaf powder is commonly declared under HS 121190 (bills of lading often 
 
 ## Ranked channels
 
-The free tier of the site shows the first 5. This file is the full list, with an outreach angle on every channel.
+The free tier of the site is the top 5. This file adds 10 more channels and 15 outreach angles, one on every channel.
 
 ### 1. Medicinal and Botanical Manufacturing
 
-- Type: Buyer company type
+- Type: Buyer company type (US NAICS)
 - Money: 5 / 5
 - Authority: 4 / 5
 - Need: 5 / 5
 - Total: 14 / 15
 - Link: https://www.census.gov/naics/?input=325411&year=2022&details=325411
 
-NAICS 325411 is Medicinal and Botanical Manufacturing: plants that make products from botanicals. Money is 5 because they buy ingredients by the drum or the container, not the jar. Authority is 4 because purchasing and the technical manager can approve a new botanical if the spec and the file pass. Need is 5 because moringa leaf powder is a botanical ingredient, which is what this industry exists to process.
+NAICS 325411 (United States industry classification) is Medicinal and Botanical Manufacturing: plants that make products from botanicals. Money is 5 because they buy ingredients by the drum or the container, not the jar. Authority is 4 because purchasing and the technical manager can approve a new botanical if the spec and the file pass. Need is 5 because moringa leaf powder is a botanical ingredient, which is what this industry exists to process.
 
 **Outreach:** Open with a spec the lab can file: mesh, moisture, microbial limits, heavy metals, and the organic or conventional certificate you actually hold. Offer a paid sample and a price for the first 500 kg, and ask which botanical failed their last incoming inspection.
 
-Source: U.S. Census Bureau, NAICS 2022, 325411 — Medicinal and Botanical Manufacturing — https://www.census.gov/naics/?input=325411&year=2022&details=325411
+Source: U.S. Census Bureau, NAICS 2022, United States industry classification, 325411 — Medicinal and Botanical Manufacturing — https://www.census.gov/naics/?input=325411&year=2022&details=325411
 
 ### 2. BioFach
 
@@ -68,33 +68,33 @@ Source: BioFach — https://www.biofach.de/en
 
 ### 3. Drugs and Druggists' Sundries Merchant Wholesalers
 
-- Type: Buyer company type
+- Type: Buyer company type (US NAICS)
 - Money: 5 / 5
 - Authority: 4 / 5
 - Need: 4 / 5
 - Total: 13 / 15
 - Link: https://www.census.gov/naics/?input=424210&year=2022&details=424210
 
-NAICS 424210 covers wholesalers of drugs and druggists' sundries, the firms that move supplements toward pharmacies and practitioners. Money is 5 because wholesale buying is a stocked line, not a one-off. Authority is 4 because a category buyer can add a bulk ingredient or a branded tub. Need is 4 because many of these houses buy finished supplements rather than raw leaf powder, so the fit is real and not automatic.
+NAICS 424210 (United States industry classification) covers wholesalers of drugs and druggists' sundries, the firms that move supplements toward pharmacies and practitioners. Money is 5 because wholesale buying is a stocked line, not a one-off. Authority is 4 because a category buyer can add a bulk ingredient or a branded tub. Need is 4 because many of these houses buy finished supplements rather than raw leaf powder, so the fit is real and not automatic.
 
 **Outreach:** Ask whether they buy bulk botanicals or only finished SKUs. If they buy bulk, lead with a COA and a landed price. If they buy brands, send a retail-ready offer with case pack and shelf life instead of a commodity quote.
 
-Source: U.S. Census Bureau, NAICS 2022, 424210 — Drugs and Druggists' Sundries Merchant Wholesalers — https://www.census.gov/naics/?input=424210&year=2022&details=424210
+Source: U.S. Census Bureau, NAICS 2022, United States industry classification, 424210 — Drugs and Druggists' Sundries Merchant Wholesalers — https://www.census.gov/naics/?input=424210&year=2022&details=424210
 
 ### 4. Purchasing Managers
 
-- Type: Job title
+- Type: Job title (US O*NET)
 - Money: 4 / 5
 - Authority: 5 / 5
 - Need: 4 / 5
 - Total: 13 / 15
 - Link: https://www.onetonline.org/link/summary/11-3061.00
 
-O*NET OnLine lists 11-3061.00 Purchasing Managers as its own occupation. Money is 4 because the job exists to spend a supply budget. Authority is 5 because this is the person who can commit the company to a supplier. Need is 4 because moringa powder is an ingredient purchase, though not every purchasing manager buys botanicals.
+O*NET 11-3061.00 (United States occupation classification). O*NET OnLine lists 11-3061.00 Purchasing Managers as its own occupation. Money is 4 because the job exists to spend a supply budget. Authority is 5 because this is the person who can commit the company to a supplier. Need is 4 because moringa powder is an ingredient purchase, though not every purchasing manager buys botanicals.
 
 **Outreach:** Use the title in the greeting and attach a spec, not a brand story. Ask what the current botanical failed on: color, plate count, or paperwork.
 
-Source: O*NET OnLine 11-3061.00 — Purchasing Managers — https://www.onetonline.org/link/summary/11-3061.00
+Source: O*NET OnLine, United States occupation classification, 11-3061.00 — Purchasing Managers — https://www.onetonline.org/link/summary/11-3061.00
 
 ### 5. SupplySide Global
 
@@ -113,18 +113,18 @@ Source: SupplySide Global — https://www.supplysideglobal.com/
 
 ### 6. Purchasing Agents, Except Wholesale, Retail, and Farm Products
 
-- Type: Job title
+- Type: Job title (US O*NET)
 - Money: 4 / 5
 - Authority: 4 / 5
 - Need: 5 / 5
 - Total: 13 / 15
 - Link: https://www.onetonline.org/link/summary/13-1023.00
 
-O*NET 13-1023.00 is Purchasing Agents, Except Wholesale, Retail, and Farm Products: the buyers inside manufacturing plants. Money is 4 because they place production orders. Authority is 4 because they can recommend and often issue the order, with a manager countersigning a new vendor. Need is 5 because a botanical manufacturer buys moringa powder as a production input, which is this occupation's work.
+O*NET 13 (United States occupation classification)-1023.00 is Purchasing Agents, Except Wholesale, Retail, and Farm Products: the buyers inside manufacturing plants. Money is 4 because they place production orders. Authority is 4 because they can recommend and often issue the order, with a manager countersigning a new vendor. Need is 5 because a botanical manufacturer buys moringa powder as a production input, which is this occupation's work.
 
 **Outreach:** Send the vendor packet their plant already uses: W-9 or company registration, spec, allergen statement, and a sample lot number. Ask for the approved-vendor checklist rather than a tasting.
 
-Source: O*NET OnLine 13-1023.00 — Purchasing Agents, Except Wholesale, Retail, and Farm Products — https://www.onetonline.org/link/summary/13-1023.00
+Source: O*NET OnLine, United States occupation classification, 13-1023.00 — Purchasing Agents, Except Wholesale, Retail, and Farm Products — https://www.onetonline.org/link/summary/13-1023.00
 
 ### 7. USA — reported imports of HS 121190
 
@@ -137,9 +137,9 @@ Source: O*NET OnLine 13-1023.00 — Purchasing Agents, Except Wholesale, Retail,
 - primaryValue USD: 533185340.0
 - primaryValue with separators: 533,185,340.0
 - Quantity: 86662417.0 kg
-- Rank among reporters: 1 of 147 in the stored Comtrade response
+- Rank among reporters: 1 of 146 in the stored Comtrade response
 
-USA reported primaryValue 533185340.0 USD (shown with separators as 533,185,340.0) for HS 121190 imports from the world in 2024. That number is the UN Comtrade public-preview CIF primary value for partner World. Reported quantity: 86,662,417.0 kg (quantity not flagged as estimated). Money is 5 because this reporter ranks 1 of 147 reporters in that response by primaryValue. Authority is 4 because the country is where the buyers are: importers and distributors there hold the purchase order, and the country itself does not. Need is 3. This heading is a basket shared with other products. The dollars are real for the heading and are not a measure of this product alone. Official commodity description: Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered. The preview count matched the rows stored (147), under the 500-row cap.
+USA reported primaryValue 533185340.0 USD (shown with separators as 533,185,340.0) for HS 121190 imports from the world in 2024. That number is the UN Comtrade public-preview CIF primary value for partner World. Reported quantity: 86,662,417.0 kg (quantity not flagged as estimated). Money is 5 because this reporter ranks 1 of 146 reporters in that response by primaryValue. Authority is 4 because the country is where the buyers are: importers and distributors there hold the purchase order, and the country itself does not. Need is 3. This heading is a basket shared with other products. The dollars are real for the heading and are not a measure of this product alone. Official commodity description: Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered. The preview count matched the rows stored (147), under the 500-row cap.
 
 **Outreach:** Do not email a country. Use USA as a map: find importers there that already clear HS 121190 and open with the Comtrade fact that USA reported primaryValue 533185340.0 USD of this heading in 2024. Offer a first-container spec sheet, not a market-size story.
 
@@ -156,9 +156,9 @@ Source: UN Comtrade public preview API, HS 121190, 2024 imports from World — h
 - primaryValue USD: 520523364.352
 - primaryValue with separators: 520,523,364.352
 - Quantity: 68115256.015 kg (estimated flag)
-- Rank among reporters: 2 of 147 in the stored Comtrade response
+- Rank among reporters: 2 of 146 in the stored Comtrade response
 
-Germany reported primaryValue 520523364.352 USD (shown with separators as 520,523,364.352) for HS 121190 imports from the world in 2024. That number is the UN Comtrade public-preview CIF primary value for partner World. Reported quantity: 68,115,256.015 kg (Comtrade flagged the quantity as estimated). Money is 4 because this reporter ranks 2 of 147 reporters in that response by primaryValue. Authority is 4 because the country is where the buyers are: importers and distributors there hold the purchase order, and the country itself does not. Need is 3. This heading is a basket shared with other products. The dollars are real for the heading and are not a measure of this product alone. Official commodity description: Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered. The preview count matched the rows stored (147), under the 500-row cap.
+Germany reported primaryValue 520523364.352 USD (shown with separators as 520,523,364.352) for HS 121190 imports from the world in 2024. That number is the UN Comtrade public-preview CIF primary value for partner World. Reported quantity: 68,115,256.015 kg (Comtrade flagged the quantity as estimated). Money is 4 because this reporter ranks 2 of 146 reporters in that response by primaryValue. Authority is 4 because the country is where the buyers are: importers and distributors there hold the purchase order, and the country itself does not. Need is 3. This heading is a basket shared with other products. The dollars are real for the heading and are not a measure of this product alone. Official commodity description: Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered. The preview count matched the rows stored (147), under the 500-row cap.
 
 **Outreach:** Do not email a country. Use Germany as a map: find importers there that already clear HS 121190 and open with the Comtrade fact that Germany reported primaryValue 520523364.352 USD of this heading in 2024. Offer a first-container spec sheet, not a market-size story.
 
@@ -175,9 +175,9 @@ Source: UN Comtrade public preview API, HS 121190, 2024 imports from World — h
 - primaryValue USD: 287756367.857
 - primaryValue with separators: 287,756,367.857
 - Quantity: 30935623.686 kg (estimated flag)
-- Rank among reporters: 3 of 147 in the stored Comtrade response
+- Rank among reporters: 3 of 146 in the stored Comtrade response
 
-Japan reported primaryValue 287756367.857 USD (shown with separators as 287,756,367.857) for HS 121190 imports from the world in 2024. That number is the UN Comtrade public-preview CIF primary value for partner World. Reported quantity: 30,935,623.686 kg (Comtrade flagged the quantity as estimated). Money is 4 because this reporter ranks 3 of 147 reporters in that response by primaryValue. Authority is 4 because the country is where the buyers are: importers and distributors there hold the purchase order, and the country itself does not. Need is 3. This heading is a basket shared with other products. The dollars are real for the heading and are not a measure of this product alone. Official commodity description: Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered. The preview count matched the rows stored (147), under the 500-row cap.
+Japan reported primaryValue 287756367.857 USD (shown with separators as 287,756,367.857) for HS 121190 imports from the world in 2024. That number is the UN Comtrade public-preview CIF primary value for partner World. Reported quantity: 30,935,623.686 kg (Comtrade flagged the quantity as estimated). Money is 4 because this reporter ranks 3 of 146 reporters in that response by primaryValue. Authority is 4 because the country is where the buyers are: importers and distributors there hold the purchase order, and the country itself does not. Need is 3. This heading is a basket shared with other products. The dollars are real for the heading and are not a measure of this product alone. Official commodity description: Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered. The preview count matched the rows stored (147), under the 500-row cap.
 
 **Outreach:** Do not email a country. Use Japan as a map: find importers there that already clear HS 121190 and open with the Comtrade fact that Japan reported primaryValue 287756367.857 USD of this heading in 2024. Offer a first-container spec sheet, not a market-size story.
 
@@ -185,7 +185,7 @@ Source: UN Comtrade public preview API, HS 121190, 2024 imports from World — h
 
 ### 10. Alibaba.com
 
-- Type: Marketplace
+- Type: Marketplace / directory
 - Money: 4 / 5
 - Authority: 3 / 5
 - Need: 4 / 5
@@ -198,22 +198,7 @@ Alibaba.com is a public B2B marketplace where buyers request bulk ingredients. M
 
 Source: Alibaba.com — https://www.alibaba.com/
 
-### 11. Alibaba Sourcing
-
-- Type: RFQ board
-- Money: 4 / 5
-- Authority: 3 / 5
-- Need: 4 / 5
-- Total: 11 / 15
-- Link: https://sourcing.alibaba.com/
-
-Alibaba Sourcing (sourcing.alibaba.com) is the public request-for-quotation side of Alibaba. Money is 4 when the request states a real quantity. Authority is 3 because the poster may be an agent. Need is 4 because buyers do post for botanical powders, and many posts are too vague to price.
-
-**Outreach:** Bid only when the RFQ names mesh or a use (capsules, drink mix, extract). State MOQ and origin in the first line so a serious buyer can forward it internally.
-
-Source: Alibaba Sourcing — https://sourcing.alibaba.com/
-
-### 12. American Herbal Products Association
+### 11. American Herbal Products Association
 
 - Type: Community
 - Money: 3 / 5
@@ -228,7 +213,7 @@ AHPA (ahpa.org) is the American Herbal Products Association, whose members make 
 
 Source: American Herbal Products Association — https://www.ahpa.org/
 
-### 13. Australia — reported imports of HS 121190
+### 12. Australia — reported imports of HS 121190
 
 - Type: Importing country
 - Money: 3 / 5
@@ -239,15 +224,15 @@ Source: American Herbal Products Association — https://www.ahpa.org/
 - primaryValue USD: 189899191.798
 - primaryValue with separators: 189,899,191.798
 - Quantity: 5001082.0 kg
-- Rank among reporters: 5 of 147 in the stored Comtrade response
+- Rank among reporters: 5 of 146 in the stored Comtrade response
 
-Australia reported primaryValue 189899191.798 USD (shown with separators as 189,899,191.798) for HS 121190 imports from the world in 2024. That number is the UN Comtrade public-preview CIF primary value for partner World. Reported quantity: 5,001,082.0 kg (quantity not flagged as estimated). Money is 3 because this reporter ranks 5 of 147 reporters in that response by primaryValue. Authority is 4 because the country is where the buyers are: importers and distributors there hold the purchase order, and the country itself does not. Need is 3. This heading is a basket shared with other products. The dollars are real for the heading and are not a measure of this product alone. Official commodity description: Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered. The preview count matched the rows stored (147), under the 500-row cap.
+Australia reported primaryValue 189899191.798 USD (shown with separators as 189,899,191.798) for HS 121190 imports from the world in 2024. That number is the UN Comtrade public-preview CIF primary value for partner World. Reported quantity: 5,001,082.0 kg (quantity not flagged as estimated). Money is 3 because this reporter ranks 5 of 146 reporters in that response by primaryValue. Authority is 4 because the country is where the buyers are: importers and distributors there hold the purchase order, and the country itself does not. Need is 3. This heading is a basket shared with other products. The dollars are real for the heading and are not a measure of this product alone. Official commodity description: Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered. The preview count matched the rows stored (147), under the 500-row cap.
 
 **Outreach:** Do not email a country. Use Australia as a map: find importers there that already clear HS 121190 and open with the Comtrade fact that Australia reported primaryValue 189899191.798 USD of this heading in 2024. Offer a first-container spec sheet, not a market-size story.
 
 Source: UN Comtrade public preview API, HS 121190, 2024 imports from World — https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=121190&maxRecords=500&includeDesc=true
 
-### 14. China — reported imports of HS 121190
+### 13. China — reported imports of HS 121190
 
 - Type: Importing country
 - Money: 3 / 5
@@ -258,15 +243,15 @@ Source: UN Comtrade public preview API, HS 121190, 2024 imports from World — h
 - primaryValue USD: 237991616.0
 - primaryValue with separators: 237,991,616.0
 - Quantity: 219827914.129 kg (estimated flag)
-- Rank among reporters: 4 of 147 in the stored Comtrade response
+- Rank among reporters: 4 of 146 in the stored Comtrade response
 
-China reported primaryValue 237991616.0 USD (shown with separators as 237,991,616.0) for HS 121190 imports from the world in 2024. That number is the UN Comtrade public-preview CIF primary value for partner World. Reported quantity: 219,827,914.129 kg (Comtrade flagged the quantity as estimated). Money is 3 because this reporter ranks 4 of 147 reporters in that response by primaryValue. Authority is 4 because the country is where the buyers are: importers and distributors there hold the purchase order, and the country itself does not. Need is 3. This heading is a basket shared with other products. The dollars are real for the heading and are not a measure of this product alone. Official commodity description: Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered. The preview count matched the rows stored (147), under the 500-row cap.
+China reported primaryValue 237991616.0 USD (shown with separators as 237,991,616.0) for HS 121190 imports from the world in 2024. That number is the UN Comtrade public-preview CIF primary value for partner World. Reported quantity: 219,827,914.129 kg (Comtrade flagged the quantity as estimated). Money is 3 because this reporter ranks 4 of 146 reporters in that response by primaryValue. Authority is 4 because the country is where the buyers are: importers and distributors there hold the purchase order, and the country itself does not. Need is 3. This heading is a basket shared with other products. The dollars are real for the heading and are not a measure of this product alone. Official commodity description: Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered. The preview count matched the rows stored (147), under the 500-row cap.
 
 **Outreach:** Do not email a country. Use China as a map: find importers there that already clear HS 121190 and open with the Comtrade fact that China reported primaryValue 237991616.0 USD of this heading in 2024. Offer a first-container spec sheet, not a market-size story.
 
 Source: UN Comtrade public preview API, HS 121190, 2024 imports from World — https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=121190&maxRecords=500&includeDesc=true
 
-### 15. France — reported imports of HS 121190
+### 14. France — reported imports of HS 121190
 
 - Type: Importing country
 - Money: 3 / 5
@@ -277,16 +262,34 @@ Source: UN Comtrade public preview API, HS 121190, 2024 imports from World — h
 - primaryValue USD: 141971475.368
 - primaryValue with separators: 141,971,475.368
 - Quantity: 22842581.784 kg (estimated flag)
-- Rank among reporters: 6 of 147 in the stored Comtrade response
+- Rank among reporters: 6 of 146 in the stored Comtrade response
 
-France reported primaryValue 141971475.368 USD (shown with separators as 141,971,475.368) for HS 121190 imports from the world in 2024. That number is the UN Comtrade public-preview CIF primary value for partner World. Reported quantity: 22,842,581.784 kg (Comtrade flagged the quantity as estimated). Money is 3 because this reporter ranks 6 of 147 reporters in that response by primaryValue. Authority is 4 because the country is where the buyers are: importers and distributors there hold the purchase order, and the country itself does not. Need is 3. This heading is a basket shared with other products. The dollars are real for the heading and are not a measure of this product alone. Official commodity description: Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered. The preview count matched the rows stored (147), under the 500-row cap.
+France reported primaryValue 141971475.368 USD (shown with separators as 141,971,475.368) for HS 121190 imports from the world in 2024. That number is the UN Comtrade public-preview CIF primary value for partner World. Reported quantity: 22,842,581.784 kg (Comtrade flagged the quantity as estimated). Money is 3 because this reporter ranks 6 of 146 reporters in that response by primaryValue. Authority is 4 because the country is where the buyers are: importers and distributors there hold the purchase order, and the country itself does not. Need is 3. This heading is a basket shared with other products. The dollars are real for the heading and are not a measure of this product alone. Official commodity description: Plants and parts (including seeds and fruits) n.e.c. in heading no. 1211, of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered. The preview count matched the rows stored (147), under the 500-row cap.
 
 **Outreach:** Do not email a country. Use France as a map: find importers there that already clear HS 121190 and open with the Comtrade fact that France reported primaryValue 141971475.368 USD of this heading in 2024. Offer a first-container spec sheet, not a market-size story.
 
 Source: UN Comtrade public preview API, HS 121190, 2024 imports from World — https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=121190&maxRecords=500&includeDesc=true
 
+### 15. Alibaba Sourcing
+
+- Type: RFQ board
+- Money: 4 / 5
+- Authority: 3 / 5
+- Need: 2 / 5
+- Total: 9 / 15
+- Link: https://sourcing.alibaba.com/
+
+Alibaba Sourcing (sourcing.alibaba.com) is the public request-for-quotation side of Alibaba. Money is 4 when the request states a real quantity. Authority is 3 because the poster may be an agent. Need is 2 because buyers do post for botanical powders, and many posts are too vague to price. Caution: this RFQ board is spam-prone. Many posts are recycled or unqualified. Confirm the company, the quantity, and who can sign before you reply.
+
+**Outreach:** Bid only when the RFQ names mesh or a use (capsules, drink mix, extract). State MOQ and origin in the first line so a serious buyer can forward it internally.
+
+Source: Alibaba Sourcing — https://sourcing.alibaba.com/
+
 ## Limits
 
-Editorial scores are judgments, not statistics. Every trade dollar in this report is a UN Comtrade primaryValue literal from the query above. BuyerRadar did not estimate a market size, a growth rate, or a buyer count. A static site cannot check a PayPal payment on a server; the button is the PayPal Smart Buttons client flow.
+Editorial scores are judgments, not statistics. Every trade dollar in this report is a UN Comtrade primaryValue literal from the query above. BuyerRadar did not estimate a market size, a growth rate, or a buyer count.
+
+Contact: nidhi69n@gmail.com
+Refunds: email within 7 days with your order id.
 
 Built by Nidhi Karuturi — https://github.com/Nidhi-bhai

@@ -7,6 +7,7 @@ const assert = require("assert");
 const { industries } = require("../data/kb");
 const rank = require("../js/rank");
 const reportLib = require("../js/report");
+const purchases = require("../js/purchases");
 
 const root = path.join(__dirname, "..");
 const trade = JSON.parse(fs.readFileSync(path.join(root, "data", "trade-snapshots.json"), "utf8"));
@@ -149,6 +150,111 @@ check("bare tea does not guess between green and black", function () {
   assert.ok(found.alternatives.length >= 2);
 });
 
+check("purchases persist product, order id, and time", function () {
+  const mem = {
+    store: {},
+    getItem: function (key) { return Object.prototype.hasOwnProperty.call(this.store, key) ? this.store[key] : null; },
+    setItem: function (key, value) { this.store[key] = String(value); }
+  };
+  purchases.save(mem, {
+    product: "Moringa powder",
+    slug: "moringa-powder",
+    query: "moringa powder",
+    orderId: "ORDER-1",
+    purchasedAt: "2026-10-27T08:53:00.000Z"
+  });
+  const again = purchases.forSlug(mem, "moringa-powder");
+  assert.strictEqual(again.product, "Moringa powder");
+  assert.strictEqual(again.orderId, "ORDER-1");
+  assert.strictEqual(again.purchasedAt, "2026-10-27T08:53:00.000Z");
+  const markdown = reportLib.toMarkdown(Object.assign({}, rank.buildReport(industries[0], trade, "moringa powder"), again));
+  assert.match(markdown, /Order id: ORDER-1/);
+  assert.match(markdown, /email within 7 days with your order id/);
+  assert.match(markdown, /nidhi69n@gmail.com/);
+});
+
+check("aggregate partners are left out of country rankings", function () {
+  industries.filter(function (item) { return item.kind === "goods"; }).forEach(function (item) {
+    const report = rank.buildReport(item, trade, item.name);
+    report.channels.filter(function (channel) { return channel.type === "country"; }).forEach(function (channel) {
+      assert.ok(!rank.isAggregateReporter({
+        reporterDesc: channel.figures.reporter,
+        reporterCode: channel.figures.reporterCode
+      }), item.slug + " ranked " + channel.figures.reporter);
+    });
+  });
+  const moringaPage = fs.readFileSync(path.join(root, "industries", "moringa-powder.html"), "utf8");
+  assert.ok(!moringaPage.includes("Other Asia, nes"));
+});
+
+check("spam-prone RFQ boards score Need 2 with a caution", function () {
+  const spamHosts = ["tradekey.com", "go4worldbusiness.com", "sourcing.alibaba.com"];
+  let seen = 0;
+  industries.forEach(function (industry) {
+    industry.channels.forEach(function (channel) {
+      if (channel.type !== "rfq") return;
+      const spam = spamHosts.some(function (host) { return channel.url.indexOf(host) !== -1; });
+      if (!spam) return;
+      seen += 1;
+      assert.strictEqual(channel.need, 2, industry.slug + " " + channel.name);
+      assert.match(channel.reason, /Caution:/);
+      assert.match(channel.reason, /spam-prone/);
+    });
+  });
+  assert.ok(seen >= 10, "expected spam RFQ channels, saw " + seen);
+  const valves = industries.find(function (item) { return item.slug === "industrial-valves"; });
+  const thomas = valves.channels.find(function (channel) { return channel.name === "ThomasNet"; });
+  assert.ok(thomas.need > 2);
+});
+
+check("Europages is a marketplace or directory", function () {
+  const bananas = industries.find(function (item) { return item.slug === "bananas"; });
+  const europages = bananas.channels.find(function (channel) { return channel.name === "Europages"; });
+  assert.strictEqual(europages.type, "marketplace");
+  assert.strictEqual(rank.TYPE_LABELS.marketplace, "Marketplace / directory");
+});
+
+check("NAICS and O*NET are labeled as US classifications", function () {
+  const dental = industries.find(function (item) { return item.slug === "b2b-saas-dentists"; });
+  const office = dental.channels.find(function (channel) { return channel.name === "Offices of Dentists"; });
+  const dentist = dental.channels.find(function (channel) { return channel.type === "job_title"; });
+  assert.match(office.reason, /United States industry classification/);
+  assert.match(office.source.title, /United States industry classification/);
+  assert.match(dentist.reason, /United States occupation classification/);
+  assert.match(dentist.source.title, /United States occupation classification/);
+  assert.match(rank.TYPE_LABELS.buyer_type, /US NAICS/);
+  assert.match(rank.TYPE_LABELS.job_title, /US O\*NET/);
+});
+
+check("every industry can sell a report with at least 5 extra channels", function () {
+  industries.forEach(function (industry) {
+    const report = rank.buildReport(industry, trade, industry.name);
+    assert.ok(report.forSale, industry.slug + " extra " + report.extraCount);
+    assert.ok(report.extraCount >= 5, industry.slug);
+    assert.strictEqual(report.outreachCount, report.channels.length);
+  });
+});
+
+check("PDF wraps the Comtrade URL", function () {
+  const industry = industries.find(function (item) { return item.slug === "moringa-powder"; });
+  const report = rank.buildReport(industry, trade, "moringa powder");
+  const pdf = reportLib.toPdf(report);
+  const url = trade.series["121190"].queryUrl;
+  assert.ok(url.length > 92, "url length " + url.length);
+  const lines = [];
+  const re = /\(((?:\\.|[^\\)])*)\) Tj/g;
+  let match;
+  while ((match = re.exec(pdf))) {
+    lines.push(match[1].replace(/\\([()\\])/g, "$1"));
+  }
+  lines.forEach(function (line) {
+    assert.ok(line.length <= 92, "line " + line.length + ": " + line.slice(0, 120));
+  });
+  assert.ok(!lines.some(function (line) { return line.indexOf(url) !== -1; }));
+  assert.ok(lines.some(function (line) { return line.indexOf("comtradeapi.un.org") !== -1; }));
+  assert.ok(lines.some(function (line) { return line.indexOf("includeDesc=true") !== -1; }));
+});
+
 check("generated pages and sitemap", function () {
   const sitemap = fs.readFileSync(path.join(root, "sitemap.xml"), "utf8");
   industries.forEach(function (industry) {
@@ -158,14 +264,33 @@ check("generated pages and sitemap", function () {
     assert.match(html, new RegExp("Where to find buyers for " + industry.name.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")));
     assert.match(html, /Nidhi Karuturi/);
     assert.match(html, /https:\/\/github\.com\/Nidhi-bhai/);
+    assert.match(html, /nidhi69n@gmail.com/);
+    assert.match(html, /email within 7 days with your order id/);
+    assert.match(html, /property="og:image"/);
+    const description = html.match(/<meta name="description" content="([^"]*)"/)[1];
+    assert.ok(description.length <= 155, industry.slug + " description " + description.length);
     assert.ok(!html.includes("**Outreach:**"), "SEO page leaked an outreach label");
+    assert.ok(!/config\.js|PAYPAL_CLIENT_ID|refresh-trade|CORS/.test(html), industry.slug + " has setup text");
     assert.match(sitemap, new RegExp(industry.slug + "\\.html"));
   });
   const home = fs.readFileSync(path.join(root, "index.html"), "utf8");
   assert.match(home, /Nidhi Karuturi/);
   assert.match(home, /industries\/moringa-powder\.html/);
+  assert.match(home, /nidhi69n@gmail.com/);
+  assert.match(home, /email within 7 days with your order id/);
+  assert.match(home, /Download again|id="library"/);
+  assert.match(home, /property="og:image"/);
+  const homeDescription = home.match(/<meta name="description" content="([^"]*)"/)[1];
+  assert.ok(homeDescription.length <= 155, "home description " + homeDescription.length);
+  assert.ok(!/PAYPAL_CLIENT_ID|refresh-trade|from <code>config\.js<\/code>/.test(home));
+  const app = fs.readFileSync(path.join(root, "js", "app.js"), "utf8");
+  assert.match(app, /Download again/);
+  assert.match(app, /Full report not available yet/);
+  assert.match(app, /localStorage/);
+  assert.ok(!/config\.js|refresh-trade|static site/.test(app));
   assert.match(fs.readFileSync(path.join(root, "config.js"), "utf8"), /PAYPAL_CLIENT_ID/);
   assert.ok(!/-----BEGIN|sk_live|client_secret/i.test(fs.readFileSync(path.join(root, "config.js"), "utf8")));
+  assert.ok(fs.existsSync(path.join(root, "og.png")));
 });
 
 if (failures.length) {

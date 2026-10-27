@@ -6,7 +6,7 @@ endobj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
 endobj
 3 0 obj
-<< /Length 3813 >>
+<< /Length 3911 >>
 stream
 BT
 /F2 11 Tf
@@ -45,9 +45,13 @@ BT
 0 -12 Td
 /F1 9 Tf (Scores on curated channels are editorial judgments explained in the reason and tied to a) Tj
 0 -12 Td
-/F1 9 Tf (public page \(a NAICS title, an O*NET occupation, a fair, a marketplace, or a community\).) Tj
+/F1 9 Tf (public page. Company types use the United States NAICS classification from the U.S. Census) Tj
 0 -12 Td
-/F1 9 Tf (They are not measurements.) Tj
+/F1 9 Tf (Bureau. Job titles use the United States O*NET occupation classification. Shows,) Tj
+0 -12 Td
+/F1 9 Tf (marketplaces, directories, and communities cite their own sites. These scores are not) Tj
+0 -12 Td
+/F1 9 Tf (measurements.) Tj
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
@@ -91,7 +95,9 @@ BT
 0 -12 Td
 /F1 9 Tf (- Query:) Tj
 0 -12 Td
-/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=854143&maxRecords=500&includeDesc=true) Tj
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&) Tj
+0 -12 Td
+/F1 9 Tf (cmdCode=854143&maxRecords=500&includeDesc=true) Tj
 0 -12 Td
 /F1 9 Tf (- API documentation: https://uncomtrade.org/docs/un-comtrade-api/) Tj
 0 -12 Td
@@ -99,7 +105,9 @@ BT
 0 -12 Td
 /F1 9 Tf (- HS nomenclature: World Customs Organization - HS Nomenclature 2022 edition -) Tj
 0 -12 Td
-/F1 9 Tf (https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools/hs-nomenclature-2022-edition.aspx) Tj
+/F1 9 Tf (https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools/) Tj
+0 -12 Td
+/F1 9 Tf (hs-nomenclature-2022-edition.aspx) Tj
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
@@ -107,33 +115,33 @@ BT
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
-/F1 9 Tf (The free tier of the site shows the first 5. This file is the full list, with an outreach) Tj
+/F1 9 Tf (The free tier of the site is the top 5. This file adds 10 more channels and 15 outreach) Tj
 0 -12 Td
-/F1 9 Tf (angle on every channel.) Tj
+/F1 9 Tf (angles, one on every channel.) Tj
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
 /F2 11 Tf (1. Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment) Tj
 0 -12 Td
 /F1 9 Tf (Merchant Wholesalers) Tj
-0 -12 Td
-/F1 9 Tf () Tj
-0 -12 Td
-/F1 9 Tf (- Type: Buyer company type) Tj
-0 -12 Td
-/F1 9 Tf (- Money: 5 / 5) Tj
-0 -12 Td
-/F1 9 Tf (- Authority: 4 / 5) Tj
 ET
 BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 1 of 8  |  Built by Nidhi Karuturi) Tj ET
 endstream
 endobj
 4 0 obj
-<< /Length 3993 >>
+<< /Length 3699 >>
 stream
 BT
 /F2 11 Tf
 54 738 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: Buyer company type \(US NAICS\)) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 5 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 4 / 5) Tj
+0 -12 Td
 /F1 9 Tf (- Need: 5 / 5) Tj
 0 -12 Td
 /F1 9 Tf (- Total: 14 / 15) Tj
@@ -142,11 +150,11 @@ BT
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
-/F1 9 Tf (NAICS 423610 wholesales electrical apparatus, which is how modules reach installers. Money) Tj
+/F1 9 Tf (NAICS 423610 \(United States industry classification\) wholesales electrical apparatus, which) Tj
 0 -12 Td
-/F1 9 Tf (is 5 because distributors buy containers. Authority is 4. Need is 5 because a panel is) Tj
+/F1 9 Tf (is how modules reach installers. Money is 5 because distributors buy containers. Authority) Tj
 0 -12 Td
-/F1 9 Tf (electrical apparatus of the kind this industry stocks.) Tj
+/F1 9 Tf (is 4. Need is 5 because a panel is electrical apparatus of the kind this industry stocks.) Tj
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
@@ -158,11 +166,11 @@ BT
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
-/F1 9 Tf (Source: U.S. Census Bureau, NAICS 2022, 423610 - Electrical Apparatus and Equipment, Wiring) Tj
+/F1 9 Tf (Source: U.S. Census Bureau, NAICS 2022, United States industry classification, 423610 -) Tj
 0 -12 Td
-/F1 9 Tf (Supplies, and Related Equipment Merchant Wholesalers -) Tj
+/F1 9 Tf (Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant) Tj
 0 -12 Td
-/F1 9 Tf (https://www.census.gov/naics/?input=423610&year=2022&details=423610) Tj
+/F1 9 Tf (Wholesalers - https://www.census.gov/naics/?input=423610&year=2022&details=423610) Tj
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
@@ -218,7 +226,9 @@ BT
 0 -12 Td
 /F1 9 Tf (- Link:) Tj
 0 -12 Td
-/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=854143&maxRecords=500&includeDesc=true) Tj
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&) Tj
+0 -12 Td
+/F1 9 Tf (cmdCode=854143&maxRecords=500&includeDesc=true) Tj
 0 -12 Td
 /F1 9 Tf (- primaryValue USD: 15193756743.0) Tj
 0 -12 Td
@@ -226,7 +236,7 @@ BT
 0 -12 Td
 /F1 9 Tf (- Quantity: 103775332.0 u) Tj
 0 -12 Td
-/F1 9 Tf (- Rank among reporters: 1 of 132 in the stored Comtrade response) Tj
+/F1 9 Tf (- Rank among reporters: 1 of 131 in the stored Comtrade response) Tj
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
@@ -236,8 +246,17 @@ BT
 0 -12 Td
 /F1 9 Tf (primary value for partner World. Reported quantity: 103,775,332.0 u \(quantity not flagged as) Tj
 0 -12 Td
-/F1 9 Tf (estimated\). Money is 5 because this reporter ranks 1 of 132 reporters in that response by) Tj
-0 -12 Td
+/F1 9 Tf (estimated\). Money is 5 because this reporter ranks 1 of 131 reporters in that response by) Tj
+ET
+BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 2 of 8  |  Built by Nidhi Karuturi) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Length 4003 >>
+stream
+BT
+/F2 11 Tf
+54 738 Td
 /F1 9 Tf (primaryValue. Authority is 4 because the country is where the buyers are: importers and) Tj
 0 -12 Td
 /F1 9 Tf (distributors there hold the purchase order, and the country itself does not. Need is 5. The) Tj
@@ -247,16 +266,7 @@ BT
 /F1 9 Tf (recorded trade in it. Official commodity description: Electrical apparatus; photosensitive) Tj
 0 -12 Td
 /F1 9 Tf (semiconductor devices, photovoltaic cells assembled in modules or made up into panels. The) Tj
-ET
-BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 2 of 8  |  Built by Nidhi Karuturi) Tj ET
-endstream
-endobj
-5 0 obj
-<< /Length 3674 >>
-stream
-BT
-/F2 11 Tf
-54 738 Td
+0 -12 Td
 /F1 9 Tf (preview count matched the rows stored \(132\), under the 500-row cap.) Tj
 0 -12 Td
 /F1 9 Tf () Tj
@@ -271,7 +281,9 @@ BT
 0 -12 Td
 /F1 9 Tf (Source: UN Comtrade public preview API, HS 854143, 2024 imports from World -) Tj
 0 -12 Td
-/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=854143&maxRecords=500&includeDesc=true) Tj
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&) Tj
+0 -12 Td
+/F1 9 Tf (cmdCode=854143&maxRecords=500&includeDesc=true) Tj
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
@@ -279,7 +291,7 @@ BT
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
-/F1 9 Tf (- Type: Job title) Tj
+/F1 9 Tf (- Type: Job title \(US O*NET\)) Tj
 0 -12 Td
 /F1 9 Tf (- Money: 4 / 5) Tj
 0 -12 Td
@@ -293,9 +305,9 @@ BT
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
-/F1 9 Tf (O*NET 13-1023.00 purchasing agents buy equipment for companies and distributors. Money is 4.) Tj
+/F1 9 Tf (O*NET 13 \(United States occupation classification\)-1023.00 purchasing agents buy equipment) Tj
 0 -12 Td
-/F1 9 Tf (Authority is 5. Need is 5.) Tj
+/F1 9 Tf (for companies and distributors. Money is 4. Authority is 5. Need is 5.) Tj
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
@@ -305,9 +317,11 @@ BT
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
-/F1 9 Tf (Source: O*NET OnLine 13-1023.00 - Purchasing Agents, Except Wholesale, Retail, and Farm) Tj
+/F1 9 Tf (Source: O*NET OnLine, United States occupation classification, 13-1023.00 - Purchasing) Tj
 0 -12 Td
-/F1 9 Tf (Products - https://www.onetonline.org/link/summary/13-1023.00) Tj
+/F1 9 Tf (Agents, Except Wholesale, Retail, and Farm Products -) Tj
+0 -12 Td
+/F1 9 Tf (https://www.onetonline.org/link/summary/13-1023.00) Tj
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
@@ -315,7 +329,7 @@ BT
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
-/F1 9 Tf (- Type: Buyer company type) Tj
+/F1 9 Tf (- Type: Buyer company type \(US NAICS\)) Tj
 0 -12 Td
 /F1 9 Tf (- Money: 5 / 5) Tj
 0 -12 Td
@@ -329,11 +343,13 @@ BT
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
-/F1 9 Tf (NAICS 221114 is solar electric power generation. Money is 5 because a plant buys modules at) Tj
+/F1 9 Tf (NAICS 221114 \(United States industry classification\) is solar electric power generation.) Tj
 0 -12 Td
-/F1 9 Tf (project scale. Authority is 4 because procurement and the EPC share the decision. Need is 4) Tj
+/F1 9 Tf (Money is 5 because a plant buys modules at project scale. Authority is 4 because procurement) Tj
 0 -12 Td
-/F1 9 Tf (because generators buy modules, often through an EPC rather than from a factory email.) Tj
+/F1 9 Tf (and the EPC share the decision. Need is 4 because generators buy modules, often through an) Tj
+0 -12 Td
+/F1 9 Tf (EPC rather than from a factory email.) Tj
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
@@ -343,7 +359,9 @@ BT
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
-/F1 9 Tf (Source: U.S. Census Bureau, NAICS 2022, 221114 - Solar Electric Power Generation -) Tj
+/F1 9 Tf (Source: U.S. Census Bureau, NAICS 2022, United States industry classification, 221114 -) Tj
+0 -12 Td
+/F1 9 Tf (Solar Electric Power Generation -) Tj
 0 -12 Td
 /F1 9 Tf (https://www.census.gov/naics/?input=221114&year=2022&details=221114) Tj
 0 -12 Td
@@ -352,7 +370,16 @@ BT
 /F2 11 Tf (6. Brazil - reported imports of HS 854143) Tj
 0 -12 Td
 /F1 9 Tf () Tj
-0 -12 Td
+ET
+BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 3 of 8  |  Built by Nidhi Karuturi) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Length 4550 >>
+stream
+BT
+/F2 11 Tf
+54 738 Td
 /F1 9 Tf (- Type: Importing country) Tj
 0 -12 Td
 /F1 9 Tf (- Money: 4 / 5) Tj
@@ -365,24 +392,17 @@ BT
 0 -12 Td
 /F1 9 Tf (- Link:) Tj
 0 -12 Td
-/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=854143&maxRecords=500&includeDesc=true) Tj
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&) Tj
+0 -12 Td
+/F1 9 Tf (cmdCode=854143&maxRecords=500&includeDesc=true) Tj
 0 -12 Td
 /F1 9 Tf (- primaryValue USD: 2875444624.0) Tj
 0 -12 Td
 /F1 9 Tf (- primaryValue with separators: 2,875,444,624.0) Tj
-ET
-BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 3 of 8  |  Built by Nidhi Karuturi) Tj ET
-endstream
-endobj
-6 0 obj
-<< /Length 4765 >>
-stream
-BT
-/F2 11 Tf
-54 738 Td
+0 -12 Td
 /F1 9 Tf (- Quantity: 330796215.771 u \(estimated flag\)) Tj
 0 -12 Td
-/F1 9 Tf (- Rank among reporters: 2 of 132 in the stored Comtrade response) Tj
+/F1 9 Tf (- Rank among reporters: 2 of 131 in the stored Comtrade response) Tj
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
@@ -392,7 +412,7 @@ BT
 0 -12 Td
 /F1 9 Tf (primary value for partner World. Reported quantity: 330,796,215.771 u \(Comtrade flagged the) Tj
 0 -12 Td
-/F1 9 Tf (quantity as estimated\). Money is 4 because this reporter ranks 2 of 132 reporters in that) Tj
+/F1 9 Tf (quantity as estimated\). Money is 4 because this reporter ranks 2 of 131 reporters in that) Tj
 0 -12 Td
 /F1 9 Tf (response by primaryValue. Authority is 4 because the country is where the buyers are:) Tj
 0 -12 Td
@@ -420,7 +440,9 @@ BT
 0 -12 Td
 /F1 9 Tf (Source: UN Comtrade public preview API, HS 854143, 2024 imports from World -) Tj
 0 -12 Td
-/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=854143&maxRecords=500&includeDesc=true) Tj
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&) Tj
+0 -12 Td
+/F1 9 Tf (cmdCode=854143&maxRecords=500&includeDesc=true) Tj
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
@@ -440,13 +462,15 @@ BT
 0 -12 Td
 /F1 9 Tf (- Link:) Tj
 0 -12 Td
-/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=854143&maxRecords=500&includeDesc=true) Tj
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&) Tj
+0 -12 Td
+/F1 9 Tf (cmdCode=854143&maxRecords=500&includeDesc=true) Tj
 0 -12 Td
 /F1 9 Tf (- primaryValue USD: 2875192304.711) Tj
 0 -12 Td
 /F1 9 Tf (- primaryValue with separators: 2,875,192,304.711) Tj
 0 -12 Td
-/F1 9 Tf (- Rank among reporters: 3 of 132 in the stored Comtrade response) Tj
+/F1 9 Tf (- Rank among reporters: 3 of 131 in the stored Comtrade response) Tj
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
@@ -456,7 +480,7 @@ BT
 0 -12 Td
 /F1 9 Tf (CIF primary value for partner World. Comtrade did not return a usable quantity unit for this) Tj
 0 -12 Td
-/F1 9 Tf (row. Money is 4 because this reporter ranks 3 of 132 reporters in that response by) Tj
+/F1 9 Tf (row. Money is 4 because this reporter ranks 3 of 131 reporters in that response by) Tj
 0 -12 Td
 /F1 9 Tf (primaryValue. Authority is 4 because the country is where the buyers are: importers and) Tj
 0 -12 Td
@@ -469,7 +493,16 @@ BT
 /F1 9 Tf (semiconductor devices, photovoltaic cells assembled in modules or made up into panels. The) Tj
 0 -12 Td
 /F1 9 Tf (preview count matched the rows stored \(132\), under the 500-row cap.) Tj
-0 -12 Td
+ET
+BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 4 of 8  |  Built by Nidhi Karuturi) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Length 4135 >>
+stream
+BT
+/F2 11 Tf
+54 738 Td
 /F1 9 Tf () Tj
 0 -12 Td
 /F1 9 Tf (Outreach: Do not email a country. Use India as a map: find importers there that already) Tj
@@ -484,7 +517,9 @@ BT
 0 -12 Td
 /F1 9 Tf (Source: UN Comtrade public preview API, HS 854143, 2024 imports from World -) Tj
 0 -12 Td
-/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=854143&maxRecords=500&includeDesc=true) Tj
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&) Tj
+0 -12 Td
+/F1 9 Tf (cmdCode=854143&maxRecords=500&includeDesc=true) Tj
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
@@ -492,17 +527,8 @@ BT
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
-/F1 9 Tf (- Type: Job title) Tj
-ET
-BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 4 of 8  |  Built by Nidhi Karuturi) Tj ET
-endstream
-endobj
-7 0 obj
-<< /Length 4105 >>
-stream
-BT
-/F2 11 Tf
-54 738 Td
+/F1 9 Tf (- Type: Job title \(US O*NET\)) Tj
+0 -12 Td
 /F1 9 Tf (- Money: 3 / 5) Tj
 0 -12 Td
 /F1 9 Tf (- Authority: 4 / 5) Tj
@@ -515,11 +541,13 @@ BT
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
-/F1 9 Tf (O*NET 17-2071.00 is Electrical Engineers. Money is 3 because they specify more often than) Tj
+/F1 9 Tf (O*NET 17 \(United States occupation classification\)-2071.00 is Electrical Engineers. Money is) Tj
 0 -12 Td
-/F1 9 Tf (they pay. Authority is 4 because a module that fails their design will not be bought. Need) Tj
+/F1 9 Tf (3 because they specify more often than they pay. Authority is 4 because a module that fails) Tj
 0 -12 Td
-/F1 9 Tf (is 5 because a panel is an electrical device they size.) Tj
+/F1 9 Tf (their design will not be bought. Need is 5 because a panel is an electrical device they) Tj
+0 -12 Td
+/F1 9 Tf (size.) Tj
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
@@ -529,9 +557,9 @@ BT
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
-/F1 9 Tf (Source: O*NET OnLine 17-2071.00 - Electrical Engineers -) Tj
+/F1 9 Tf (Source: O*NET OnLine, United States occupation classification, 17-2071.00 - Electrical) Tj
 0 -12 Td
-/F1 9 Tf (https://www.onetonline.org/link/summary/17-2071.00) Tj
+/F1 9 Tf (Engineers - https://www.onetonline.org/link/summary/17-2071.00) Tj
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
@@ -551,13 +579,15 @@ BT
 0 -12 Td
 /F1 9 Tf (- Link:) Tj
 0 -12 Td
-/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=854143&maxRecords=500&includeDesc=true) Tj
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&) Tj
+0 -12 Td
+/F1 9 Tf (cmdCode=854143&maxRecords=500&includeDesc=true) Tj
 0 -12 Td
 /F1 9 Tf (- primaryValue USD: 2061623089.467) Tj
 0 -12 Td
 /F1 9 Tf (- primaryValue with separators: 2,061,623,089.467) Tj
 0 -12 Td
-/F1 9 Tf (- Rank among reporters: 5 of 132 in the stored Comtrade response) Tj
+/F1 9 Tf (- Rank among reporters: 5 of 131 in the stored Comtrade response) Tj
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
@@ -567,7 +597,7 @@ BT
 0 -12 Td
 /F1 9 Tf (Comtrade public-preview CIF primary value for partner World. Comtrade did not return a) Tj
 0 -12 Td
-/F1 9 Tf (usable quantity unit for this row. Money is 3 because this reporter ranks 5 of 132 reporters) Tj
+/F1 9 Tf (usable quantity unit for this row. Money is 3 because this reporter ranks 5 of 131 reporters) Tj
 0 -12 Td
 /F1 9 Tf (in that response by primaryValue. Authority is 4 because the country is where the buyers) Tj
 0 -12 Td
@@ -586,7 +616,16 @@ BT
 /F1 9 Tf (Outreach: Do not email a country. Use Germany as a map: find importers there that already) Tj
 0 -12 Td
 /F1 9 Tf (clear HS 854143 and open with the Comtrade fact that Germany reported primaryValue) Tj
-0 -12 Td
+ET
+BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 5 of 8  |  Built by Nidhi Karuturi) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Length 4089 >>
+stream
+BT
+/F2 11 Tf
+54 738 Td
 /F1 9 Tf (2061623089.467 USD of this heading in 2024. Offer a first-container spec sheet, not a) Tj
 0 -12 Td
 /F1 9 Tf (market-size story.) Tj
@@ -595,7 +634,9 @@ BT
 0 -12 Td
 /F1 9 Tf (Source: UN Comtrade public preview API, HS 854143, 2024 imports from World -) Tj
 0 -12 Td
-/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=854143&maxRecords=500&includeDesc=true) Tj
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&) Tj
+0 -12 Td
+/F1 9 Tf (cmdCode=854143&maxRecords=500&includeDesc=true) Tj
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
@@ -615,24 +656,17 @@ BT
 0 -12 Td
 /F1 9 Tf (- Link:) Tj
 0 -12 Td
-/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=854143&maxRecords=500&includeDesc=true) Tj
-ET
-BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 5 of 8  |  Built by Nidhi Karuturi) Tj ET
-endstream
-endobj
-8 0 obj
-<< /Length 4874 >>
-stream
-BT
-/F2 11 Tf
-54 738 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&) Tj
+0 -12 Td
+/F1 9 Tf (cmdCode=854143&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
 /F1 9 Tf (- primaryValue USD: 1930661109.952) Tj
 0 -12 Td
 /F1 9 Tf (- primaryValue with separators: 1,930,661,109.952) Tj
 0 -12 Td
 /F1 9 Tf (- Quantity: 22718291.838 u \(estimated flag\)) Tj
 0 -12 Td
-/F1 9 Tf (- Rank among reporters: 6 of 132 in the stored Comtrade response) Tj
+/F1 9 Tf (- Rank among reporters: 6 of 131 in the stored Comtrade response) Tj
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
@@ -644,7 +678,7 @@ BT
 0 -12 Td
 /F1 9 Tf (22,718,291.838 u \(Comtrade flagged the quantity as estimated\). Money is 3 because this) Tj
 0 -12 Td
-/F1 9 Tf (reporter ranks 6 of 132 reporters in that response by primaryValue. Authority is 4 because) Tj
+/F1 9 Tf (reporter ranks 6 of 131 reporters in that response by primaryValue. Authority is 4 because) Tj
 0 -12 Td
 /F1 9 Tf (the country is where the buyers are: importers and distributors there hold the purchase) Tj
 0 -12 Td
@@ -672,7 +706,9 @@ BT
 0 -12 Td
 /F1 9 Tf (Source: UN Comtrade public preview API, HS 854143, 2024 imports from World -) Tj
 0 -12 Td
-/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=854143&maxRecords=500&includeDesc=true) Tj
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&) Tj
+0 -12 Td
+/F1 9 Tf (cmdCode=854143&maxRecords=500&includeDesc=true) Tj
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
@@ -692,7 +728,9 @@ BT
 0 -12 Td
 /F1 9 Tf (- Link:) Tj
 0 -12 Td
-/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=854143&maxRecords=500&includeDesc=true) Tj
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&) Tj
+0 -12 Td
+/F1 9 Tf (cmdCode=854143&maxRecords=500&includeDesc=true) Tj
 0 -12 Td
 /F1 9 Tf (- primaryValue USD: 2197252312.067) Tj
 0 -12 Td
@@ -700,8 +738,17 @@ BT
 0 -12 Td
 /F1 9 Tf (- Quantity: 37417095.0 u) Tj
 0 -12 Td
-/F1 9 Tf (- Rank among reporters: 4 of 132 in the stored Comtrade response) Tj
-0 -12 Td
+/F1 9 Tf (- Rank among reporters: 4 of 131 in the stored Comtrade response) Tj
+ET
+BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 6 of 8  |  Built by Nidhi Karuturi) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Length 3787 >>
+stream
+BT
+/F2 11 Tf
+54 738 Td
 /F1 9 Tf () Tj
 0 -12 Td
 /F1 9 Tf (Pakistan reported primaryValue 2197252312.067 USD \(shown with separators as) Tj
@@ -710,7 +757,7 @@ BT
 0 -12 Td
 /F1 9 Tf (Comtrade public-preview CIF primary value for partner World. Reported quantity: 37,417,095.0) Tj
 0 -12 Td
-/F1 9 Tf (u \(quantity not flagged as estimated\). Money is 3 because this reporter ranks 4 of 132) Tj
+/F1 9 Tf (u \(quantity not flagged as estimated\). Money is 3 because this reporter ranks 4 of 131) Tj
 0 -12 Td
 /F1 9 Tf (reporters in that response by primaryValue. Authority is 4 because the country is where the) Tj
 0 -12 Td
@@ -738,24 +785,17 @@ BT
 0 -12 Td
 /F1 9 Tf (Source: UN Comtrade public preview API, HS 854143, 2024 imports from World -) Tj
 0 -12 Td
-/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=854143&maxRecords=500&includeDesc=true) Tj
-ET
-BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 6 of 8  |  Built by Nidhi Karuturi) Tj ET
-endstream
-endobj
-9 0 obj
-<< /Length 2857 >>
-stream
-BT
-/F2 11 Tf
-54 738 Td
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&) Tj
+0 -12 Td
+/F1 9 Tf (cmdCode=854143&maxRecords=500&includeDesc=true) Tj
+0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
 /F2 11 Tf (12. Alibaba.com) Tj
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
-/F1 9 Tf (- Type: Marketplace) Tj
+/F1 9 Tf (- Type: Marketplace / directory) Tj
 0 -12 Td
 /F1 9 Tf (- Money: 4 / 5) Tj
 0 -12 Td
@@ -785,41 +825,7 @@ BT
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
-/F2 11 Tf (13. Alibaba Sourcing) Tj
-0 -12 Td
-/F1 9 Tf () Tj
-0 -12 Td
-/F1 9 Tf (- Type: RFQ board) Tj
-0 -12 Td
-/F1 9 Tf (- Money: 4 / 5) Tj
-0 -12 Td
-/F1 9 Tf (- Authority: 3 / 5) Tj
-0 -12 Td
-/F1 9 Tf (- Need: 4 / 5) Tj
-0 -12 Td
-/F1 9 Tf (- Total: 11 / 15) Tj
-0 -12 Td
-/F1 9 Tf (- Link: https://sourcing.alibaba.com/) Tj
-0 -12 Td
-/F1 9 Tf () Tj
-0 -12 Td
-/F1 9 Tf (Alibaba Sourcing posts RFQs for modules. Money is 4 when the megawatt figure is real.) Tj
-0 -12 Td
-/F1 9 Tf (Authority is 3. Need is 4.) Tj
-0 -12 Td
-/F1 9 Tf () Tj
-0 -12 Td
-/F1 9 Tf (Outreach: Bid only RFQs that name watt class and destination. A megawatt number with no site) Tj
-0 -12 Td
-/F1 9 Tf (is not a bid.) Tj
-0 -12 Td
-/F1 9 Tf () Tj
-0 -12 Td
-/F1 9 Tf (Source: Alibaba Sourcing - https://sourcing.alibaba.com/) Tj
-0 -12 Td
-/F1 9 Tf () Tj
-0 -12 Td
-/F2 11 Tf (14. SEIA) Tj
+/F2 11 Tf (13. SEIA) Tj
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
@@ -853,25 +859,25 @@ BT
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
-/F2 11 Tf (15. SolarPower Europe) Tj
+/F2 11 Tf (14. SolarPower Europe) Tj
 0 -12 Td
 /F1 9 Tf () Tj
-0 -12 Td
-/F1 9 Tf (- Type: Community) Tj
-0 -12 Td
-/F1 9 Tf (- Money: 4 / 5) Tj
-0 -12 Td
-/F1 9 Tf (- Authority: 3 / 5) Tj
 ET
 BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 7 of 8  |  Built by Nidhi Karuturi) Tj ET
 endstream
 endobj
 10 0 obj
-<< /Length 1503 >>
+<< /Length 2626 >>
 stream
 BT
 /F2 11 Tf
 54 738 Td
+/F1 9 Tf (- Type: Community) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 3 / 5) Tj
+0 -12 Td
 /F1 9 Tf (- Need: 4 / 5) Tj
 0 -12 Td
 /F1 9 Tf (- Total: 11 / 15) Tj
@@ -898,6 +904,42 @@ BT
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
+/F2 11 Tf (15. Alibaba Sourcing) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (- Type: RFQ board) Tj
+0 -12 Td
+/F1 9 Tf (- Money: 4 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Authority: 3 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Need: 2 / 5) Tj
+0 -12 Td
+/F1 9 Tf (- Total: 9 / 15) Tj
+0 -12 Td
+/F1 9 Tf (- Link: https://sourcing.alibaba.com/) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Alibaba Sourcing posts RFQs for modules. Money is 4 when the megawatt figure is real.) Tj
+0 -12 Td
+/F1 9 Tf (Authority is 3. Need is 2. Caution: this RFQ board is spam-prone. Many posts are recycled or) Tj
+0 -12 Td
+/F1 9 Tf (unqualified. Confirm the company, the quantity, and who can sign before you reply.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Outreach: Bid only RFQs that name watt class and destination. A megawatt number with no site) Tj
+0 -12 Td
+/F1 9 Tf (is not a bid.) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Source: Alibaba Sourcing - https://sourcing.alibaba.com/) Tj
+0 -12 Td
+/F1 9 Tf () Tj
+0 -12 Td
 /F2 11 Tf (Limits) Tj
 0 -12 Td
 /F1 9 Tf () Tj
@@ -906,9 +948,13 @@ BT
 0 -12 Td
 /F1 9 Tf (Comtrade primaryValue literal from the query above. BuyerRadar did not estimate a market) Tj
 0 -12 Td
-/F1 9 Tf (size, a growth rate, or a buyer count. A static site cannot check a PayPal payment on a) Tj
+/F1 9 Tf (size, a growth rate, or a buyer count.) Tj
 0 -12 Td
-/F1 9 Tf (server; the button is the PayPal Smart Buttons client flow.) Tj
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Contact: nidhi69n@gmail.com) Tj
+0 -12 Td
+/F1 9 Tf (Refunds: email within 7 days with your order id.) Tj
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
@@ -955,24 +1001,24 @@ xref
 0000000009 00000 n 
 0000000106 00000 n 
 0000000208 00000 n 
-0000004072 00000 n 
-0000008116 00000 n 
-0000011841 00000 n 
-0000016657 00000 n 
-0000020813 00000 n 
-0000025738 00000 n 
-0000028646 00000 n 
-0000030201 00000 n 
-0000030309 00000 n 
-0000030447 00000 n 
-0000030585 00000 n 
-0000030723 00000 n 
-0000030861 00000 n 
-0000030999 00000 n 
-0000031137 00000 n 
-0000031275 00000 n 
-0000031414 00000 n 
+0000004170 00000 n 
+0000007920 00000 n 
+0000011974 00000 n 
+0000016575 00000 n 
+0000020761 00000 n 
+0000024901 00000 n 
+0000028739 00000 n 
+0000031417 00000 n 
+0000031525 00000 n 
+0000031663 00000 n 
+0000031801 00000 n 
+0000031939 00000 n 
+0000032077 00000 n 
+0000032215 00000 n 
+0000032353 00000 n 
+0000032491 00000 n 
+0000032630 00000 n 
 trailer << /Size 21 /Root 20 0 R >>
 startxref
-31465
+32681
 %%EOF

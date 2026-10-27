@@ -59,7 +59,15 @@
     out.push("");
     out.push("## Ranked channels");
     out.push("");
-    out.push("The free tier of the site shows the first " + report.freeLimit + ". This file is the full list, with an outreach angle on every channel.");
+    out.push(
+      "The free tier of the site is the top " +
+        report.freeLimit +
+        ". This file adds " +
+        (report.extraCount != null ? report.extraCount : Math.max(0, report.channels.length - report.freeLimit)) +
+        " more channels and " +
+        report.channels.length +
+        " outreach angles, one on every channel."
+    );
     out.push("");
     report.channels.forEach(function (channel) {
       var typeLabel = typeLabels[channel.type] || channel.type;
@@ -103,8 +111,16 @@
     out.push("## Limits");
     out.push("");
     out.push(
-      "Editorial scores are judgments, not statistics. Every trade dollar in this report is a UN Comtrade primaryValue literal from the query above. BuyerRadar did not estimate a market size, a growth rate, or a buyer count. A static site cannot check a PayPal payment on a server; the button is the PayPal Smart Buttons client flow."
+      "Editorial scores are judgments, not statistics. Every trade dollar in this report is a UN Comtrade primaryValue literal from the query above. BuyerRadar did not estimate a market size, a growth rate, or a buyer count."
     );
+    out.push("");
+    if (report.orderId) {
+      out.push("Order id: " + report.orderId);
+      if (report.purchasedAt) out.push("Purchased: " + report.purchasedAt);
+      out.push("");
+    }
+    out.push("Contact: nidhi69n@gmail.com");
+    out.push("Refunds: email within 7 days with your order id.");
     out.push("");
     out.push("Built by Nidhi Karuturi — https://github.com/Nidhi-bhai");
     out.push("");
@@ -134,20 +150,42 @@
     return out;
   }
 
+  function pieces(word, width) {
+    if (word.length <= width) return [word];
+    var out = [];
+    var rest = word;
+    while (rest.length > width) {
+      var window = rest.slice(0, width);
+      var breakAt = -1;
+      ["&", "?", "/", "="].forEach(function (mark) {
+        var at = window.lastIndexOf(mark);
+        if (at > breakAt) breakAt = at;
+      });
+      var cut = breakAt >= 16 ? breakAt + 1 : width;
+      out.push(rest.slice(0, cut));
+      rest = rest.slice(cut);
+    }
+    if (rest) out.push(rest);
+    return out;
+  }
+
   function wrap(text, width) {
     var words = winAnsi(text).split(/\s+/).filter(Boolean);
     var lines = [];
     var current = "";
-    words.forEach(function (word) {
+    function append(part) {
       if (!current) {
-        current = word;
+        current = part;
         return;
       }
-      if ((current + " " + word).length <= width) current += " " + word;
+      if ((current + " " + part).length <= width) current += " " + part;
       else {
         lines.push(current);
-        current = word;
+        current = part;
       }
+    }
+    words.forEach(function (word) {
+      pieces(word, width).forEach(append);
     });
     if (current) lines.push(current);
     if (!lines.length) lines.push("");

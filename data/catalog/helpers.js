@@ -4,6 +4,12 @@ function censusUrl(code) {
 
 function buyer(code, title, money, authority, need, reason, angle) {
   var url = censusUrl(code);
+  var labeled = String(reason).replace(/NAICS \d+/, function (match) {
+    return match + " (United States industry classification)";
+  });
+  if (labeled.indexOf("United States industry classification") === -1) {
+    labeled = "NAICS " + code + " (United States industry classification). " + reason;
+  }
   return {
     type: "buyer_type",
     name: title,
@@ -11,10 +17,10 @@ function buyer(code, title, money, authority, need, reason, angle) {
     money: money,
     authority: authority,
     need: need,
-    reason: reason,
+    reason: labeled,
     outreachAngle: angle,
     source: {
-      title: "U.S. Census Bureau, NAICS 2022, " + code + " — " + title,
+      title: "U.S. Census Bureau, NAICS 2022, United States industry classification, " + code + " — " + title,
       url: url
     }
   };
@@ -22,6 +28,12 @@ function buyer(code, title, money, authority, need, reason, angle) {
 
 function job(code, title, money, authority, need, reason, angle) {
   var url = "https://www.onetonline.org/link/summary/" + code;
+  var labeled = String(reason).replace(/O\*NET [\d.]+/, function (match) {
+    return match + " (United States occupation classification)";
+  });
+  if (labeled.indexOf("United States occupation classification") === -1) {
+    labeled = "O*NET " + code + " (United States occupation classification). " + reason;
+  }
   return {
     type: "job_title",
     name: title,
@@ -29,10 +41,10 @@ function job(code, title, money, authority, need, reason, angle) {
     money: money,
     authority: authority,
     need: need,
-    reason: reason,
+    reason: labeled,
     outreachAngle: angle,
     source: {
-      title: "O*NET OnLine " + code + " — " + title,
+      title: "O*NET OnLine, United States occupation classification, " + code + " — " + title,
       url: url
     }
   };

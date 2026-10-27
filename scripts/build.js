@@ -18,6 +18,17 @@ function esc(value) {
     .replace(/"/g, "&quot;");
 }
 
+function metaDescription(text) {
+  const clean = String(text).replace(/\s+/g, " ").trim();
+  if (clean.length <= 155) return clean;
+  const cut = clean.slice(0, 152);
+  const space = cut.lastIndexOf(" ");
+  const base = (space > 40 ? cut.slice(0, space) : cut).replace(/[.,;: ]+$/, "");
+  const withEllipsis = base + "...";
+  if (withEllipsis.length <= 155) return withEllipsis;
+  return base.slice(0, 152).replace(/[.,;: ]+$/, "") + "...";
+}
+
 function typeLabel(type) {
   return rank.TYPE_LABELS[type] || type;
 }
@@ -48,8 +59,11 @@ function shell(options) {
   <link rel="canonical" href="${esc(options.canonical)}">
   <meta property="og:title" content="${esc(options.title)}">
   <meta property="og:description" content="${esc(options.description)}">
-  <meta property="og:type" content="article">
+  <meta property="og:type" content="${options.depth ? "article" : "website"}">
   <meta property="og:url" content="${esc(options.canonical)}">
+  <meta property="og:image" content="${origin}/og.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
   <link rel="icon" href="${prefix}favicon.svg" type="image/svg+xml">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -73,6 +87,7 @@ function shell(options) {
   </main>
   <footer class="site-footer">
     <div>Built by <a href="https://github.com/Nidhi-bhai">Nidhi Karuturi</a></div>
+    <div>Contact <a href="mailto:nidhi69n@gmail.com">nidhi69n@gmail.com</a>. Refunds: email within 7 days with your order id.</div>
     <div><a href="https://uncomtrade.org/docs/un-comtrade-api/">UN Comtrade API</a></div>
   </footer>
 </body>
@@ -108,7 +123,7 @@ function countryTable(industry) {
   const series = trade.series[industry.hs.code];
   if (!series) return "<p>No Comtrade snapshot is stored for this HS code.</p>";
   const rows = series.reporters.filter(function (row) {
-    return Number(row.primaryValue) > 0;
+    return Number(row.primaryValue) > 0 && !rank.isAggregateReporter(row);
   }).slice(0, 8);
   const body = rows.map(function (row, index) {
     const qty = row.qtyUnitAbbr && row.qtyUnitAbbr !== "N/A" && Number(row.qty) > 0
@@ -123,13 +138,16 @@ function countryTable(industry) {
       <thead><tr><th>#</th><th>Reporter</th><th>primaryValue USD</th><th>Quantity</th></tr></thead>
       <tbody>${body}</tbody>
     </table>
-    <p class="note">The table is the Comtrade response, not a BuyerRadar estimate. Rank in this table is by primaryValue among reporters stored for this query.</p>`;
+    <p class="note">Figures are Comtrade primaryValue literals. Aggregate partners (World, Areas, nes, and Other …, nes) are omitted. Rank in this table is by primaryValue among the reporters kept.</p>`;
 }
 
 function industryPage(industry) {
   const report = rank.buildReport(industry, trade, industry.name);
   const free = report.channels.slice(0, rank.FREE_LIMIT).map(channelBlock).join("");
-  const description = "Where to find buyers for " + industry.name + ". Ranked channels scored on money, authority, and need, with sources. " + industry.summary;
+  const offer = report.forSale
+    ? "The free tier on this page is the top 5. The $19 report adds " + report.extraCount + " more channels and " + report.outreachCount + " outreach angles, one on every channel."
+    : "The free tier on this page is the top 5. Full report not available yet.";
+  const description = metaDescription("Where to find buyers for " + industry.name + ". Free top 5 channels, scored on money, authority, and need.");
   const canonical = origin + "/industries/" + industry.slug + ".html";
   const jsonLd = JSON.stringify({
     "@context": "https://schema.org",
@@ -148,7 +166,7 @@ function industryPage(industry) {
     <h2>Importing countries</h2>
     ${countryTable(industry)}
     <h2>Top 5 channels on the free ranking</h2>
-    <p>These are the first five channels after Money, Authority, and Need are summed. Outreach angles are in the paid report, not on this page.</p>
+    <p>${esc(offer)}</p>
     ${free}
     <p><a href="../?q=${encodeURIComponent(industry.name)}">See this ranking in the tool</a> · <a href="./">All industries</a></p>
   </article>`;
@@ -176,7 +194,7 @@ const indexBody = `<article class="page-intro">
 </article>`;
 fs.writeFileSync(path.join(industryDir, "index.html"), shell({
   title: "Industries | BuyerRadar",
-  description: "SEO pages for every BuyerRadar industry: where to find buyers, with sources and UN Comtrade figures for goods.",
+  description: metaDescription("Where to find buyers, by product. Free top 5 channels and UN Comtrade import tables for each industry."),
   canonical: origin + "/industries/",
   depth: true,
   body: indexBody

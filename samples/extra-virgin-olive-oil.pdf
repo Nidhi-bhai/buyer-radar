@@ -6,7 +6,7 @@ endobj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
 endobj
 3 0 obj
-<< /Length 3799 >>
+<< /Length 3907 >>
 stream
 BT
 /F2 11 Tf
@@ -43,9 +43,13 @@ BT
 0 -12 Td
 /F1 9 Tf (Scores on curated channels are editorial judgments explained in the reason and tied to a) Tj
 0 -12 Td
-/F1 9 Tf (public page \(a NAICS title, an O*NET occupation, a fair, a marketplace, or a community\).) Tj
+/F1 9 Tf (public page. Company types use the United States NAICS classification from the U.S. Census) Tj
 0 -12 Td
-/F1 9 Tf (They are not measurements.) Tj
+/F1 9 Tf (Bureau. Job titles use the United States O*NET occupation classification. Shows,) Tj
+0 -12 Td
+/F1 9 Tf (marketplaces, directories, and communities cite their own sites. These scores are not) Tj
+0 -12 Td
+/F1 9 Tf (measurements.) Tj
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
@@ -89,7 +93,9 @@ BT
 0 -12 Td
 /F1 9 Tf (- Query:) Tj
 0 -12 Td
-/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=150920&maxRecords=500&includeDesc=true) Tj
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&) Tj
+0 -12 Td
+/F1 9 Tf (cmdCode=150920&maxRecords=500&includeDesc=true) Tj
 0 -12 Td
 /F1 9 Tf (- API documentation: https://uncomtrade.org/docs/un-comtrade-api/) Tj
 0 -12 Td
@@ -97,7 +103,9 @@ BT
 0 -12 Td
 /F1 9 Tf (- HS nomenclature: World Customs Organization - HS Nomenclature 2022 edition -) Tj
 0 -12 Td
-/F1 9 Tf (https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools/hs-nomenclature-2022-edition.aspx) Tj
+/F1 9 Tf (https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools/) Tj
+0 -12 Td
+/F1 9 Tf (hs-nomenclature-2022-edition.aspx) Tj
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
@@ -105,9 +113,9 @@ BT
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
-/F1 9 Tf (The free tier of the site shows the first 5. This file is the full list, with an outreach) Tj
+/F1 9 Tf (The free tier of the site is the top 5. This file adds 10 more channels and 15 outreach) Tj
 0 -12 Td
-/F1 9 Tf (angle on every channel.) Tj
+/F1 9 Tf (angles, one on every channel.) Tj
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
@@ -115,8 +123,17 @@ BT
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
-/F1 9 Tf (- Type: Buyer company type) Tj
-0 -12 Td
+/F1 9 Tf (- Type: Buyer company type \(US NAICS\)) Tj
+ET
+BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 1 of 8  |  Built by Nidhi Karuturi) Tj ET
+endstream
+endobj
+4 0 obj
+<< /Length 3757 >>
+stream
+BT
+/F2 11 Tf
+54 738 Td
 /F1 9 Tf (- Money: 5 / 5) Tj
 0 -12 Td
 /F1 9 Tf (- Authority: 4 / 5) Tj
@@ -124,25 +141,18 @@ BT
 /F1 9 Tf (- Need: 5 / 5) Tj
 0 -12 Td
 /F1 9 Tf (- Total: 14 / 15) Tj
-ET
-BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 1 of 8  |  Built by Nidhi Karuturi) Tj ET
-endstream
-endobj
-4 0 obj
-<< /Length 4127 >>
-stream
-BT
-/F2 11 Tf
-54 738 Td
+0 -12 Td
 /F1 9 Tf (- Link: https://www.census.gov/naics/?input=424490&year=2022&details=424490) Tj
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
-/F1 9 Tf (NAICS 424490 grocery wholesalers supply olive oil to retailers and food service. Money is 5) Tj
+/F1 9 Tf (NAICS 424490 \(United States industry classification\) grocery wholesalers supply olive oil to) Tj
 0 -12 Td
-/F1 9 Tf (because oil is a stocked, repeating line. Authority is 4. Need is 5 because extra virgin) Tj
+/F1 9 Tf (retailers and food service. Money is 5 because oil is a stocked, repeating line. Authority) Tj
 0 -12 Td
-/F1 9 Tf (olive oil is a defined grocery product and this HS code names that grade.) Tj
+/F1 9 Tf (is 4. Need is 5 because extra virgin olive oil is a defined grocery product and this HS code) Tj
+0 -12 Td
+/F1 9 Tf (names that grade.) Tj
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
@@ -152,9 +162,11 @@ BT
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
-/F1 9 Tf (Source: U.S. Census Bureau, NAICS 2022, 424490 - Other Grocery and Related Products Merchant) Tj
+/F1 9 Tf (Source: U.S. Census Bureau, NAICS 2022, United States industry classification, 424490 -) Tj
 0 -12 Td
-/F1 9 Tf (Wholesalers - https://www.census.gov/naics/?input=424490&year=2022&details=424490) Tj
+/F1 9 Tf (Other Grocery and Related Products Merchant Wholesalers -) Tj
+0 -12 Td
+/F1 9 Tf (https://www.census.gov/naics/?input=424490&year=2022&details=424490) Tj
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
@@ -208,7 +220,9 @@ BT
 0 -12 Td
 /F1 9 Tf (- Link:) Tj
 0 -12 Td
-/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=150920&maxRecords=500&includeDesc=true) Tj
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&) Tj
+0 -12 Td
+/F1 9 Tf (cmdCode=150920&maxRecords=500&includeDesc=true) Tj
 0 -12 Td
 /F1 9 Tf (- primaryValue USD: 2643704910.959) Tj
 0 -12 Td
@@ -216,7 +230,7 @@ BT
 0 -12 Td
 /F1 9 Tf (- Quantity: 324401188.0 kg) Tj
 0 -12 Td
-/F1 9 Tf (- Rank among reporters: 1 of 130 in the stored Comtrade response) Tj
+/F1 9 Tf (- Rank among reporters: 1 of 129 in the stored Comtrade response) Tj
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
@@ -226,14 +240,23 @@ BT
 0 -12 Td
 /F1 9 Tf (CIF primary value for partner World. Reported quantity: 324,401,188.0 kg \(quantity not) Tj
 0 -12 Td
-/F1 9 Tf (flagged as estimated\). Money is 5 because this reporter ranks 1 of 130 reporters in that) Tj
+/F1 9 Tf (flagged as estimated\). Money is 5 because this reporter ranks 1 of 129 reporters in that) Tj
 0 -12 Td
 /F1 9 Tf (response by primaryValue. Authority is 4 because the country is where the buyers are:) Tj
 0 -12 Td
 /F1 9 Tf (importers and distributors there hold the purchase order, and the country itself does not.) Tj
 0 -12 Td
 /F1 9 Tf (Need is 5. The official heading names this product, so the import value is a direct Comtrade) Tj
-0 -12 Td
+ET
+BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 2 of 8  |  Built by Nidhi Karuturi) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Length 3702 >>
+stream
+BT
+/F2 11 Tf
+54 738 Td
 /F1 9 Tf (measure of recorded trade in it. Official commodity description: Vegetable oils; olive oil) Tj
 0 -12 Td
 /F1 9 Tf (and its fractions, extra virgin olive oil, whether or not refined, but not chemically) Tj
@@ -247,23 +270,16 @@ BT
 /F1 9 Tf (clear HS 150920 and open with the Comtrade fact that Italy reported primaryValue) Tj
 0 -12 Td
 /F1 9 Tf (2643704910.959 USD of this heading in 2024. Offer a first-container spec sheet, not a) Tj
-ET
-BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 2 of 8  |  Built by Nidhi Karuturi) Tj ET
-endstream
-endobj
-5 0 obj
-<< /Length 3365 >>
-stream
-BT
-/F2 11 Tf
-54 738 Td
+0 -12 Td
 /F1 9 Tf (market-size story.) Tj
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
 /F1 9 Tf (Source: UN Comtrade public preview API, HS 150920, 2024 imports from World -) Tj
 0 -12 Td
-/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=150920&maxRecords=500&includeDesc=true) Tj
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&) Tj
+0 -12 Td
+/F1 9 Tf (cmdCode=150920&maxRecords=500&includeDesc=true) Tj
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
@@ -271,7 +287,7 @@ BT
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
-/F1 9 Tf (- Type: Job title) Tj
+/F1 9 Tf (- Type: Job title \(US O*NET\)) Tj
 0 -12 Td
 /F1 9 Tf (- Money: 4 / 5) Tj
 0 -12 Td
@@ -285,9 +301,11 @@ BT
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
-/F1 9 Tf (O*NET 13-1022.00 buyers choose finished grocery lines. Money is 4. Authority is 5. Need is 5) Tj
+/F1 9 Tf (O*NET 13 \(United States occupation classification\)-1022.00 buyers choose finished grocery) Tj
 0 -12 Td
-/F1 9 Tf (because bottled or tinned extra virgin oil is a finished good.) Tj
+/F1 9 Tf (lines. Money is 4. Authority is 5. Need is 5 because bottled or tinned extra virgin oil is a) Tj
+0 -12 Td
+/F1 9 Tf (finished good.) Tj
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
@@ -295,9 +313,9 @@ BT
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
-/F1 9 Tf (Source: O*NET OnLine 13-1022.00 - Wholesale and Retail Buyers, Except Farm Products -) Tj
+/F1 9 Tf (Source: O*NET OnLine, United States occupation classification, 13-1022.00 - Wholesale and) Tj
 0 -12 Td
-/F1 9 Tf (https://www.onetonline.org/link/summary/13-1022.00) Tj
+/F1 9 Tf (Retail Buyers, Except Farm Products - https://www.onetonline.org/link/summary/13-1022.00) Tj
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
@@ -305,7 +323,7 @@ BT
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
-/F1 9 Tf (- Type: Job title) Tj
+/F1 9 Tf (- Type: Job title \(US O*NET\)) Tj
 0 -12 Td
 /F1 9 Tf (- Money: 4 / 5) Tj
 0 -12 Td
@@ -319,9 +337,9 @@ BT
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
-/F1 9 Tf (O*NET 11-3061.00 Purchasing Managers at importers and retailers approve the oil vendor.) Tj
+/F1 9 Tf (O*NET 11 \(United States occupation classification\)-3061.00 Purchasing Managers at importers) Tj
 0 -12 Td
-/F1 9 Tf (Money is 4. Authority is 5. Need is 4.) Tj
+/F1 9 Tf (and retailers approve the oil vendor. Money is 4. Authority is 5. Need is 4.) Tj
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
@@ -331,9 +349,9 @@ BT
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
-/F1 9 Tf (Source: O*NET OnLine 11-3061.00 - Purchasing Managers -) Tj
+/F1 9 Tf (Source: O*NET OnLine, United States occupation classification, 11-3061.00 - Purchasing) Tj
 0 -12 Td
-/F1 9 Tf (https://www.onetonline.org/link/summary/11-3061.00) Tj
+/F1 9 Tf (Managers - https://www.onetonline.org/link/summary/11-3061.00) Tj
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
@@ -341,7 +359,7 @@ BT
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
-/F1 9 Tf (- Type: Buyer company type) Tj
+/F1 9 Tf (- Type: Buyer company type \(US NAICS\)) Tj
 0 -12 Td
 /F1 9 Tf (- Money: 4 / 5) Tj
 0 -12 Td
@@ -352,12 +370,21 @@ BT
 /F1 9 Tf (- Total: 13 / 15) Tj
 0 -12 Td
 /F1 9 Tf (- Link: https://www.census.gov/naics/?input=445110&year=2022&details=445110) Tj
-0 -12 Td
+ET
+BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 3 of 8  |  Built by Nidhi Karuturi) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Length 4104 >>
+stream
+BT
+/F2 11 Tf
+54 738 Td
 /F1 9 Tf () Tj
 0 -12 Td
-/F1 9 Tf (NAICS 445110 supermarkets range olive oil as a category. Money is 4 because a listing is) Tj
+/F1 9 Tf (NAICS 445110 \(United States industry classification\) supermarkets range olive oil as a) Tj
 0 -12 Td
-/F1 9 Tf (valuable and slow. Authority is 4. Need is 5.) Tj
+/F1 9 Tf (category. Money is 4 because a listing is valuable and slow. Authority is 4. Need is 5.) Tj
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
@@ -367,19 +394,10 @@ BT
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
-/F1 9 Tf (Source: U.S. Census Bureau, NAICS 2022, 445110 - Supermarkets and Other Grocery Retailers) Tj
+/F1 9 Tf (Source: U.S. Census Bureau, NAICS 2022, United States industry classification, 445110 -) Tj
 0 -12 Td
-/F1 9 Tf (\(except Convenience Retailers\) -) Tj
-ET
-BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 3 of 8  |  Built by Nidhi Karuturi) Tj ET
-endstream
-endobj
-6 0 obj
-<< /Length 4496 >>
-stream
-BT
-/F2 11 Tf
-54 738 Td
+/F1 9 Tf (Supermarkets and Other Grocery Retailers \(except Convenience Retailers\) -) Tj
+0 -12 Td
 /F1 9 Tf (https://www.census.gov/naics/?input=445110&year=2022&details=445110) Tj
 0 -12 Td
 /F1 9 Tf () Tj
@@ -400,7 +418,9 @@ BT
 0 -12 Td
 /F1 9 Tf (- Link:) Tj
 0 -12 Td
-/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=150920&maxRecords=500&includeDesc=true) Tj
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&) Tj
+0 -12 Td
+/F1 9 Tf (cmdCode=150920&maxRecords=500&includeDesc=true) Tj
 0 -12 Td
 /F1 9 Tf (- primaryValue USD: 929252338.242) Tj
 0 -12 Td
@@ -408,7 +428,7 @@ BT
 0 -12 Td
 /F1 9 Tf (- Quantity: 127562244.853 kg) Tj
 0 -12 Td
-/F1 9 Tf (- Rank among reporters: 3 of 130 in the stored Comtrade response) Tj
+/F1 9 Tf (- Rank among reporters: 3 of 129 in the stored Comtrade response) Tj
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
@@ -418,7 +438,7 @@ BT
 0 -12 Td
 /F1 9 Tf (primary value for partner World. Reported quantity: 127,562,244.853 kg \(quantity not flagged) Tj
 0 -12 Td
-/F1 9 Tf (as estimated\). Money is 4 because this reporter ranks 3 of 130 reporters in that response by) Tj
+/F1 9 Tf (as estimated\). Money is 4 because this reporter ranks 3 of 129 reporters in that response by) Tj
 0 -12 Td
 /F1 9 Tf (primaryValue. Authority is 4 because the country is where the buyers are: importers and) Tj
 0 -12 Td
@@ -446,7 +466,9 @@ BT
 0 -12 Td
 /F1 9 Tf (Source: UN Comtrade public preview API, HS 150920, 2024 imports from World -) Tj
 0 -12 Td
-/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=150920&maxRecords=500&includeDesc=true) Tj
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&) Tj
+0 -12 Td
+/F1 9 Tf (cmdCode=150920&maxRecords=500&includeDesc=true) Tj
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
@@ -466,15 +488,26 @@ BT
 0 -12 Td
 /F1 9 Tf (- Link:) Tj
 0 -12 Td
-/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=150920&maxRecords=500&includeDesc=true) Tj
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&) Tj
+0 -12 Td
+/F1 9 Tf (cmdCode=150920&maxRecords=500&includeDesc=true) Tj
 0 -12 Td
 /F1 9 Tf (- primaryValue USD: 2533467851.0) Tj
-0 -12 Td
+ET
+BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 4 of 8  |  Built by Nidhi Karuturi) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Length 4064 >>
+stream
+BT
+/F2 11 Tf
+54 738 Td
 /F1 9 Tf (- primaryValue with separators: 2,533,467,851.0) Tj
 0 -12 Td
 /F1 9 Tf (- Quantity: 271555985.0 kg) Tj
 0 -12 Td
-/F1 9 Tf (- Rank among reporters: 2 of 130 in the stored Comtrade response) Tj
+/F1 9 Tf (- Rank among reporters: 2 of 129 in the stored Comtrade response) Tj
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
@@ -484,7 +517,7 @@ BT
 0 -12 Td
 /F1 9 Tf (primary value for partner World. Reported quantity: 271,555,985.0 kg \(quantity not flagged) Tj
 0 -12 Td
-/F1 9 Tf (as estimated\). Money is 4 because this reporter ranks 2 of 130 reporters in that response by) Tj
+/F1 9 Tf (as estimated\). Money is 4 because this reporter ranks 2 of 129 reporters in that response by) Tj
 0 -12 Td
 /F1 9 Tf (primaryValue. Authority is 4 because the country is where the buyers are: importers and) Tj
 0 -12 Td
@@ -493,16 +526,7 @@ BT
 /F1 9 Tf (official heading names this product, so the import value is a direct Comtrade measure of) Tj
 0 -12 Td
 /F1 9 Tf (recorded trade in it. Official commodity description: Vegetable oils; olive oil and its) Tj
-ET
-BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 4 of 8  |  Built by Nidhi Karuturi) Tj ET
-endstream
-endobj
-7 0 obj
-<< /Length 3620 >>
-stream
-BT
-/F2 11 Tf
-54 738 Td
+0 -12 Td
 /F1 9 Tf (fractions, extra virgin olive oil, whether or not refined, but not chemically modified. The) Tj
 0 -12 Td
 /F1 9 Tf (preview count matched the rows stored \(130\), under the 500-row cap.) Tj
@@ -519,7 +543,9 @@ BT
 0 -12 Td
 /F1 9 Tf (Source: UN Comtrade public preview API, HS 150920, 2024 imports from World -) Tj
 0 -12 Td
-/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=150920&maxRecords=500&includeDesc=true) Tj
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&) Tj
+0 -12 Td
+/F1 9 Tf (cmdCode=150920&maxRecords=500&includeDesc=true) Tj
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
@@ -527,7 +553,7 @@ BT
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
-/F1 9 Tf (- Type: Marketplace) Tj
+/F1 9 Tf (- Type: Marketplace / directory) Tj
 0 -12 Td
 /F1 9 Tf (- Money: 4 / 5) Tj
 0 -12 Td
@@ -590,7 +616,16 @@ BT
 /F1 9 Tf (with a chemistry panel and the lot you can ship this harvest.) Tj
 0 -12 Td
 /F1 9 Tf () Tj
-0 -12 Td
+ET
+BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 5 of 8  |  Built by Nidhi Karuturi) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Length 4254 >>
+stream
+BT
+/F2 11 Tf
+54 738 Td
 /F1 9 Tf (Source: North American Olive Oil Association - https://www.aboutoliveoil.org/) Tj
 0 -12 Td
 /F1 9 Tf () Tj
@@ -611,24 +646,17 @@ BT
 0 -12 Td
 /F1 9 Tf (- Link:) Tj
 0 -12 Td
-/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=150920&maxRecords=500&includeDesc=true) Tj
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&) Tj
+0 -12 Td
+/F1 9 Tf (cmdCode=150920&maxRecords=500&includeDesc=true) Tj
 0 -12 Td
 /F1 9 Tf (- primaryValue USD: 671061343.0) Tj
 0 -12 Td
 /F1 9 Tf (- primaryValue with separators: 671,061,343.0) Tj
-ET
-BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 5 of 8  |  Built by Nidhi Karuturi) Tj ET
-endstream
-endobj
-8 0 obj
-<< /Length 4796 >>
-stream
-BT
-/F2 11 Tf
-54 738 Td
+0 -12 Td
 /F1 9 Tf (- Quantity: 65028288.0 kg) Tj
 0 -12 Td
-/F1 9 Tf (- Rank among reporters: 5 of 130 in the stored Comtrade response) Tj
+/F1 9 Tf (- Rank among reporters: 5 of 129 in the stored Comtrade response) Tj
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
@@ -638,7 +666,7 @@ BT
 0 -12 Td
 /F1 9 Tf (primary value for partner World. Reported quantity: 65,028,288.0 kg \(quantity not flagged as) Tj
 0 -12 Td
-/F1 9 Tf (estimated\). Money is 3 because this reporter ranks 5 of 130 reporters in that response by) Tj
+/F1 9 Tf (estimated\). Money is 3 because this reporter ranks 5 of 129 reporters in that response by) Tj
 0 -12 Td
 /F1 9 Tf (primaryValue. Authority is 4 because the country is where the buyers are: importers and) Tj
 0 -12 Td
@@ -666,7 +694,9 @@ BT
 0 -12 Td
 /F1 9 Tf (Source: UN Comtrade public preview API, HS 150920, 2024 imports from World -) Tj
 0 -12 Td
-/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=150920&maxRecords=500&includeDesc=true) Tj
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&) Tj
+0 -12 Td
+/F1 9 Tf (cmdCode=150920&maxRecords=500&includeDesc=true) Tj
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
@@ -686,7 +716,9 @@ BT
 0 -12 Td
 /F1 9 Tf (- Link:) Tj
 0 -12 Td
-/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=150920&maxRecords=500&includeDesc=true) Tj
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&) Tj
+0 -12 Td
+/F1 9 Tf (cmdCode=150920&maxRecords=500&includeDesc=true) Tj
 0 -12 Td
 /F1 9 Tf (- primaryValue USD: 739273724.168) Tj
 0 -12 Td
@@ -694,7 +726,7 @@ BT
 0 -12 Td
 /F1 9 Tf (- Quantity: 80382956.786 kg \(estimated flag\)) Tj
 0 -12 Td
-/F1 9 Tf (- Rank among reporters: 4 of 130 in the stored Comtrade response) Tj
+/F1 9 Tf (- Rank among reporters: 4 of 129 in the stored Comtrade response) Tj
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
@@ -704,10 +736,19 @@ BT
 0 -12 Td
 /F1 9 Tf (CIF primary value for partner World. Reported quantity: 80,382,956.786 kg \(Comtrade flagged) Tj
 0 -12 Td
-/F1 9 Tf (the quantity as estimated\). Money is 3 because this reporter ranks 4 of 130 reporters in) Tj
+/F1 9 Tf (the quantity as estimated\). Money is 3 because this reporter ranks 4 of 129 reporters in) Tj
 0 -12 Td
 /F1 9 Tf (that response by primaryValue. Authority is 4 because the country is where the buyers are:) Tj
-0 -12 Td
+ET
+BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 6 of 8  |  Built by Nidhi Karuturi) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Length 4333 >>
+stream
+BT
+/F2 11 Tf
+54 738 Td
 /F1 9 Tf (importers and distributors there hold the purchase order, and the country itself does not.) Tj
 0 -12 Td
 /F1 9 Tf (Need is 5. The official heading names this product, so the import value is a direct Comtrade) Tj
@@ -732,23 +773,16 @@ BT
 0 -12 Td
 /F1 9 Tf (Source: UN Comtrade public preview API, HS 150920, 2024 imports from World -) Tj
 0 -12 Td
-/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=150920&maxRecords=500&includeDesc=true) Tj
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&) Tj
+0 -12 Td
+/F1 9 Tf (cmdCode=150920&maxRecords=500&includeDesc=true) Tj
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
 /F2 11 Tf (13. Germany - reported imports of HS 150920) Tj
 0 -12 Td
 /F1 9 Tf () Tj
-ET
-BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 6 of 8  |  Built by Nidhi Karuturi) Tj ET
-endstream
-endobj
-9 0 obj
-<< /Length 3832 >>
-stream
-BT
-/F2 11 Tf
-54 738 Td
+0 -12 Td
 /F1 9 Tf (- Type: Importing country) Tj
 0 -12 Td
 /F1 9 Tf (- Money: 3 / 5) Tj
@@ -761,7 +795,9 @@ BT
 0 -12 Td
 /F1 9 Tf (- Link:) Tj
 0 -12 Td
-/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=150920&maxRecords=500&includeDesc=true) Tj
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&) Tj
+0 -12 Td
+/F1 9 Tf (cmdCode=150920&maxRecords=500&includeDesc=true) Tj
 0 -12 Td
 /F1 9 Tf (- primaryValue USD: 609926935.02) Tj
 0 -12 Td
@@ -769,7 +805,7 @@ BT
 0 -12 Td
 /F1 9 Tf (- Quantity: 57223786.388 kg \(estimated flag\)) Tj
 0 -12 Td
-/F1 9 Tf (- Rank among reporters: 6 of 130 in the stored Comtrade response) Tj
+/F1 9 Tf (- Rank among reporters: 6 of 129 in the stored Comtrade response) Tj
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
@@ -779,7 +815,7 @@ BT
 0 -12 Td
 /F1 9 Tf (primary value for partner World. Reported quantity: 57,223,786.388 kg \(Comtrade flagged the) Tj
 0 -12 Td
-/F1 9 Tf (quantity as estimated\). Money is 3 because this reporter ranks 6 of 130 reporters in that) Tj
+/F1 9 Tf (quantity as estimated\). Money is 3 because this reporter ranks 6 of 129 reporters in that) Tj
 0 -12 Td
 /F1 9 Tf (response by primaryValue. Authority is 4 because the country is where the buyers are:) Tj
 0 -12 Td
@@ -807,7 +843,9 @@ BT
 0 -12 Td
 /F1 9 Tf (Source: UN Comtrade public preview API, HS 150920, 2024 imports from World -) Tj
 0 -12 Td
-/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&cmdCode=150920&maxRecords=500&includeDesc=true) Tj
+/F1 9 Tf (https://comtradeapi.un.org/public/v1/preview/C/A/HS?flowCode=M&period=2024&partnerCode=0&) Tj
+0 -12 Td
+/F1 9 Tf (cmdCode=150920&maxRecords=500&includeDesc=true) Tj
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
@@ -815,7 +853,7 @@ BT
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
-/F1 9 Tf (- Type: Marketplace) Tj
+/F1 9 Tf (- Type: Marketplace / directory) Tj
 0 -12 Td
 /F1 9 Tf (- Money: 3 / 5) Tj
 0 -12 Td
@@ -824,7 +862,16 @@ BT
 /F1 9 Tf (- Need: 3 / 5) Tj
 0 -12 Td
 /F1 9 Tf (- Total: 8 / 15) Tj
-0 -12 Td
+ET
+BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 7 of 8  |  Built by Nidhi Karuturi) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Length 2352 >>
+stream
+BT
+/F2 11 Tf
+54 738 Td
 /F1 9 Tf (- Link: https://www.alibaba.com/) Tj
 0 -12 Td
 /F1 9 Tf () Tj
@@ -862,16 +909,7 @@ BT
 /F1 9 Tf (- Link: https://www.internationaloliveoil.org/) Tj
 0 -12 Td
 /F1 9 Tf () Tj
-ET
-BT /F1 8 Tf 54 32 Td (BuyerRadar  |  page 7 of 8  |  Built by Nidhi Karuturi) Tj ET
-endstream
-endobj
-10 0 obj
-<< /Length 1404 >>
-stream
-BT
-/F2 11 Tf
-54 738 Td
+0 -12 Td
 /F1 9 Tf (The International Olive Council \(internationaloliveoil.org\) is the intergovernmental) Tj
 0 -12 Td
 /F1 9 Tf (olive-oil body. Money is 2 because it does not import oil. Authority is 2. Need is 4 because) Tj
@@ -900,9 +938,13 @@ BT
 0 -12 Td
 /F1 9 Tf (Comtrade primaryValue literal from the query above. BuyerRadar did not estimate a market) Tj
 0 -12 Td
-/F1 9 Tf (size, a growth rate, or a buyer count. A static site cannot check a PayPal payment on a) Tj
+/F1 9 Tf (size, a growth rate, or a buyer count.) Tj
 0 -12 Td
-/F1 9 Tf (server; the button is the PayPal Smart Buttons client flow.) Tj
+/F1 9 Tf () Tj
+0 -12 Td
+/F1 9 Tf (Contact: nidhi69n@gmail.com) Tj
+0 -12 Td
+/F1 9 Tf (Refunds: email within 7 days with your order id.) Tj
 0 -12 Td
 /F1 9 Tf () Tj
 0 -12 Td
@@ -949,24 +991,24 @@ xref
 0000000009 00000 n 
 0000000106 00000 n 
 0000000208 00000 n 
-0000004058 00000 n 
-0000008236 00000 n 
-0000011652 00000 n 
-0000016199 00000 n 
-0000019870 00000 n 
-0000024717 00000 n 
-0000028600 00000 n 
-0000030056 00000 n 
-0000030164 00000 n 
-0000030302 00000 n 
-0000030440 00000 n 
-0000030578 00000 n 
-0000030716 00000 n 
-0000030854 00000 n 
-0000030992 00000 n 
-0000031130 00000 n 
-0000031269 00000 n 
+0000004166 00000 n 
+0000007974 00000 n 
+0000011727 00000 n 
+0000015882 00000 n 
+0000019997 00000 n 
+0000024302 00000 n 
+0000028686 00000 n 
+0000031090 00000 n 
+0000031198 00000 n 
+0000031336 00000 n 
+0000031474 00000 n 
+0000031612 00000 n 
+0000031750 00000 n 
+0000031888 00000 n 
+0000032026 00000 n 
+0000032164 00000 n 
+0000032303 00000 n 
 trailer << /Size 21 /Root 20 0 R >>
 startxref
-31320
+32354
 %%EOF
